@@ -2238,7 +2238,7 @@ positive lookahead,先行肯定検索
 post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
-posting list
+posting list,投稿されたリスト
 power,パワー
 pragma,プラグマ
 precipitation,降水量
