@@ -1,0 +1,384 @@
+allocation,アロケーション
+allocation,割り当て
+approach,アプローチ
+approach,方法
+autovacuum,オートバキューム
+autovacuum,自動バキューム
+Backend Interface,バックエンドインターフェイス
+Backend Interface,バックエンドインタフェース
+background process,バックグラウンドプロセス
+background process,バックグランドプロセス
+background worker process,バックグラウンドワーカープロセス
+background worker process,バックグランドワーカープロセス
+background writer,バックグラウンドライタ
+background writer,バックグラウンドライター
+background writer,バックグランドライタ
+backslash escape,バックスラッシュ
+backslash escape,バックスラッシュエスケープ
+backspace,バックスペース
+backspace,後退
+base table,ベーステーブル
+base table,基本テーブル
+battery,バッテリ
+battery,バッテリー
+block size,ブロックサイズ
+block size,ブロック容量
+bound,バウンド
+bound,境界
+branch,ブランチ
+branch,枝
+buffer overflow,バッファーオーバーフロー
+buffer overflow,バッファオーバーフロー
+business rules,ビジネス・ルール
+business rules,ビジネスルール
+cascading replication,カスケーディングレプリケーション
+cascading replication,カスケードレプリケーション
+chain,チェーン
+chain,チェイン
+channel,チャネル
+channel,チャンネル
+character set,キャラクタセット
+character set,文字セット
+cluster,クラスタ
+cluster,クラスター
+column,カラム
+column,列
+comma,カンマ
+comma,コンマ
+compiler option,コンパイラオプション
+compiler option,コンパイルオプション
+composite type,コンポジットタイプ
+composite type,複合型
+concept,コンセプト
+concept,概念
+connection,コネクション
+connection,接続
+connection-pooling software,コネクションプールソフトウェア
+connection-pooling software,接続プールソフトウェア
+constructor,コンストラクタ
+constructor,生成子
+copyright,Copyright
+copyright,製作著作
+copyright,著作権
+data type,データタイプ
+data type,データ型
+data wrapper,データラッパ
+data wrapper,データラッパー
+database encoding,データベースエンコーディング
+database encoding,データベースエンコード
+delimiter,デリミタ
+delimiter,区切り文字
+descriptor,ディスクリプタ
+descriptor,デスクリプタ
+dirty,ダーティ
+dirty,ダーティー
+dirty data pages,ダーティデータページ
+dirty data pages,ダーティページデータ
+disk access,ディスク・アクセス
+disk access,ディスクアクセス
+distribution,ディストリビューション
+distribution,配布物
+document,ドキュメント
+document,文書
+entity,エンティティ
+entity,実体
+entity-relationship model,エンティティリレーションモデル
+entry,エントリ
+entry,エントリー
+entry point,エントリーポイント
+entry point,エントリポイント
+event triggers,イベントトリガ
+event triggers,イベントトリガー
+export,エキスポート
+export,エクスポート
+extension,extension
+extension,エクステンション
+extension,拡張
+failover,フェールオーバ
+failover,フェイルオーバ
+failover,フェイルオーバー
+family,ファミリ
+family,ファミリー
+fast-path,ファストパス
+fast-path,近道
+fetch,フェッチ
+fetch,取り出し
+Fiji,フィージー
+Fiji,フィジー
+Fiji,フィジィ
+file descriptor,ファイルディスクリプタ
+file descriptor,ファイルデスクリプタ
+filter,フィルタ
+filter,フィルター
+filtering,フィルタリング
+filtering,フィルタ処理
+foreign data wrapper,データラッパの作成
+foreign data wrapper,外部データラッパ
+format,フォーマット
+format,書式
+French,フランス
+French,フランス語
+function,ファンクション
+function,関数
+garbage data,ごみデータ
+garbage data,ゴミデータ
+greedy,最短マッチを行わない（欲張り型）
+greedy,欲張りの
+Gregorian,グレゴリア
+Gregorian,グレゴリオ
+header,ヘッダ
+header,ヘッダー
+histogram,ヒストグラム
+histogram,度数分布
+image,イメージ
+image,画像
+index,インデック
+index,インデックス
+index-only scans,インデックスオンリースキャン
+index-only scans,インデックスオンリースキャン(index-only scan)
+installation,インストール
+installation,インストレーション
+interface,インターフェース
+interface,インターフェイス
+interface,インタフェース
+item,アイテム
+item,項目
+Julian date,ユリウス日
+Julian date,ユリウス日
+Junk,ゴミ
+Junk,ジャンク
+label,label
+label,ラベル
+lexemes,語彙素
+lexemes,語彙素(lexemes)
+lexemes,字句単位
+lexer,レクサ
+lexer,字句解析
+lexical,レキシカル
+lexical,語彙
+locale,ロケール
+locale,ロケール
+mapping,マッピング
+mapping,写像
+master,マスタ
+master,マスター
+master process,マスタープロセス
+master process,マスタプロセス
+master server,マスターサーバ
+master server,マスタサーバ
+master table,マスターテーブル
+master table,マスタテーブル
+mechanism,メカニズム
+mechanism,機構
+membership,メンバーシップ
+membership,メンバシップ
+membership,メンバ資格
+memory,メモリ
+memory,メモリー
+memory leak,メモリーリーク
+memory leak,メモリリーク
+named,記名的
+named,名前付け
+nested loop join,ネストループジョイン
+nested loop join,入れ子ループ結合
+network byte order,ネットワークバイトオーダー
+network byte order,ネットワークバイト順
+non-greedy,最短マッチを行う
+non-greedy,最短マッチを行う（非欲張り型）
+note,ノート
+note,注意
+null,null
+null,ヌル
+open,オープン
+open,開いている
+operand,オペランド
+operand,演算項目
+operation,オペレーション
+operation,操作
+overflow,オーバーフロー
+overflow,オーバフロー
+overhead,オーバーヘッド
+overhead,オーバヘッド
+override,オーバーライド
+override,オーバライド
+overrun,オーバーラン
+overrun,オーバラン
+parameter,パラーメータ
+parameter,パラメータ
+peer authentication,peer認証
+peer authentication,ピア認証
+percentile,パーセンタイル
+percentile,百分位数
+permission,パーミッション
+permission,権限
+plan,プラン
+plan,計画
+planner,プランナ
+planner,問い合わせ計画
+platform,プラットフォーム
+platform,プラットホーム
+point-in-time recovery,ポイントインタイムリカバリ
+point-in-time recovery,ポイントインタイムリカバリ
+pointer,ポインタ
+pointer,ポインター
+port,ポート
+port,移植、移植性
+positional,位置
+positional,位置的
+prefix,プレフィックス
+prefix,接頭辞
+prepared transaction,プリペアードトランザクション
+prepared transaction,プリペアドトランザクション
+primary,プライマリ
+primary,プライマリー
+primary server,プライマリーサーバ
+primary server,プライマリサーバ
+procedure,プロシージャ
+procedure,プロシジャ
+proximity ranking,近接順序
+proximity ranking,適合性ランキング
+query,クエリ
+query,クエリー
+query,問い合わせ
+query,問合わせ
+query plan,クエリプラン
+query plan,問い合わせ計画
+quote,クォート
+quote,クオート
+RAID array,RAIDアレー
+RAID array,RAIDアレイ
+recovery,リカバリ
+recovery,リカバリー
+regression,リグレッション
+regression,レグレッション
+relation scheme,リレーションスキーマ
+relation scheme,リレーションスキーム
+repeatable read,リピータブルリード
+repeatable read,リピータブルリードレベル
+repository,リポジトリ
+repository,レポジトリ
+request,リクエスト
+request,要求
+role members,ロールメンバ
+role members,ロールメンバー
+roll forward,ロールフォーワード
+roll forward,ロールフォワード
+root directory,トップディレクトリ
+root directory,ルートディレクトリ
+routine,ルーチン
+routine,定常的
+runtime,ランタイム
+runtime,実行時
+scalability,スケーラビリティ
+scalability,スケールアウト性
+scalar,スカラ
+scalar,スカラー
+scale factor,スケールファクタ
+scale factor,スケールファクター
+scanner,スキャナ
+scanner,スキャナー
+section,セクション
+section,節
+selection,選択
+selection,淘汰
+selectivity,選択性
+selectivity,選択度
+semantics,セマンティクス
+semantics,セマンティックス
+semantics,セマンテックス
+sequential scan,シーケンシャルスキャン
+sequential scan,シーケンススキャン
+server,サーバ
+server,サーバー
+server log,サーバーログ
+server log,サーバログ
+service principal,サーバプリンシパル
+service principal,サービスプリンシパル
+snapshot,snapshot
+snapshot,スナップショット
+software,ソフト
+software,ソフトウェア
+standalone,スタンドアローン
+standalone,スタンドアロン
+standalone hot backups,スタンドアローンホットバックアップ
+standalone hot backups,スタンドアロンホットバックアップ
+standby server,スタンドバイサーバ
+standby server,スタンバイサーバ
+statement,ステートメント
+statement,文
+strategy,ストラテジ
+strategy,戦略
+style,スタイル
+style,様式
+subquery,サブクエリ
+subquery,副問い合わせ
+suffix,サフィックス
+suffix,接尾辞
+suite,スィート
+suite,スイート
+superuser,スーパーユーザ
+superuser,スーパユーザ
+system call,システム・コール
+system call,システムコール
+table,テーブル
+table,表
+tablespace,テーブルスペース
+tablespace,テーブル空間
+test suite,テストスィート
+test suite,テストスイート
+text search,テキストサーチ
+text search,テキスト検索
+tilde,チルダ
+tilde,ティルダ
+time travel,time travel
+time travel,タイムトラベル
+Tips,コツ
+Tips,性能に関するヒントPerformance
+Toast,TOAST
+Toast,トースト
+trace,トレース
+trace,追跡
+transformation process,書き換えプロセス
+transformation process,変換プロセス
+trigger,トリガ
+trigger,トリガー
+trigram,トライグラム
+trigram,トリグラム
+trusted procedure,トラステッド・プロシージャ
+trusted procedure,トラステッド・プロシジャ
+trusted procedure,トラステッドプロシジャ
+tuple relational calculus,タプルリレーショナル理論
+tuple relational calculus,タプルリレーショナル論理
+type,タイプ
+type,型
+unbound,アンバウンド
+unbound,アンバウンド
+Unicode,Unicode
+Unicode,ユニコード
+union,ユニオン
+union,和
+unique,ユニーク
+unique,一意な
+update,アップデート
+update,更新
+user,ユーザ
+user,ユーザー
+user interface,ユーザインターフェイス
+user interface,ユーザインタフェース
+validator,バリデータ
+validator,有効性検証関数
+vector,ベクタ
+vector,ベクター
+vector,ベクトル
+vendor,ベンダ
+vendor,ベンダー
+virtual table,仮想テーブル
+virtual table,仮想的なテーブル
+weight,ウェイト
+weight,重み
+worker,ワーカ
+worker,ワーカー
+wrapper,ラッパ
+wrapper,ラッパー
+writer,ライタ
+writer,ライター
