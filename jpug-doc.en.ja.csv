@@ -487,7 +487,6 @@ coding,コーディング
 collation derivation,照合の導出
 collation sequence,照合順
 collation,照合
-collecter,コレクタ
 collection of tables,テーブルの（そしてテーブルだけからなる）集合
 collector process,コレクタプロセス
 collector,コレクタ
@@ -1153,7 +1152,7 @@ fork,フォーク
 form feed,改ページ
 form,フォーム
 format code,書式コード
-format specifiers,format specifiers,正規集合
+format specifiers,正規集合
 format,フォーマット
 format,書式
 formats,書式
@@ -2228,7 +2227,7 @@ port,移植、移植性
 portal object,ポータルオブジェクト
 portal parameters,ポータルパラメータ
 portal,ポータル
-portals,,ポータル
+portals,ポータル
 porter,ポーター
 Portugal,ポルトガル
 position-independent code,位置独立なコード
@@ -2239,7 +2238,7 @@ positive lookahead,先行肯定検索
 post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
-posting list
+posting list,投稿されたリスト
 power,パワー
 pragma,プラグマ
 precipitation,降水量
