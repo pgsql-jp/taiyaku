@@ -139,19 +139,15 @@ backend server,バックエンドサーバ
 backend shutdown,バックエンドシャットダウン
 Backend stack size,バックエンドスタックサイズ
 backend,バックエンド
-background database processes,バックグランドデータベースプロセス
 background process,バックグラウンドプロセス
-background process,バックグランドプロセス
 background runner,バックグラウンドランナー
 background tables,バックグラウンドテーブル
 background worker process,バックグラウンドワーカープロセス
-background worker process,バックグランドワーカープロセス
 background worker processes,バックグラウンドワーカプロセス
 background worker,バックグラウンドワーカ
 background writer process's,バックグラウンドライタプロセス
 background writer,バックグラウンドライタ
 background writer,バックグラウンドライター
-background writer,バックグランドライタ
 background,バックグラウンド
 backlog queue,バックログキュー
 backport,バックポート
@@ -1140,7 +1136,7 @@ flush,フラッシュ
 font lock,フォントロック
 font,フォント
 footers,フッタ
-foreground process,フォアグランドプロセス
+foreground process,フォアグラウンドプロセス
 foreground,フォアグラウンド
 foreign data wrapper,データラッパの作成
 foreign data wrapper,外部データラッパ
