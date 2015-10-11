@@ -83,7 +83,6 @@ Argentina,アルゼンチン
 argument,引数
 Armenia,アルメニア
 array,配列
-array-attribute,配列属性
 ASCII-armor,ASCIIアーマー
 ASCII-art,アスキーアート
 Asia,アジア
@@ -108,9 +107,7 @@ authentication credentials,認証証明
 authentication,認証
 author,作者
 authority,権限
-auto-transactin mode,自動トランザクションモード
 Autochanger,オートチェンジャ
-autonumbering,自動付番
 autovacuum launcher,自動バキュームランチャ
 autovacuum processes,自動バキュームプロセス
 autovacuum transactions,自動バキュームトランザクション
@@ -154,7 +151,6 @@ backport,バックポート
 backslash command,バックスラッシュコマンド
 backslash commands,バックスラッシュコマンド
 backslash escape sequence,バックスラッシュエスケープシーケンス
-backslash escape,バックスラッシュ
 backslash escape,バックスラッシュエスケープ
 backslash,バックスラッシュ
 backspace,バックスペース
@@ -214,7 +210,7 @@ big-endian,ビッグエンディアン
 binary backups,バイナリバックアップ
 binary coercion casts,バイナリキャスト
 Binary copy,バイナリコピー
-binary cursor,双方向カーソル
+binary cursor,バイナリ形式のカーソル
 binary data,バイナリデータ
 binary file,バイナリファイル
 binary form,バイナリフォーム
@@ -276,7 +272,7 @@ board,ボード
 Bob,ボブ
 bookmarks,ブックマーク
 boolean expression,ブール式
-boolean value,ブール値　
+boolean value,ブール値
 boolean,ブーリアン
 boot,ブート
 bootstrap catalogs,ブートストラップカタログ
@@ -487,7 +483,8 @@ collection of tables,テーブルの（そしてテーブルだけからなる�
 collector process,コレクタプロセス
 collector,コレクタ
 colon,コロン
-column alias,カラムエイリアス
+column alias,カラム別名
+column alias,列別名
 column label,列ラベル
 column signature,カラムシグネチャ
 column,カラム
@@ -615,7 +612,6 @@ copy-out data,コピーアウトデータ
 copy-out mode,コピーアウトモード
 copy-out,コピーアウト
 Copyright,Copyright
-Copyright,製作著作
 copyright,著作権
 core backend,コアバックエンド
 core catalogs,コアカタログ
@@ -844,7 +840,6 @@ digest algorithm,ダイジェストアルゴリズム
 digest,ダイジェスト
 direct arguments,直接引数
 direct Attached Storage,ダイレクトアタッチドストレージ
-directed acyclic graph,有効非巡回グラフ
 directive,ディレクティブ
 directives,指示子
 director,決定子
@@ -931,7 +926,7 @@ dump script,ダンプスクリプト
 dump,ダンプ
 dynamic link,動的リンク
 dynamic loader,動的ローダ
-dynamic loading,動的読み込み
+dynamic loading,動的ロード
 dynamic-linker,ダイナミックリンカ
 ECC,ECC
 ECPG host application,ECPGホストアプリケーション
@@ -973,7 +968,6 @@ epoch timestamp,エポックタイムスタンプ
 epoch,エポック
 equal to,等しい
 equality operator,等価演算子
-equijoins,等価結合
 erratic core dumps,エラーコアダンプ
 error checking,エラーチェック
 error class,エラークラス
@@ -1233,7 +1227,7 @@ guest,ゲスト
 guests,ゲスト
 guide,ガイド
 guidelines,ガイドライン
-hack,ハック
+hack,実装
 Haiti,ハイチ
 handle,ハンドル
 handler,ハンドラ
@@ -1384,7 +1378,6 @@ index support,インデックスサポート
 index tree,インデックスツリー
 index tuple headers,インデックスタプルヘッダ
 index tuple,インデックスタプル
-index,インデック
 index,インデックス
 index-level,インデックスレベル
 index-only scan,インデックスオンリースキャン
@@ -1429,14 +1422,13 @@ intermediate table,中間テーブル
 internet address,インターネットアドレス
 internet domain routing,インターネットドメインルーティング
 internet,インターネット
-interpolate,補間、差し替え
+interpolate,差し替え
 interpreter,インタプリタ
 intersection,積
 interval,インターバル
 introduction,序文
 invalid record,無効なレコード
 inversion,転置
-ip address,ipアドレス
 iraq,イラク
 iso,iso
 isolation level,隔離レベル
@@ -1463,7 +1455,7 @@ journaled file systems,ジャーナルファイルシステム
 Journaling,ジャーナリング
 JSON,JSON
 jsonb,jsonb
-Julian calendar,ユリウス歴
+Julian calendar,ユリウス暦
 Julian Date,ユリウス日
 Julian date,ユリウス日
 Julius Caesar,ユリウス・カエサル
@@ -1494,7 +1486,6 @@ key data,キーデータ
 key error,キーエラー
 key field,キーフィールド
 key file,キーファイル
-key set query optimizer,キーセット問い合わせオプティマイザ
 key trigger,キートリガ
 key word,キーワード
 key words,キーワード
@@ -1514,7 +1505,7 @@ label trees,ラベルツリー
 label,label
 label,ラベル
 label-based,ラベルベース
-language extension,拡張言語
+language extension,言語拡張
 language,言語
 laptops,ラップトップ
 large files,ラージファイル
@@ -1571,12 +1562,10 @@ libxslt,libxslt
 Libya,リビア
 License,ライセンス
 Liechtenstein,リヒテンシュタイン
-LIKE operator,LIKE演算子
 like,ライク
 line feed,ラインフィード
 line numbers,行番号
 Linear,リニア
-link editing,リンク作業
 link editor,リンクエディタ
 link mode,リンクモード
 link symbol,リンクシンボル
@@ -1590,7 +1579,6 @@ linker,リンカ
 list,リスト
 listen,監視する
 listener,リスナ
-listing command,リストコマンド
 literal data,リテラルデータ
 literal parser,リテラルパーサ
 literal processor,リテラルプロセッサ
@@ -1839,7 +1827,7 @@ mirroring,ミラーリング
 misspellings,ミススペル
 mistake,ミス
 mixed,混在
-mnemonic,ニーモニック
+mnemonic,記憶の助け
 mode flags,モードフラグ
 mode options,モードオプション
 mode,モード
@@ -1863,7 +1851,6 @@ multi,マルチ
 multi-byte encodings,マルチバイトエンコーディング
 multi-byte,マルチバイト
 multi-process,マルチプロセス
-multi-version concurrency control,マルチバージョン同時性制御
 multibyte encoding,マルチバイト符号化方式
 multibyte,マルチバイト
 multicast,マルチキャスト
@@ -1880,9 +1867,8 @@ multithreading option,マルチスレッドオプション
 multitransaction,マルチトランザクション
 multiuser,マルチユーザ
 multiversion concurrency control,多版同時実行制御
+multixact ID,マルチトランザクションID
 multixact ID wraparound,マルチトランザクションIDの周回
-multixact ids,マルチトランザクションid
-multixact,multixact
 mutation,突然変異
 mutexes,ミューテクス
 MVCC,MVCC
@@ -1925,17 +1911,13 @@ New York,ニューヨーク
 New Zealand,ニュージーランド
 newline,改行
 newlines,改行
-niladic,無引数の ニラディック
-no log storage manager,「ログ無し」記憶管理
 no operation,ノーオペレーション
-no overwrite storage manager,「追記型」記憶管理
 node label,ノードラベル
 node set,ノードセット
 node,ノード
 nodes,ノード
 noise,ノイズ
 non-blocking,ノンブロック
-non-equijoins,非等価結合
 non-fiction books,ノンフィクション小説
 non-greedy,最短マッチを行う
 non-greedy,最短マッチを行う（非欲張り型）
@@ -1945,6 +1927,7 @@ non-session processes,非セッションプロセス
 non-superusers,非スーパーユーザ
 nonblocking mode,非ブロックモード
 nonmasked bits,非マスクビット
+nonnull,非NULL
 normalization,正規化
 normalize,正規化
 normalized,正規化
@@ -1953,8 +1936,7 @@ Norwegian dictionary,ノルウェー辞書
 note,ノート
 note,注意
 notification,通知
-notifier,通知者 通知側
-notify condition,通知条件
+notifier,通知者
 Novokuznetsk,ノヴォクズネツク
 null bitmap,ヌルビットマップ
 null byte,ヌルバイト
@@ -2219,7 +2201,8 @@ pop-up,ポップアップ
 population,群
 port forwarding,ポートフォワード
 port,ポート
-port,移植、移植性
+port,移植
+port,移植性
 portal object,ポータルオブジェクト
 portal parameters,ポータルパラメータ
 portal,ポータル
@@ -2234,7 +2217,7 @@ positive lookahead,先行肯定検索
 post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
-posting list,投稿されたリスト
+posting list,ポスティングリスト
 power,パワー
 pragma,プラグマ
 precipitation,降水量
@@ -2338,7 +2321,7 @@ public-key algorithms,公開キーアルゴリズム
 push down,プッシュダウン
 push,プッシュ
 Python,Python
-qualification,制約 制限事項
+qualification,条件
 qualifications,検索条件
 qualified JOINs,修飾結合
 qualified name,修飾名
@@ -2514,7 +2497,8 @@ restart,リスタート
 restartpoints,リスタートポイント
 restore point,リストアポイント
 restore,リストア
-restriction,制約、制限
+restriction,制約
+restriction,制限
 retreival,抽出
 retry flags,リトライフラグ
 retry,リトライ
@@ -2568,7 +2552,6 @@ rule system,ルールシステム
 rule,ルール
 rules,ルール
 Run-time interface,ランタイムインタフェース
-running function,ランニング関数
 running total,累計
 runtime,ランタイム
 runtime,実行時
@@ -2627,7 +2610,7 @@ schema,スキーマ
 schemas,スキーマ
 scope,スコープ
 screen,スクリーン
-Screw,Screw(ネジ)
+Screw,Screw（ネジ）
 script data,スクリプトデータ
 script file meta commands,スクリプトファイルメタコマンド
 script file,スクリプトファイル
@@ -2777,7 +2760,7 @@ session-local,セッションローカル
 set encoding,セットエンコーディング
 set support,セットサポート
 set,セット
-set-valued attributes,組属性
+set-valued,セット値
 setup code,セットアップコード
 setup program,セットアッププログラム
 setup,セットアップ
@@ -2787,8 +2770,7 @@ shared library segments,共有ライブラリセグメント
 shared library,共有ライブラリ
 shared memory,共有メモリ
 shared object,共有オブジェクト
-shared resources,共有資源
-sharp,シャープ
+sharp,シャープ記号
 shell command line,シェルコマンドライン
 shell command,シェルコマンド
 shell program,シェルプログラム
@@ -2832,7 +2814,6 @@ slave,スレーブ
 sleep,スリープ
 slice,スライス
 sliced bread,スライスパン
-slot's logical decoding plugin,論理デコードプラグインスロット
 slot,スロット
 smart failover,スマートフェイルオーバー
 smart shutdown,スマートシャットダウン
@@ -2922,7 +2903,6 @@ standby instance,スタンバイインスタンス
 standby mode,スタンバイモード
 standby recovery,スタンバイリカバリ
 standby replication server,スタンバイ・リプリケーションサーバ
-standby server,スタンドバイサーバ
 standby server,スタンバイサーバ
 standby servers,スタンバイサーバ
 standby system,スタンバイシステム
@@ -2952,7 +2932,7 @@ stop words,ストップワード
 storage area networks,ストレージエリアネットワーク
 storage area,格納領域
 storage hardware,ストレージハードウェア
-storage manager number,ストレッジマネジャ数
+storage manager,ストレージ管理
 storage parameters,ストレージパラメータ
 storage system,保存システム
 storage,ストレージ
@@ -2971,10 +2951,10 @@ string,文字列
 string-escaping routines,文字列エスケープルーチン
 strip,ストリップ
 stripe,ストライプ
-struct varlena,varlena構造体
+struct varlena,struct varlena
 stub,スタブ
 style guide,スタイルガイド
-style of the unix tool,unixツールスタイル
+style of the unix tool,Unixツールスタイル
 style,スタイル
 style,様式
 stylesheet commands,スタイルシートコマンド
@@ -2985,7 +2965,6 @@ sub-partitions,サブパーティション
 sub-protocol,サブプロトコル
 sub-query,副問い合わせ
 sub-routine module,サブルーチンモジュール
-sub-values,部分値
 subarrays,部分配列
 subblock,副ブロック
 subcategories,サブカテゴリ
@@ -3063,7 +3042,6 @@ system catalog schema,システムカタログスキーマ
 system catalog tables,システムカタログテーブル
 system catalog,システムカタログ
 system catalogs,システムカタログ
-system column,システムカラム
 system columns,システム列
 system compiler,システムコンパイラ
 system crash,システムクラッシュ
@@ -3164,7 +3142,7 @@ The core database system,コアデータベースシステム
 The default port,デフォルトポート
 The file system level,ファイルシステムレベル
 The host program,ホストプログラム
-the installation instructions,インストールマニュアル
+the installation instructions,インストール手順
 The main database engine,メインデータベースエンジン
 The main server process,メインサーバプロセス
 The main server,メインサーバ
@@ -3176,7 +3154,6 @@ The primary key field,プライマリキーフィールド
 The relation tuples,リレーションタプル
 The Rule System,ルールシステム
 The system path,システムパス
-the system statistics,システム統計
 The zero mask,ゼロマスク
 Thesaurus,シソーラス
 Third-party applications,サードパーティアプリケーション
@@ -3212,7 +3189,7 @@ timezone,タイムゾーン
 Timing overhead,タイミング・オーバーヘッド
 Timing,タイミング
 tips,コツ
-Tips,性能に関するヒントPerformance
+Performance Tips,性能に関するヒント
 title,タイトル
 TOAST,TOAST
 Toast,トースト
@@ -3304,7 +3281,6 @@ tuple headers,タプルヘッダ
 tuple identifiers,タプル識別子
 tuple index,タプルインデックス
 tuple locks,タプル・ロック
-tuple relational calculus,タプルリレーショナル理論
 tuple relational calculus,タプルリレーショナル論理
 tuple table slot,タプルテーブルスロット
 tuple table,タプルテーブル
@@ -3382,7 +3358,6 @@ user mapping,ユーザマッピング
 user objects,ユーザオブジェクト
 user password,ユーザパスワード
 user principal,ユーザプリンシパル
-user qualification,ユーザ資格
 user roles,ユーザロール
 user sequences,ユーザシーケンス
 user sessions,ユーザセッション
@@ -3443,9 +3418,9 @@ volume,ボリューム
 volunteers,ボランティア
 VPATH,VPATH
 WAL archiver,WALアーカイバ
-wal block size,walブロック容量
+WAL block size,WALブロック容量
 WAL file archiving,WALファイルアーカイブ
-wal segment size,walセグメント容量
+wal segment size,WALセグメント容量
 Wally,ウィリー
 warm standby server,ウォームスタンバイサーバ
 warm standby slave servers,ウォームスタンバイスレーブサーバ
