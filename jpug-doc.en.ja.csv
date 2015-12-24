@@ -52,6 +52,7 @@ Alice,アリス
 allocation,アロケーション
 allocation,割り当て
 alphabetical order,アルファベット順
+America/Adak,America/Adak
 ampersand,アンパサンド
 analyze,アナライズ
 announce,アナウンス
@@ -73,6 +74,7 @@ application's thread,アプリケーションスレッド
 application,アプリケーション
 approach,アプローチ
 approach,方法
+Arabia,アラビア
 Arabic,アラビア語
 architecture,アーキテクチャ
 archive command,アーカイブコマンド
@@ -279,6 +281,7 @@ bootstrap catalogs,ブートストラップカタログ
 bootstrap superuser,ブートストラップスーパーユーザ
 bootstrap,ブートストラップ
 bottleneck,ボトルネック
+Bougainville,ブーガンビル
 bound cursor,バウンドカーソル
 bound,バウンド
 bound,境界
@@ -354,6 +357,7 @@ call,呼び出し
 callback Routines,コールバックルーチン
 callback,コールバック
 Canada,カナダ
+Canadian Northern Rockies,カナダ・ノーザンロッキー
 cancel requests,キャンセルリクエスト
 cancel,キャンセル
 canonicalization,正規化
@@ -674,6 +678,7 @@ custom,カスタム
 customize,カスタマイズ
 cut-off,カットオフ
 cutoff point,カットオフポイント
+Cyaman Islands,ケイマン諸島
 cycle,サイクル
 cyclone,サイクロン
 Cyrillic,キリル
@@ -1305,6 +1310,7 @@ histogram bins,度数分布ビン
 histogram bucket,ヒストグラムバケット
 histogram,ヒストグラム
 histogram,度数分布
+historical changes,歴史的変更
 Hit,ヒット
 holder,ホルダー
 home directory,ホームディレクトリ
@@ -1336,6 +1342,7 @@ hyperlinks,ハイパーリンク
 Hyphen,ハイフン
 IBM,IBM
 ice cream,アイスクリーム
+Iceland,アイスランド
 idea,アイディア
 identifier,識別子
 identifiers,識別子
@@ -1429,10 +1436,10 @@ interval,インターバル
 introduction,序文
 invalid record,無効なレコード
 inversion,転置
-iraq,イラク
+Iraq,イラク
 iso,iso
 isolation level,隔離レベル
-israel,イスラエル
+Israel,イスラエル
 istory file,ヒストリファイル
 Italy,イタリア
 item layout,アイテムレイアウト
@@ -1836,6 +1843,8 @@ modifier,修飾子
 module support,モジュールサポート
 modules interfacing,インタフェースモジュール
 modules,モジュール
+Moldova,モルドバ
+Mongolia,モンゴル
 monitor,モニタ
 monitoring tools,モニタリングツール
 monitoring,監視
@@ -1928,10 +1937,12 @@ non-superusers,非スーパーユーザ
 nonblocking mode,非ブロックモード
 nonmasked bits,非マスクビット
 nonnull,非NULL
+Norfolk Island,ノーフォーク島
 normalization,正規化
 normalize,正規化
 normalized,正規化
 North American east,北アメリカ東海岸
+North Korea,北朝鮮
 Norwegian dictionary,ノルウェー辞書
 note,ノート
 note,注意
@@ -2069,6 +2080,7 @@ Pakistan,パキスタン
 Palestine,パレスチナ
 panic message,パニックメッセージ
 panic,パニック
+Papua New Guinea,パプアニューギニア
 Paraguay,パラグアイ
 parallel universes,パラレルユニバース
 parameter data,パラメータデータ
@@ -2136,6 +2148,7 @@ percent,パーセント
 percent-encode,パーセントエスケープ
 percentile,パーセンタイル
 percentile,百分位数
+Performance Tips,性能に関するヒント
 performance tuning,パフォーマンスチューニング
 performance,パフォーマンス
 period,ピリオド
@@ -3189,7 +3202,6 @@ timezone,タイムゾーン
 Timing overhead,タイミング・オーバーヘッド
 Timing,タイミング
 tips,コツ
-Performance Tips,性能に関するヒント
 title,タイトル
 TOAST,TOAST
 Toast,トースト
@@ -3335,6 +3347,7 @@ update,アップデート
 update,更新
 upgrade script,アップグレードスクリプト
 upgrade,アップグレード
+Uruguay,ウルグアイ
 Use Case,ユースケース
 user account,ユーザアカウント
 user applications,ユーザアプリケーション
