@@ -1,15 +1,11 @@
 en,ja
-a fact table,ファクトテーブル
-a master,マスタ
-a primary heap disk file,プライマリヒープディスクファイル
-a quoted identifier,引用符で囲まれた識別子
-a system clock,システムクロック
 abort,アボート
+abort,中断
 abstract,アブストラクト
 abstraction,抽象化
 abstruct data type,抽象データ型
 accents,アクセント
-Access Control List,アクセス制御リスト
+access control list,アクセス制御リスト
 access costs,アクセスコスト
 access count,アクセスカウント
 access logs,アクセスログ
@@ -21,32 +17,29 @@ access rights,アクセス権
 access,アクセス
 account,アカウント
 ACL,ACL
-Acronyms,頭字語
+acronyms,頭字語
 action code,アクションコード
 actions,アクション
-Active Directory,アクティブディレクトリ
+active directory,アクティブディレクトリ
 active,アクティブ
 add-in's,アドイン
-Add-ins,アドイン
+add-ins,アドイン
 add-ons,アドオン
 address field,アドレスフィールド
 address space,アドレス空間
-Address Types,アドレスデータ型
 address,アドレス
 admin option,アドミンオプション
-Advanced Features,高度な諸機能
+advanced features,高度な諸機能
 advanced,高度な
 advice,アドバイス
 advisory lock,アドバイザリロック
-advisory locks,勧告的ロック
-after,後
+advisory lock,勧告的ロック
 aggregate expression,集約式
 aggregate functions,集約関数
 aggregate,集約
 aggregated arguments,集約引数
 Alaska,アラスカ
 algorithm,アルゴリズム
-algorithms,アルゴリズム
 alias,別名
 Alice,アリス
 allocation,アロケーション
@@ -57,7 +50,8 @@ ampersand,アンパサンド
 analyze,アナライズ
 announce,アナウンス
 ANSI,ANSI
-Anti,アンチ
+anti,アンチ
+anti-join,アンチ結合
 Anti-virus,アンチウィルス
 anti-wraparound,ラップアラウンド防止
 API,API
@@ -110,6 +104,7 @@ authentication,認証
 author,作者
 authority,権限
 Autochanger,オートチェンジャ
+autovacuum daemon,自動バキュームデーモン
 autovacuum launcher,自動バキュームランチャ
 autovacuum processes,自動バキュームプロセス
 autovacuum transactions,自動バキュームトランザクション
@@ -125,10 +120,9 @@ back references,後方参照
 back-patch,バックパッチ
 backed-up data,バックアップデータ
 backend header files,バックエンドヘッダファイル
-Backend interface,バックエンドインターフェイス
-Backend Interface,バックエンドインタフェース
+backend interface,バックエンドインターフェイス
 backend macros,バックエンドマクロ
-Backend memory,バックエンドメモリ
+backend memory,バックエンドメモリ
 backend message,バックエンドメッセージ
 backend parameters,バックエンドパラメータ
 backend process,バックエンドプロセス
@@ -136,7 +130,7 @@ backend protocol,バックエンドプロトコル
 backend server process,バックエンドサーバプロセス
 backend server,バックエンドサーバ
 backend shutdown,バックエンドシャットダウン
-Backend stack size,バックエンドスタックサイズ
+backend stack size,バックエンドスタックサイズ
 backend,バックエンド
 background process,バックグラウンドプロセス
 background runner,バックグラウンドランナー
@@ -285,8 +279,10 @@ Bougainville,ブーガンビル
 bound cursor,バウンドカーソル
 bound,バウンド
 bound,境界
+bounding box,外接矩形
 bounds,バウンド
 box,ボックス
+box,矩形
 bracket expression,ブラケット式
 bracket,ブラケット
 brackets,括弧
@@ -620,6 +616,7 @@ copyright,著作権
 core backend,コアバックエンド
 core catalogs,コアカタログ
 core code,コアコード
+core database system,コアデータベースシステム
 core dump,コアダンプ
 core error,コアエラー
 core planner,コアプランナ
@@ -814,6 +811,7 @@ default mode,デフォルトモード
 default option,デフォルトオプション
 default parameters,デフォルトパラメータ
 default parser,デフォルトパーサ
+default port,デフォルトポート
 default security label,デフォルトセキュリティラベル
 default style,デフォルトスタイル
 default table,デフォルトテーブル
@@ -1049,6 +1047,7 @@ extension,拡張
 extent,エクステント
 external projects,外部プロジェクト
 facilities,ファシリティ
+fact table,ファクトテーブル
 factor,ファクタ
 failover cluster,フェールオーバクラスタ
 failover signal,フェイルオーバシグナル
@@ -1101,6 +1100,7 @@ file system access,ファイルシステムアクセス
 file system backup,ファイルシステムバックアップ
 file system cache,ファイルシステムキャッシュ
 file system layout,ファイルシステムレイアウト
+file system level,ファイルシステムレベル
 file system replication,ファイルシステムレプリケーション
 file system,ファイルシステム
 file version stamps,ファイルバージョンスタンプ
@@ -1319,6 +1319,7 @@ hook,フック
 host address,ホストアドレス
 host language,ホスト言語
 host mask,ホストマスク
+host program,ホストプログラム
 host system,ホストシステム
 host variable,ホスト変数
 host variables,ホスト変数
@@ -1406,6 +1407,7 @@ inline handler,インラインハンドラ
 inline,インライン
 install scripts,インストールスクリプト
 installation directory,インストレーションディレクトリ
+installation instructions,インストール手順
 installation tree,インストールツリー
 installation,インストール
 installation,インストレーション
@@ -1696,9 +1698,13 @@ mailing list,メーリングリスト
 mailing lists,メーリングリスト
 Main catalog file,メインカタログファイル
 main copy,メインコピー
+main database engine,メインデータベースエンジン
 main lock table,メインロックテーブル
 main loop,メインループ
 main parser,メインパーサ
+main server process,メインサーバプロセス
+main server,メインサーバ
+main table,メインテーブル
 Main,メイン
 maintenance commands,メンテナンスコマンド
 maintenance level,メンテナンスレベル
@@ -1807,6 +1813,7 @@ message payload,メッセージペイロード
 message queue,メッセージキュー
 message sets,メッセージセット
 message stream,メッセージストリーム
+message text,メッセージテキスト
 message,メッセージ
 message-based,メッセージベース
 message-digest,メッセージダイジェスト
@@ -2002,6 +2009,7 @@ operating system user,オペレーティングシステムユーザ
 operating system utilities,オペレーティングシステムユーティリティ
 operating system,オペレーティングシステム
 operating-system calls,オペレーティングシステムコール
+operating system level,オペレーティングシステムレベル
 operation,オペレーション
 operation,操作
 operator class,演算子クラス
@@ -2233,6 +2241,7 @@ POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
 posting list,ポスティングリスト
 power,パワー
+power set,べき集合
 pragma,プラグマ
 precipitation,降水量
 precision,精度
@@ -2260,7 +2269,9 @@ preprocess,前処理
 preprocessor program,プリプロセッサプログラム
 preprocessor,プリプロセッサ
 prewarm,プレウォーム
+primary heap disk file,プライマリヒープディスクファイル
 primary keepalive message,プライマリキープアライブメッセージ
+primary key field,プライマリキーフィールド
 primary key,プライマリキー
 primary node,プライマリノード
 primary server,プライマリーサーバ
@@ -2335,8 +2346,8 @@ public-key algorithms,公開キーアルゴリズム
 push down,プッシュダウン
 push,プッシュ
 Python,Python
-qualification,条件
-qualifications,検索条件
+qual,条件
+qualification,検索条件
 qualified JOINs,修飾結合
 qualified name,修飾名
 qualifier,修飾子
@@ -2363,6 +2374,7 @@ queue,キュー
 quota,クォータ
 quote,クォート
 quote,クオート
+quoted identifier,引用符で囲まれた識別子
 radians,ラジアン
 RAID array,RAIDアレー
 RAID array,RAIDアレイ
@@ -2425,8 +2437,8 @@ registry entries,レジストリエントリ
 registry,レジストリ
 regression test suite,リグレッションテストスイート
 regression test,リグレッションテスト
+regression test,リグレッション試験
 regression,リグレッション
-regression,レグレッション
 regular expression,正規表現
 relation cache,リレーションキャッシュ
 relation data,リレーションデータ
@@ -2448,6 +2460,7 @@ relational database,リレーショナルデータベース
 relational mode,リレーショナルモデル
 relational tables,リレーショナルテーブル
 relational,リレーショナル
+relation tuples,リレーションタプル
 relations,リレーション
 relationship,関連
 relationships,リレーション
@@ -2582,12 +2595,12 @@ sample program,サンプルプログラム
 sample shell,サンプルシェル
 sample,サンプル
 sampling error,サンプリングエラー
+sampling method,サンプリングメソッド
 sampling,サンプリング
 sanitizing,サニタイズ
 San_Luis,サンルイス
 savepoint,セーブポイント
 savepoints,セーブポイント
-Scala,スカラ
 scalability,スケーラビリティ
 scalability,スケールアウト性
 scalar context,スカラコンテキスト
@@ -2624,7 +2637,7 @@ schema,スキーマ
 schemas,スキーマ
 scope,スコープ
 screen,スクリーン
-Screw,Screw（ネジ）
+screw,screw（ネジ）
 script data,スクリプトデータ
 script file meta commands,スクリプトファイルメタコマンド
 script file,スクリプトファイル
@@ -2683,7 +2696,8 @@ semaphore resource map,セマフォリソースマップ
 semaphore set,セマフォセット
 semaphore,セマフォ
 semaphores,セマフォ
-semi-joins,セミ結合
+semi-join,セミ結合
+semi-join,半結合
 semicolon,セミコロン
 separator,セパレータ
 separator,区切り文字
@@ -3056,6 +3070,7 @@ system catalog schema,システムカタログスキーマ
 system catalog tables,システムカタログテーブル
 system catalog,システムカタログ
 system catalogs,システムカタログ
+system clock,システムクロック
 system columns,システム列
 system compiler,システムコンパイラ
 system crash,システムクラッシュ
@@ -3066,6 +3081,7 @@ system error,システムエラー
 system index,システムインデックス
 system objects,システムオブジェクト
 system patch levels,システムパッチレベル
+system path,システムパス
 system relations,システムリレーション
 system resource,システムリソース
 system schema,システムスキーマ
@@ -3151,24 +3167,6 @@ textual label,テキストラベル
 textual sort order,テキストソート順
 textual,テキスト
 Thai,タイ語
-The Autovacuum Daemon,自動バキュームデーモン
-The core database system,コアデータベースシステム
-The default port,デフォルトポート
-The file system level,ファイルシステムレベル
-The host program,ホストプログラム
-the installation instructions,インストール手順
-The main database engine,メインデータベースエンジン
-The main server process,メインサーバプロセス
-The main server,メインサーバ
-The main table,メインテーブル
-The master server process,マスタサーバプロセス
-The message text,メッセージテキスト
-The operating system level,オペレーティングシステムレベル
-The primary key field,プライマリキーフィールド
-The relation tuples,リレーションタプル
-The Rule System,ルールシステム
-The system path,システムパス
-The zero mask,ゼロマスク
 Thesaurus,シソーラス
 Third-party applications,サードパーティアプリケーション
 Third-party,サードパーティ
@@ -3213,11 +3211,11 @@ Token text,トークンテキスト
 token,トークン
 tokens,トークン
 tool set,ツールセット
-Tool,ツール
+tool,ツール
 toolchain,ツールチェイン
-Top level,トップレベル
-Top,トップ
-Topic,トピック
+top level,トップレベル
+top,トップ
+topic,トピック
 trace,トレース
 trace,追跡
 Traceback,トレースバック
@@ -3305,6 +3303,7 @@ tuplestores,タプルストア
 tupple,タプル
 Turing-complete language,チューリング完備言語
 Turkey,トルコ
+Turks & Caicos Islands,タークス・カイコス諸島
 tutorial directory,チュートリアルディレクトリ
 tutorial,チュートリアル
 two-phase commit,二相コミット
@@ -3315,8 +3314,7 @@ typo,タイポ
 U.S. letter,U.S.レター
 Ukraine,ウクライナ
 unary operator,単項演算子
-Unbound cursor,アンバウンドカーソル
-Unbound,アンバウンド
+unbound cursor,アンバウンドカーソル
 unbound,アンバウンド
 underflow error,アンダーフローエラー
 underflow,アンダーフロー
@@ -3325,8 +3323,8 @@ unescaping,アンエスケープ
 Unicode escape,ユニコードエスケープ
 Unicode,Unicode
 Unicode,ユニコード
-Uninstall script,アンインストールスクリプト
-Uninstall,アンインストール
+uninstall script,アンインストールスクリプト
+uninstall,アンインストール
 union,ユニオン
 union,和
 unique constraints,一意性制約
@@ -3490,6 +3488,7 @@ XML,XML
 XPath,XPath
 XSLT,XSLT
 zero bytes,ゼロバイト
+zero mask,ゼロマスク
 zero octet,ゼロオクテット
 zero transactions,ゼロトランザクション
 zero,ゼロ
