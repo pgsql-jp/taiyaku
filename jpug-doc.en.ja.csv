@@ -58,9 +58,9 @@ API,API
 Append plan,Appendプラン
 Appendixes,付録
 application code,アプリケーションコード
-application Data subdirectory,アプリケーションデータディレクトリ
+application data subdirectory,アプリケーションデータディレクトリ
 application interfaces,アプリケーションインタフェース
-application Level,アプリケーションレベル
+application level,アプリケーションレベル
 application program,アプリケーションプログラム
 application programmers,アプリケーションプログラマ
 application software,アプリケーションソフトウェア
@@ -89,7 +89,7 @@ asserts,アサート
 assigned,アサイン
 asterisk,アスタリスク
 asynchronous commit,非同期コミット
-asynchronous Multimaster Replication,非同期マルチマスタレプリケーション
+asynchronous multimaster replication,非同期マルチマスタレプリケーション
 asynchronous,非同期
 at sign,アットマーク
 atom,アトム
@@ -165,7 +165,7 @@ backup software,バックアップソフトウェア
 backup tool,バックアップツール
 backup,バックアップ
 Bahamas,バハマ
-Balance,バランス
+balance,バランス
 Baltic,バルト語派
 Bangladesh,バングラデシュ
 banner,バナー
@@ -190,9 +190,9 @@ before,前
 Belgium,ベルギー
 bell,ベル
 benchmark scenarios,ベンチマークシナリオ
-Benchmark,ベンチマーク
+benchmark,ベンチマーク
 Berkeley code,バークレイコード
-berkeley,バークレイ
+Berkeley,バークレイ
 best,ベスト
 beta,ベータ
 bibliography,参考文献
@@ -338,7 +338,7 @@ California,カリフォルニア
 call handler,呼び出しハンドラ
 call stack,コールスタック
 call,呼び出し
-callback Routines,コールバックルーチン
+callback routines,コールバックルーチン
 callback,コールバック
 Canada,カナダ
 Canadian Northern Rockies,カナダ・ノーザンロッキー
@@ -456,7 +456,7 @@ code point,コードポイント
 code profiling,コードプロファイリング
 code zero,コードゼロ
 code,コード
-coding Conventions,コーディング規約
+coding conventions,コーディング規約
 coding,コーディング
 collation derivation,照合の導出
 collation,照合
@@ -508,7 +508,7 @@ commit message,コミットメッセージ
 commit mode,コミットモード
 commit record,コミットレコード
 commit,コミット
-common Name,コモンネーム
+common name,コモンネーム
 community,コミュニティ
 commutator,交代演算子
 compact,コンパクト
@@ -537,7 +537,7 @@ computer,コンピュータ
 concatenation,結合
 concept,コンセプト
 concept,概念
-concurrency Control,同時実行制御
+concurrency control,同時実行制御
 conference,コンファレンス
 conflict,コンフリクト
 conformance,準拠
@@ -617,7 +617,8 @@ cover density,被覆密度(cover density)
 cover,カバー
 coverage testing instrumentation,カバレッジテストツール
 coverage,カバレッジ
-coverity,コベリティ
+Coverity,コベリティ
+Coverity static code analyzer,Coverity静的コード解析
 crackable,クラック
 crash dumps,クラッシュダンプ
 crash recovery,クラッシュリカバリ
@@ -630,7 +631,7 @@ credit,クレジット
 Crimea,クリミア
 cross,クロス
 cross-compiling,クロスコンパイル
-Cross-reference,クロスリファレンス
+cross-reference,クロスリファレンス
 cross-schema,クロススキーマ
 Cuba,キューバ
 current,現在
@@ -774,7 +775,7 @@ debug,デバッグ
 debugger,デバッガ
 debugging support,デバッグサポート
 debugging symbols,デバッグシンボル
-debugging Tools,デバッグツール
+debugging tools,デバッグツール
 declaration,宣言
 decode,デコード
 decoder,デコーダ
@@ -958,7 +959,7 @@ error text,エラーテキスト
 error,エラー
 error-recovery code,エラーリカバリコード
 escape sequence,エスケープシーケンス
-escape Support,エスケープサポート
+escape support,エスケープサポート
 escape,エスケープ
 ethernet card,イーサネットカード
 Europe,ヨーロッパ
@@ -993,12 +994,12 @@ execution plan,実行計画
 executor code,エクゼキュータコード
 executor context,エクゼキュータコンテキスト
 executor,エクゼキュータ
-Exercise,練習
+exercise,練習
 existence,存在
 expanded,拡張
-Expert,エキスパート
+expert,エキスパート
 expire,エキスパイア
-Explicit Locking,明示的ロック
+explicit locking,明示的ロック
 export,エキスポート
 export,エクスポート
 expression,式
@@ -1026,8 +1027,9 @@ family of address,アドレスファミリ
 family,ファミリ
 family,ファミリー
 FAQ,FAQ
-Fast failover,ファストフェイルオーバー
+fast failover,ファストフェイルオーバー
 fast shutdown,高速シャットダウン
+fast path,近道
 fast-path locking,ファストパスロック
 fast-path,ファストパス
 fast-path,近道
@@ -1043,7 +1045,7 @@ fetch,取り出し
 field codes,フィールドコード
 field data,フィールドデータ
 field headings,フィールドヘッダ
-Field,フィールド
+field,フィールド
 Fiji,フィジー
 file access,ファイルアクセス
 file block,ファイルブロック
@@ -1263,7 +1265,7 @@ help text,ヘルプテキスト
 help,ヘルプ
 helper,ヘルパ
 Heuristic,ヒューリスティック
-High Availability,高可用性
+high availability,高可用性
 high temperature,最高気温
 highlighting,ハイライト
 hint message,ヒントメッセージ
@@ -1611,7 +1613,7 @@ log stream,ログストリーム
 log table,ログテーブル
 log,ログ
 log-file manager,ログファイルマネージャ
-Log-Shipping Standby Server,ログシッピングスタンバイサーバ
+log-shipping standby server,ログシッピングスタンバイサーバ
 logged into,ログオン
 logging collector,logging collector
 logging options,ロギングオプション
@@ -2042,7 +2044,7 @@ parse node,パースノード
 parse tree,構文解析ツリー
 parse,解析
 parser errors,パーサエラー
-Parser hooks,パーサフック
+parser hooks,パーサフック
 parser stage,構文解析過程
 parser tools,パーサツール
 parser,パーサ
@@ -2323,8 +2325,8 @@ read uncommitted,リードアンコミッティド
 read/write conflicts,読み取り/書き込み競合
 reader,リーダ
 readline,readline
-Real-time clock,リアルタイムクロック
-Real-time,リアルタイム
+real-time clock,リアルタイムクロック
+real-time,リアルタイム
 realm parameter,レルムパラメータ
 realm,レルム
 receiver,レシーバ
@@ -2640,6 +2642,7 @@ serialization mode,シリアライゼーションモード
 series,シリーズ
 server account,サーバアカウント
 server applications,サーバアプリケーション
+server certificates,サーバ証明書
 server code,サーバコード
 server command line,サーバコマンドライン
 server core dump,サーバコアダンプ
@@ -2816,6 +2819,7 @@ spinlock code,スピンロックコード
 spinlock speed,スピンロックスピード
 spinlock support,スピンロックサポート
 spinlock,スピンロック
+spoofing,なりすまし
 spooling,スプール
 SQL command scripts,SQLコマンドスクリプト
 SQL key words,SQLキーワード
@@ -3081,11 +3085,11 @@ textual label,テキストラベル
 textual sort order,テキストソート順
 textual,テキスト
 Thai,タイ語
-Thesaurus,シソーラス
-Third-party applications,サードパーティアプリケーション
-Third-party,サードパーティ
+thesaurus,シソーラス
+third-party applications,サードパーティアプリケーション
+third-party,サードパーティ
 thread flags,スレッドフラグ
-Thread,スレッド
+thread,スレッド
 thread-safe,スレッドセーフ
 threaded applications,スレッドアプリケーション
 throughput,スループット
@@ -3096,26 +3100,26 @@ tight,厳しめの
 tilde user,チルダユーザ
 tilde,チルダ
 tilde,ティルダ
-Time stamp counter,タイムスタンプカウンタ
-Time stamp,タイムスタンプ
+time stamp counter,タイムスタンプカウンタ
+time stamp,タイムスタンプ
 time travel,time travel
 time travel,タイムトラベル
 time zone data files,タイムゾーンデータファイル
 time zone database,タイムゾーンデータベース
 time zone,タイムゾーン
-Timeline switch,タイムラインスイッチ
+timeline switch,タイムラインスイッチ
 timeline,タイムライン
 timeout,タイムアウト
-Timer,タイマー
-Timestamp,タイプスタンプ
+timer,タイマー
+timestamp,タイプスタンプ
 timezone offset,タイムゾーンオフセット
 timezone,タイムゾーン
-Timing overhead,タイミング・オーバーヘッド
-Timing,タイミング
+timing overhead,タイミング・オーバーヘッド
+timing,タイミング
 tips,コツ
 title,タイトル
 TOAST,TOAST
-Toast,トースト
+toast,トースト
 TODO,TODO
 Tokelau Islands,トケラウ諸島
 Token ring,トークンリング
@@ -3364,7 +3368,7 @@ Windows operating system service,Windowsオペレーティングシステムサ�
 Windows,Windows
 wired,ワイアード
 word,ワード
-work Around,ワークアラウンド
+work around,ワークアラウンド
 worker process,ワーカプロセス
 worker threads,ワーカスレッド
 worker,ワーカ
@@ -3378,8 +3382,7 @@ wrapper,ラッパー
 write ahead log,先行書き込みログ
 write cache,ライトキャッシュ
 write through,ライトスルー
-write-Ahead Log,ログ先行書き込み
-write-ahead logging,ログ先行書き込み
+write-ahead log,ログ先行書き込み
 write-back,write-back
 write-through,write-through
 writer process,ライタプロセス
