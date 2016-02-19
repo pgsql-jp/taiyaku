@@ -2202,8 +2202,8 @@ preprocessor,プリプロセッサ
 prewarm,プレウォーム
 primary heap disk file,プライマリヒープディスクファイル
 primary keepalive message,プライマリキープアライブメッセージ
-primary key field,プライマリキーフィールド
-primary key,プライマリキー
+primary key field,主キーフィールド
+primary key,主キー
 primary node,プライマリノード
 primary server,プライマリーサーバ
 primary server,プライマリサーバ
