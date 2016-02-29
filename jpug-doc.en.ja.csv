@@ -583,8 +583,8 @@ constant,定数
 constraint escape,制約エスケープ
 constraint exclusion,制約による除外
 constraint exclusion,制約除外
+constraint exclusion,制約排除
 constraint,制約
-constraints,制約
 construct,コンストラクト
 constructor,コンストラクタ
 constructor,生成子
@@ -1030,15 +1030,14 @@ event trigger code,イベントトリガコード
 event trigger manager,イベントトリガマネージャ
 event trigger procedure,イベントトリガプロシージャ
 event trigger,イベントトリガ
-event triggers,イベントトリガ
-event triggers,イベントトリガー
+event trigger,イベントトリガー
 event viewer,イベントビューア
 event,イベント
 eventually consistent,最後には一貫性を持つ
 every so often,時々
 example code,サンプルコード
 example plugin,サンプルプラグイン
-exceptions,例外
+exception,例外
 exclamation mark,イクスクラメーション印
 exclamation point,感嘆符
 exclusion constraint,排他制約
