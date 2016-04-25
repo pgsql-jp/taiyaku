@@ -1,10 +1,10 @@
 en,ja
 abort,アボート
 abort,中断
+abstract data type,抽象データ型
 abstract,アブストラクト
 abstract,理論
 abstraction,抽象化
-abstract data type,抽象データ型
 accents,アクセント
 accents,訛り
 access control list,アクセス制御リスト
@@ -49,6 +49,7 @@ Alice,アリス
 allocation,アロケーション
 allocation,割り当て
 alphabetical order,アルファベット順
+Altai,アルタイ
 America/Adak,America/Adak
 ampersand,アンパサンド
 analyze,アナライズ
@@ -76,8 +77,8 @@ approach,アプローチ
 approach,方法
 Arabia,アラビア
 Arabic,アラビア語
-arbitrary precision numbers,任意の精度数
 arbitrary precision numbers,任意の精度を持つ数
+arbitrary precision numbers,任意の精度数
 architecture,アーキテクチャ
 archive command,アーカイブコマンド
 archive system,アーカイブシステム
@@ -97,6 +98,7 @@ assertion,アサート
 asserts,アサート
 assigned,アサイン
 asterisk,アスタリスク
+Astrakhan,アストラハン
 asynchronous commit,非同期コミット
 asynchronous multimaster replication,非同期マルチマスタレプリケーション
 asynchronous,非同期
@@ -121,6 +123,7 @@ autovacuum worker,自動バキュームワーカ
 autovacuum,オートバキューム
 autovacuum,自動バキューム
 average,平均
+Azerbaijan,アゼルバイジャン
 B-tree,B-tree
 back reference,後方参照
 back-patch,バックパッチ
@@ -150,6 +153,7 @@ background writer,バックグラウンドライター
 background,バックグラウンド
 backlog queue,バックログキュー
 backport,バックポート
+backquote,逆引用符
 backslash command,バックスラッシュコマンド
 backslash escape sequence,バックスラッシュエスケープシーケンス
 backslash escape,バックスラッシュエスケープ
@@ -158,7 +162,6 @@ backslash,バックスラッシュ
 backspace,バックスペース
 backspace,後退
 backstop,バックネット
-backquote,逆引用符
 backup blocks,バックアップブロック
 backup copy,バックアップコピー
 backup device,バックアップデバイス
@@ -326,8 +329,8 @@ build tree,ビルドツリー
 build user,ビルドユーザ
 build,ビルド
 built-in,ビルトイン
-built-in,組込み
 built-in,組み込み
+built-in,組込み
 bulk,バルク
 bundle,バンドル
 bus,バス
@@ -462,9 +465,9 @@ close,クローズ
 closed,閉じた
 cluster data directory,クラスタデータディレクトリ
 cluster directory,クラスタディレクトリ
-cluster-wide,クラスタ全体
 cluster,クラスタ
 cluster,クラスター
+cluster-wide,クラスタ全体
 clusterware,クラスタウェア
 code block,コードブロック
 code coverage metrics,コードカバレッジメトリック
@@ -650,8 +653,8 @@ cover density,被覆密度(cover density)
 cover,カバー
 coverage testing instrumentation,カバレッジテストツール
 coverage,カバレッジ
-Coverity,コベリティ
 Coverity static code analyzer,Coverity静的コード解析
+Coverity,コベリティ
 crackable,クラック
 crash dumps,クラッシュダンプ
 crash recovery,クラッシュリカバリ
@@ -668,9 +671,9 @@ cross-compiling,クロスコンパイル
 cross-reference,クロスリファレンス
 cross-schema,クロススキーマ
 Cuba,キューバ
-current,現在
 current directory,カレントディレクトリ
 current working directory,カレントワーキングディレクトリ
+current,現在
 cursor command,カーソルコマンド
 cursor object,カーソルオブジェクト
 cursor options,カーソルオプション
@@ -1082,8 +1085,8 @@ family,ファミリ
 family,ファミリー
 FAQ,FAQ
 fast failover,ファストフェイルオーバー
-fast shutdown,高速シャットダウン
 fast path,近道
+fast shutdown,高速シャットダウン
 fast-path locking,ファストパスロック
 fast-path,ファストパス
 fast-path,近道
@@ -1507,6 +1510,7 @@ junction points,ジャンクションポイント
 junk,ゴミ
 Junk,ジャンク
 just-in-time,ジャストインタイム
+Kaliningrad,カリーニングラード
 Kathmandu,カトマンズ
 kB pages,キロバイトページ
 kB,キロバイト
@@ -1536,6 +1540,7 @@ key,キー
 kill,終了させる シグナルを送る
 kilobytes,キロバイト
 Kiribati,キリバス
+Kirov,キーロフ
 kit,キット
 knowledge based system,知識ベースシステム
 KSQO,KSQO
@@ -1631,6 +1636,7 @@ literal parser,リテラルパーサ
 literal processor,リテラルプロセッサ
 literal text,リテラルテキスト
 literal,リテラル
+Lithuania,リトアニア
 little-endian,リトルエンディアン
 load balancing,負荷分散
 load,ロード
@@ -1708,8 +1714,8 @@ logical decoding interface,論理デコードインタフェース
 logical decoding,ロジカルデコーディング
 logical replication slot,ロジカルレプリケーションスロット
 logical replication,ロジカルレプリケーション
-logical,論理
 logical,ロジカル
+logical,論理
 logical-decoding data,ロジカルデコーディングデータ
 login host,ログインホスト
 login role,ログインロール
@@ -1916,8 +1922,8 @@ multitransaction,マルチトランザクション
 multiuser,マルチユーザ
 multiversion concurrency control,多版型同時実行制御
 multiversion concurrency control,多版同時実行制御
-multixact ID,マルチトランザクションID
 multixact ID wraparound,マルチトランザクションIDの周回
+multixact ID,マルチトランザクションID
 mutation,突然変異
 mutexes,ミューテクス
 MVCC,MVCC
@@ -2043,11 +2049,11 @@ opened,開かれる
 operand,オペランド
 operand,演算項目
 operating system cache,オペレーティングシステムキャッシュ
+operating system level,オペレーティングシステムレベル
 operating system user,オペレーティングシステムユーザ
 operating system utilities,オペレーティングシステムユーティリティ
 operating system,オペレーティングシステム
 operating-system calls,オペレーティングシステムコール
-operating system level,オペレーティングシステムレベル
 operation,オペレーション
 operation,操作
 operator class,演算子クラス
@@ -2279,8 +2285,8 @@ post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
 posting list,ポスティングリスト
-power,パワー
 power set,べき集合
+power,パワー
 pragma,プラグマ
 precipitation,降水量
 precision,精度
@@ -2435,8 +2441,8 @@ read committed mode,リードコミッティドモード
 read committed transaction,リードコミッティドトランザクション
 read committed,リードコミッティド
 read uncommitted,リードアンコミッティド
-read-only transaction,読み取り専用トランザクション
 read-only transaction,読み取りのみトランザクション
+read-only transaction,読み取り専用トランザクション
 read/write conflicts,読み取り/書き込み競合
 reader,リーダ
 readline,readline
@@ -2472,8 +2478,8 @@ reference page,リファレンスページ
 reference,リファレンス
 referenced,被参照
 referencing,参照
-referential integrity constraint,参照整合性制約
 referential integrity check,参照整合性制約
+referential integrity constraint,参照整合性制約
 referential integrity,参照整合性
 refresh,リフレッシュ
 register-stack,レジスタスタック
@@ -2496,6 +2502,7 @@ relation page,リレーションページ
 relation scheme,リレーションスキーマ
 relation scheme,リレーションスキーム
 relation size,リレーションサイズ
+relation tuples,リレーションタプル
 relation,リレーション
 relation-level,リレーションレベル
 relational algebra,リレーショナル代数
@@ -2507,10 +2514,9 @@ relational database,リレーショナルデータベース
 relational mode,リレーショナルモデル
 relational tables,リレーショナルテーブル
 relational,リレーショナル
-relation tuples,リレーションタプル
 relations,リレーション
-relationship,関連
 relationship,リレーション
+relationship,関連
 relay,リレー
 release branch,リリースブランチ
 release file,リリースファイル
@@ -2573,8 +2579,8 @@ restart,リスタート
 restartpoints,リスタートポイント
 restore point,リストアポイント
 restore,リストア
-restriction,制約
 restriction,制限
+restriction,制約
 retry flags,リトライフラグ
 retry,リトライ
 return code,リターンコード
@@ -2636,17 +2642,19 @@ runtime,ランタイム
 runtime,実行時
 Russian,ロシア
 safe,セーフ
+Sakhalin,サハリン
 salesman,セールスマン
 Salt Bits,ソルトビット長
 salt,ソルト
+Samara,サマラ
 Samoa,サモア
 sample application,サンプルアプリケーション
 sample data,サンプルデータ
 sample file,サンプルファイル
 sample program,サンプルプログラム
 sample shell,サンプルシェル
-sample,標本
 sample,サンプル
+sample,標本
 sampling error,サンプリングエラー
 sampling method,サンプリングメソッド
 sampling,サンプリング
@@ -2850,8 +2858,8 @@ SGML,SGML
 shared catalogs,共有カタログ
 shared library segments,共有ライブラリセグメント
 shared library,共有ライブラリ
-shared memory,共有メモリ
 shared memory pool,共有メモリプール
+shared memory,共有メモリ
 shared object,共有オブジェクト
 sharp,シャープ記号
 shell command line,シェルコマンドライン
@@ -3066,9 +3074,9 @@ subnet,サブネット
 subpackage,サブパッケージ
 subplan,サブプラン
 subprocess,サブプロセス
+subquery result row,副問い合わせ結果行
 subquery,サブクエリ
 subquery,副問い合わせ
-subquery result row,副問い合わせ結果行
 subroutine,サブルーチン
 subscript,添字
 subsections,サブセクション
@@ -3158,7 +3166,6 @@ table command,TABLEコマンド
 table data,テーブルデータ
 table expression,テーブル式
 table file,テーブルファイル
-table-level lock,テーブルレベルロック
 table level,テーブルレベル
 table list,テーブルリスト
 table lock,テーブルロック
@@ -3173,6 +3180,7 @@ table sources,テーブルソース
 table,テーブル
 table,表
 table-level lock modes,テーブルレベルロックモード
+table-level lock,テーブルレベルロック
 table-level locking,テーブルレベルロック
 table-level,テーブルレベル
 tables' filenode,テーブルファイルノード
@@ -3310,9 +3318,9 @@ transaction,トランザクション
 transaction-safe,トランザクションセーフ
 transactional,トランザクショナル
 transform function,変形関数
+transform,変換
 transformation process,書き換えプロセス
 transformation process,変換プロセス
-transform,変換
 translation,翻訳
 tree data,ツリーデータ
 tree index,ツリーインデックス
@@ -3374,6 +3382,7 @@ typecast,型変換
 typo,タイポ
 U.S. letter,U.S.レター
 Ukraine,ウクライナ
+Ulyanovsk regions,ウリヤノフスク地域
 unary operator,単項演算子
 unbound cursor,アンバウンドカーソル
 unbound,アンバウンド
@@ -3526,8 +3535,8 @@ window function,ウィンドウ関数
 Windows operating system service,Windowsオペレーティングシステムサービス
 Windows,Windows
 wired,ワイアード
-witness server,証明サーバ
 witness server,証言サーバ
+witness server,証明サーバ
 word,ワード
 work around,ワークアラウンド
 worker process,ワーカプロセス
