@@ -38,6 +38,7 @@ advanced,高度な
 advice,アドバイス
 advisory lock,アドバイザリロック
 advisory lock,勧告的ロック
+affix file,接辞ファイル
 aggregate expression,集約式
 aggregate function,集約関数
 aggregate,集約
@@ -291,7 +292,6 @@ bracket expression,ブラケット式
 bracket,ブラケット
 brackets,括弧
 branch,ブランチ
-branch,枝
 Brazil,ブラジル
 bread,パン
 British East Africa,イギリス領東アフリカ
@@ -757,7 +757,6 @@ database directory,データベースディレクトリ
 database disk page,データベースディスクページ
 database dump,データベースダンプ
 database encoding,データベースエンコーディング
-database encoding,データベースエンコード
 database error,データベースエラー
 database field,データベースフィールド
 database file,データベースファイル
@@ -1065,6 +1064,7 @@ extension,エクステンション
 extension,拡張
 extent,エクステント
 external projects,外部プロジェクト
+external representations,外部表現
 facilities,ファシリティ
 fact table,ファクトテーブル
 factor,ファクタ
@@ -1607,6 +1607,7 @@ Libya,リビア
 License,ライセンス
 Liechtenstein,リヒテンシュタイン
 like,ライク
+limitation,制限
 line feed,ラインフィード
 line numbers,行番号
 line segment,線分
@@ -1788,7 +1789,7 @@ matching,マッチング
 materialize nodes,ノードマテリアライゼーション
 materialize,マテリアライズ
 materialized view,マテリアライズドビュー
-materialized views,マテリアライズドビュー
+mathematical model,数学的モデル
 matrix,マトリクス
 Mauritius,モーリシャス
 max,最大
@@ -1981,6 +1982,7 @@ non-superusers,非スーパーユーザ
 nonblocking connection,非ブロッキング接続
 nonblocking mode,非ブロックモード
 nonmasked bits,非マスクビット
+nonnegative,非負
 nonnull,非NULL
 nonrepeatable read,反復不能読み取り
 Norfolk Island,ノーフォーク島
@@ -3515,6 +3517,7 @@ Web,ウェブ
 website,ウェブサイト
 weight,ウェイト
 weight,重み
+well-formed,整形式
 white space,空白文字
 wiki,wiki
 wildcard pattern,ワイルドカードパターン
