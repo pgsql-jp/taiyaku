@@ -2491,7 +2491,6 @@ regression intercept,回帰切片
 regression slope,回帰勾配
 regression test suite,リグレッションテストスイート
 regression test,リグレッションテスト
-regression test,リグレッション試験
 regression,リグレッション
 regular expression,正規表現
 reindex,インデックス再作成
@@ -2937,7 +2936,8 @@ sort node,ソートノード
 sort options,ソートオプション
 sort support,ソートサポート
 sort,ソート
-sorting,並び替え
+sort,並べ替え
+sorting,並ベ替え
 source code file,ソースコードファイル
 source code hooks,ソースコードフック
 source code repository,ソースコードリポジトリ
