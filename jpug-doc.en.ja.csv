@@ -79,7 +79,6 @@ approach,方法
 Arabia,アラビア
 Arabic,アラビア語
 arbitrary precision numbers,任意の精度を持つ数
-arbitrary precision numbers,任意の精度数
 architecture,アーキテクチャ
 archive command,アーカイブコマンド
 archive system,アーカイブシステム
@@ -1466,7 +1465,6 @@ interlock,インターロック
 intermediate table,中間テーブル
 internal node,内部ノード
 internet address,インターネットアドレス
-internet domain routing,インターネットドメインルーティング
 internet,インターネット
 interpolate,差し替え
 interpreter,インタプリタ
@@ -1591,8 +1589,6 @@ level lock,レベルロック
 level trigger,レベルトリガ
 level,レベル
 lexemes,語彙素
-lexemes,語彙素(lexemes)
-lexemes,字句単位
 lexer,レクサ
 lexer,字句解析
 lexical,レキシカル
@@ -1613,7 +1609,8 @@ License,ライセンス
 Liechtenstein,リヒテンシュタイン
 like,ライク
 limitation,制限
-line feed,ラインフィード
+line feed,改行文字
+line feed,改行コード
 line numbers,行番号
 line segment,線分
 line,直線
@@ -1759,7 +1756,7 @@ Makefile,メークファイル
 makefiles,makefile
 man page,マニュアルページ
 man system,マニュアルシステム
-management,マネージメント
+management,管理
 manager interface,マネージャインタフェース
 manager,マネージャ
 manipulation,操作
@@ -2083,7 +2080,7 @@ ordering,順序付け
 ordinal number,序数
 ordinality,順序性
 original data,オリジナルデータ
-original text,オリジナルテキスト
+original text,オリジナル文書
 original version,オリジナルバージョン
 original,オリジナル
 outer join,外部結合
@@ -2191,7 +2188,7 @@ PDF documentation formats,PDFドキュメントフォーマット
 peak,ピーク
 peer authentication,peer認証
 peer authentication,ピア認証
-peer groups,ピアグループ
+peer groups,ピアのグループ
 peer,同等な
 peers,ピア
 penalty,ペナルティ
@@ -2491,7 +2488,6 @@ regression intercept,回帰切片
 regression slope,回帰勾配
 regression test suite,リグレッションテストスイート
 regression test,リグレッションテスト
-regression test,リグレッション試験
 regression,リグレッション
 regular expression,正規表現
 reindex,インデックス再作成
@@ -2510,7 +2506,6 @@ relation-level,リレーションレベル
 relational algebra,リレーショナル代数
 relational calculus,リレーショナル論理
 relational data model,リレーショナルデータモデル
-relational database management system,リレーショナルデータベースマネージメントシステム
 relational database systems,リレーショナルデータベースシステム
 relational database,リレーショナルデータベース
 relational mode,リレーショナルモデル
@@ -2609,7 +2604,6 @@ roll-forward recovery,ロールフォワードリカバリ
 rollback,ロールバック
 Romanian,ルーマニア
 Rome,ローマ
-root block,ルートブロック
 root directory,トップディレクトリ
 root directory,ルートディレクトリ
 root level,ルートレベル
@@ -2697,7 +2691,6 @@ schema view,スキーマビュー
 schema,スキーマ
 scope,スコープ
 screen,スクリーン
-script data,スクリプトデータ
 script file meta commands,スクリプトファイルメタコマンド
 script file,スクリプトファイル
 script,スクリプト
@@ -2874,7 +2867,7 @@ shell,シェル
 shift,シフト
 shipping,シッピング
 short name path,ショートネームパス
-short-circuiting,ショートサーキット
+short-circuiting,短絡評価
 shortcut,ショートカット
 shutdown,シャットダウン
 signal handler,シグナルハンドラ
@@ -2937,7 +2930,8 @@ sort node,ソートノード
 sort options,ソートオプション
 sort support,ソートサポート
 sort,ソート
-sorting,並び替え
+sort,並べ替え
+sorting,並ベ替え
 source code file,ソースコードファイル
 source code hooks,ソースコードフック
 source code repository,ソースコードリポジトリ
@@ -3319,7 +3313,7 @@ transaction table,トランザクションテーブル
 transaction throughput,トランザクションスループット
 transaction,トランザクション
 transaction-safe,トランザクションセーフ
-transactional,トランザクショナル
+transactional,トランザクション
 transform function,変形関数
 transform,変換
 transformation process,書き換えプロセス
