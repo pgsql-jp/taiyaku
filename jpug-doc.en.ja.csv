@@ -1641,7 +1641,7 @@ Lithuania,リトアニア
 little-endian,リトルエンディアン
 load balancing,負荷分散
 load,ロード
-loadable modules,ロードモジュール
+loadable,ロード可能
 loader,ローダ
 loading,ローディング
 local access,ローカルアクセス
@@ -3251,7 +3251,6 @@ TID,TID
 tight,厳しめの
 tilde user,チルダユーザ
 tilde,チルダ
-tilde,ティルダ
 time span,時間間隔
 time stamp counter,タイムスタンプカウンタ
 time stamp,タイムスタンプ
