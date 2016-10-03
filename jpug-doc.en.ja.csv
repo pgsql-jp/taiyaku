@@ -202,6 +202,7 @@ battery-backed,バッテリー・バックアップ
 battery-backup units,バッテリバックアップ付き装置
 battery-backup,バッテリバックアップ
 before,前
+Belarus,ベラルーシ
 Belgium,ベルギー
 bell,ベル
 benchmark scenarios,ベンチマークシナリオ
@@ -1456,7 +1457,6 @@ integrity constraints,整合性制約
 interactive terminal,対話式端末
 interactive,インタラクティブ
 interface library,インタフェースライブラリ
-interface routines,インタフェースルーチン
 interface support,インタフェースサポート
 interface,インターフェース
 interface,インターフェイス
@@ -1515,6 +1515,7 @@ kB,キロバイト
 keepalive message,キープアライブメッセージ
 keepalive socket option,キープアライブソケットオプション
 keepalives,キープアライブ
+Kemerovo,ケメロヴォ
 Kerberos,Kerberos
 Kernel cache,カーネルキャッシュ
 Kernel call,カーネルコール
@@ -1649,7 +1650,6 @@ local byte order,ローカルバイトオーダー
 local copies,ローカルコピー
 local database,ローカルデータベース
 local file,ローカルファイル
-local flush,ローカルフラッシュ
 local host,ローカルホスト
 local loopback address,ローカルループバックアドレス
 local loopback,ローカルループバック
@@ -2001,6 +2001,7 @@ note,注意
 notification,通知
 notifier,通知者
 Novokuznetsk,ノヴォクズネツク
+Novosibirsk,ノヴォシビルスク
 null bitmap,ヌルビットマップ
 null byte,ヌルバイト
 null marker,ヌルマーカ
@@ -2421,7 +2422,6 @@ quote,クオート
 quoted identifier,引用符で囲まれた識別子
 radians,ラジアン
 RAID array,RAIDアレー
-RAID array,RAIDアレイ
 ram disk,RAMディスク
 random access,ランダムアクセス
 random page cost,ランダムページコスト
@@ -2931,7 +2931,7 @@ sort options,ソートオプション
 sort support,ソートサポート
 sort,ソート
 sort,並べ替え
-sorting,並ベ替え
+sorting,並べ替え
 source code file,ソースコードファイル
 source code hooks,ソースコードフック
 source code repository,ソースコードリポジトリ
