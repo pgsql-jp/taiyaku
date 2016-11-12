@@ -1326,6 +1326,7 @@ HEAP_HASNULL,HEAP_HASNULL
 HEAP_HASOID,HEAP_HASOID
 heartbeat,ハートビート
 heavy user,ヘビーユーザ
+heavyweight lock,重量ロック
 Hebrew,ヘブライ
 Hebron,ヘブロン
 help text,ヘルプテキスト
@@ -1608,6 +1609,7 @@ libxslt,libxslt
 Libya,リビア
 License,ライセンス
 Liechtenstein,リヒテンシュタイン
+lightweight lock,軽量ロック
 like,ライク
 limitation,制限
 line feed,改行文字
@@ -2541,7 +2543,6 @@ Renesas,ルネサス
 repeatable read mode,リピータブルリードモード
 repeatable read transaction,リピータブルリードトランザクション
 repeatable read,リピータブルリード
-repeatable read,リピータブルリードレベル
 replay,リプレイ
 replica,レプリカ
 replication commands,レプリケーションコマンド
@@ -2591,6 +2592,7 @@ rewriter,リライタ
 right join,右結合
 right-click,右クリック
 risk,リスク
+robustness,堅牢性
 role members,ロールメンバ
 role members,ロールメンバー
 role password,ロールパスワード
@@ -3078,6 +3080,7 @@ subscript,添字
 subsections,サブセクション
 subselects,サブセレクト
 subset,サブセット
+subset,部分集合
 subsystem,サブシステム
 subtransaction block,サブトランザクションブロック
 subtransaction manager,サブトランザクションマネージャ
@@ -3091,16 +3094,15 @@ suffix,接尾辞
 suite,スィート
 suite,スイート
 sum,総和
-summary,要約
 summary table,サマリテーブル
-super user,スーパーユーザー
+summary,要約
+super user,スーパーユーザ
 super,スーパー
-super-user,スーパユーザ
+super-user,スーパーユーザ
 supernet,スーパーネット
 supertable,スーパーテーブル
 superuser role,スーパーユーザロール
 superuser,スーパーユーザ
-superuser,スーパユーザ
 supplied,提供される
 support files,サポートファイル
 support method,サポートメソッド
