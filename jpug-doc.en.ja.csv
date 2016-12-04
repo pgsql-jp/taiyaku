@@ -330,7 +330,6 @@ build user,ビルドユーザ
 build,ビルド
 built-in,ビルトイン
 built-in,組み込み
-built-in,組込み
 bulk,バルク
 bundle,バンドル
 bus,バス
@@ -833,7 +832,6 @@ default tablespace,デフォルトテーブルスペース
 default transaction,デフォルトトランザクション
 default value,デフォルト値
 default,デフォルト
-deferrable transaction,繰り延べトランザクション
 deferrable transaction,遅延トランザクション
 deferrable,deferrable
 definition,定義
@@ -926,7 +924,7 @@ domain,ドメイン
 dot,ドット
 double precision,倍精度
 double quote,二重引用符
-double quotes,ダブルクォート
+double quotes,ダブルクオート
 down,ダウン
 downgrade logic,ダウングレードロジック
 downgrade script,ダウングレードスクリプト
@@ -1054,7 +1052,6 @@ expanded,拡張
 expert,エキスパート
 expire,エキスパイア
 explicit locking,明示的ロック
-export,エキスポート
 export,エクスポート
 expression,式
 expressive power,表現力
@@ -2242,7 +2239,6 @@ planner,プランナ
 planner,問い合わせ計画
 planner/optimizer,プランナ/オプティマイザ
 platform,プラットフォーム
-platform,プラットホーム
 plug-in,プラグイン
 pluggable,プラガブル
 plugin callbacks,プラグインコールバック
@@ -2345,7 +2341,6 @@ procedural language,手続き言語
 procedural,手続き
 procedure memory context,プロシージャメモリコンテキスト
 procedure,プロシージャ
-procedure,プロシジャ
 process group leader,プロセスグループリーダ
 process id,process id
 process stack size,プロセススタックサイズ
@@ -2408,7 +2403,7 @@ query hash,クエリハッシュ
 query Optimizer,問い合わせ最適化
 query plan,クエリプラン
 query plan,問い合わせ計画
-query rewrite rule,問合わせ書き換えルール
+query rewrite rule,問い合わせ書き換えルール
 query rewriting,問い合わせ書き換え
 query terms,検索語
 query text,クエリテキスト
@@ -2416,11 +2411,9 @@ query tree,問い合わせツリー
 query,クエリ
 query,クエリー
 query,問い合わせ
-query,問合わせ
 queue,キュー
 quota,クォータ
 quotation marks,引用符
-quote,クォート
 quote,クオート
 quoted identifier,引用符で囲まれた識別子
 radians,ラジアン
@@ -2500,7 +2493,6 @@ relation file,リレーションファイル
 relation fork,リレーションフォーク
 relation options,リレーションオプション
 relation page,リレーションページ
-relation scheme,リレーションスキーマ
 relation scheme,リレーションスキーム
 relation size,リレーションサイズ
 relation tuples,リレーションタプル
@@ -2562,7 +2554,6 @@ replication,レプリケーション
 report,レポート
 reporting errors,エラー報告
 repository,リポジトリ
-repository,レポジトリ
 representation,表現形式
 request,リクエスト
 request,要求
@@ -2601,7 +2592,6 @@ role system,ロールシステム
 role tables,ロールテーブル
 role,ロール
 roll back,ロールバック
-roll forward,ロールフォーワード
 roll forward,ロールフォワード
 roll-forward recovery,ロールフォワードリカバリ
 rollback,ロールバック
@@ -2761,7 +2751,6 @@ sequence parameters,シーケンスパラメータ
 sequence,シーケンス
 sequential scan,シーケンシャルスキャン
 sequential scan,シーケンシャル走査
-sequential scan,シーケンススキャン
 sequential table scan,シーケンシャルテーブルスキャン
 sequential,シーケンシャル
 serial number,通番
@@ -2829,7 +2818,6 @@ server-side,サーバサイド
 service file,サービスファイル
 service mode,サービスモード
 service pack,サービスパック
-service principal,サーバプリンシパル
 service principal,サービスプリンシパル
 service,サービス
 session defaults,セッションデフォルト
@@ -2885,7 +2873,7 @@ simulation,シミュレーション
 Singapore,シンガポール
 single master,シングルマスタ
 single quote,単一引用符
-single quotes,シングルクォート
+single quotes,シングルクオート
 single sign-on,シングルサインオン
 single-byte server,シングルバイトサーバ
 single-byte,シングルバイト
@@ -2981,11 +2969,9 @@ stand-alone,スタンドアローン
 standalone hot backups,スタンドアローンホットバックアップ
 standalone mode,スタンドアローンモード
 standalone program,スタンドアローンプログラム
-standalone servers,スタントアロン・サーバ
-standalone session,スタンドアロンセッション
+standalone session,スタンドアローンセッション
 standalone utility,スタンドアローンユーティリティ
 standalone,スタンドアローン
-standalone,スタンドアロン
 standard conforming,標準に従う
 standard deviation,標準偏差
 standard error,標準エラー
@@ -3343,14 +3329,12 @@ trigger,トリガ
 trigger,トリガー
 trigger-based,トリガベース
 trigram,トライグラム
-trigram,トリグラム
 trigraph,トリグラフ
 Trojan horse,トロイの木馬
 Trouble,トラブル
 true,真
 trusted procedure,トラステッド・プロシージャ
-trusted procedure,トラステッド・プロシジャ
-trusted procedure,トラステッドプロシジャ
+trusted procedure,トラステッドプロシージャ
 trusted,トラステッド
 trusted,信頼
 try,トライ
