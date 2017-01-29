@@ -274,6 +274,7 @@ block-device,ブロックデバイス
 blocking locks,ブロッキングロック
 blocking,ブロッキング
 blocks of zeroes,ゼロブロック
+Bloom,ブルーム
 board,ボード
 Bob,ボブ
 bookmarks,ブックマーク
@@ -297,6 +298,7 @@ brackets,括弧
 branch,ブランチ
 Brazil,ブラジル
 bread,パン
+BRIN,BRIN
 British East Africa,イギリス領東アフリカ
 broadcast address for network,ネットワークブロードキャストアドレス
 Browser,ブラウザ
@@ -349,6 +351,7 @@ C-style Escapes,C形式エスケープ
 cache algorithm,キャッシュアルゴリズム
 cache files,キャッシュファイル
 cache keys,キャッシュキー
+cache oblivious,キャッシュ自明
 cache,キャッシュ
 California,カリフォルニア
 call handler,呼び出しハンドラ
@@ -372,6 +375,7 @@ cascading replication,カスケーディングレプリケーション
 cascading replication,カスケードレプリケーション
 cascading standby,カスケードスタンバイ
 case sensitivity,大文字小文字の区別
+case-insensitive,大文字小文字
 case,ケース
 cast method,キャストメソッド
 cast,キャスト
@@ -492,6 +496,7 @@ column label,列ラベル
 column reference,列の参照
 column,カラム
 column,列
+combine function,結合関数
 Combo,コンボ
 comma,カンマ
 comma,コンマ
@@ -843,6 +848,7 @@ delimiter,デリミタ
 delimiter,区切り文字
 demo,デモ
 demoware,デモウェア
+deserialization function,デシリアライズ関数
 descriptor,ディスクリプタ
 descriptor,デスクリプタ
 design,デザイン
@@ -949,6 +955,7 @@ dynamic loader,動的ローダ
 dynamic loading,動的ロード
 dynamic shared memory subsystem,動的共有メモリサブシステム
 dynamic-linker,ダイナミックリンカ
+early locking,早いロック
 ECC,ECC
 ECPG host application,ECPGホストアプリケーション
 edge recombination crossover,辺再組合せ交叉
@@ -989,10 +996,11 @@ epoch timestamp,エポックタイムスタンプ
 epoch,エポック
 equal to,等しい
 equality operator,等価演算子
+equivalence class,同値クラス
 erratic core dumps,エラーコアダンプ
 error checking,エラーチェック
 error class,エラークラス
-error code scheme,エラーコードスキーマ
+error code scheme,エラーコードスキーム
 error codes,エラーコード
 error cursor,エラーカーソル
 error field,エラーフィールド
@@ -1075,7 +1083,6 @@ failover,フェールオーバ
 failover,フェイルオーバ
 failover,フェイルオーバー
 Falkland,フォークランド
-fallback,フォールバック
 false,偽
 family of address,アドレスファミリ
 family,ファミリ
@@ -1171,7 +1178,7 @@ fork,フォーク
 form feed,改ページ
 form,フォーム
 format code,書式コード
-format specifiers,正規集合
+format specifiers,フォーマット指示子
 format,フォーマット
 format,書式
 fragment,フラグメント
@@ -1208,6 +1215,7 @@ functional dependency,関数依存
 gap,ギャップ
 garbage data,ごみデータ
 garbage data,ゴミデータ
+Gather node,Gather ノード
 gaussian distribution,ガウス分布
 Gaza,ガザ
 GB of memory,ギガバイトメモリ
@@ -1342,6 +1350,7 @@ histogram,ヒストグラム
 histogram,度数分布
 historical changes,歴史的変更
 historical corrections,歴史的な訂正
+historically,歴史的
 history,歴史
 Hit,ヒット
 holder,ホルダー
@@ -1385,9 +1394,12 @@ image,画像
 immediate shutdown,即時シャットダウン
 impact,インパクト
 implementation,実装
+improve,改善
 import library,インポートライブラリ
 import,インポート
 inch,インチ
+inclusion,inclusion
+include directive,includeディレクティブ
 include directory,インクルードディレクトリ
 include files,インクルードファイル
 include path,インクルードパス
@@ -1427,6 +1439,9 @@ indexing project,インデックスプロジェクト
 indicator,指示子
 individuals,個体
 Indonesia,インドネシア
+infinite input,無限値の入力
+infinite loop,無限ループ
+infinite,無限
 informix compatibility mode,informix互換モード
 Infrastructure,インフラストラクチャ
 inheritance,継承
@@ -1557,10 +1572,11 @@ large object data,ラージオブジェクトデータ
 large object file,ラージオブジェクトファイル
 large object interface,ラージオブジェクトインタフェース
 large object,ラージオブジェクト
-large objects,ラージオブジェクト
 large,ラージ
 latch,ラッチ
 latency,レイテンシ
+late locking,遅いロック
+late row locking,遅延行ロック
 LaTeX,LaTeX
 Latin,ラテン
 launcher daemon,ランチャデーモン
@@ -1606,6 +1622,7 @@ libxslt,libxslt
 Libya,リビア
 License,ライセンス
 Liechtenstein,リヒテンシュタイン
+ligatures,合字
 lightweight lock,軽量ロック
 like,ライク
 limitation,制限
@@ -1864,10 +1881,12 @@ migration,移行
 miles,マイル
 millennium,ミレニアム
 millisecond,ミリ秒
+minmax,minmax
 minor release levels,マイナーリリースレベル
 minor release,マイナーリリース
 minor version,マイナーバージョン
 minor,マイナー
+minus sign,マイナス符号
 minus zero,マイナスゼロ
 minus,マイナス
 mirror site,ミラーサイト
@@ -1938,14 +1957,14 @@ near-exhaustive search,しらみつぶしに近い検索
 needs,ニーズ
 negation,否定
 negative lookahead,先行否定検索
+negative lookbehind,後方否定検索
 negator,否定子
 negotiation,ネゴシエーション
 nepali language,ネパール語
 nest,ネスト
-nested loop join,ネストループジョイン
-nested loop join,入れ子ループ結合
-nested-loop index scan,入れ子状ループインデックススキャン
-nested-loop join,入れ子状ループ結合
+nested loop join,ネステッドループ結合
+nested loop,ネステッドループ
+nested-loop,ネステッドループ
 net services,ネットサービス
 netmask fields,ネットマスクフィールド
 netmask,ネットマスク
@@ -2280,6 +2299,7 @@ positional,位置
 positional,位置的
 positions,位置
 positive lookahead,先行肯定検索
+positive lookbehind,後方肯定検索
 post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
@@ -2486,6 +2506,7 @@ regression test suite,リグレッションテストスイート
 regression test,リグレッションテスト
 regression,リグレッション
 regular expression,正規表現
+regular set,正規集合
 reindex,インデックス再作成
 relation cache,リレーションキャッシュ
 relation data,リレーションデータ
@@ -2756,6 +2777,7 @@ sequential,シーケンシャル
 serial number,通番
 serial,シリアル
 serializable mode,シリアライザブルモード
+serialization function,シリアライズ関数
 serializable snapshot,シリアライザブルスナップショット
 serializable transaction,シリアライザブルトランザクション
 serializable,シリアライザブル
@@ -3172,6 +3194,7 @@ table-level,テーブルレベル
 tables' filenode,テーブルファイルノード
 tablespace options,テーブルスペースオプション
 tablespace,テーブルスペース
+tablespace map,テーブル空間マップ
 tablespace,テーブル空間
 tag,タグ
 tape,テープ
@@ -3273,6 +3296,7 @@ trace,追跡
 Traceback,トレースバック
 Trade-off,トレードオフ
 Traffic,トラフィック
+tranche,トランシェ
 Trans-Baikal Territory (Zabaykalsky Krai),ザバイカリエ地方(Zabaykalsky Krai)
 transaction block,トランザクションブロック
 transaction commit,トランザクションコミット
@@ -3307,6 +3331,7 @@ transform,変換
 transformation process,書き換えプロセス
 transformation process,変換プロセス
 translation,翻訳
+traverse values,探索値
 tree data,ツリーデータ
 tree index,ツリーインデックス
 tree level,ツリーレベル
@@ -3402,6 +3427,7 @@ updating,更新
 upgrade script,アップグレードスクリプト
 upgrade,アップグレード
 upgrading,アップグレード処理
+upper relation,上位リレーション
 Uruguay,ウルグアイ
 Use Case,ユースケース
 use during upgrade,アップグレード中の使用
