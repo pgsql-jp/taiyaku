@@ -387,7 +387,6 @@ cascading standby,カスケードスタンバイ
 case sensitivity,大文字小文字の区別
 case,ケース
 case-insensitive,大文字小文字
-Casey,ケーシー
 cast method,キャストメソッド
 cast,キャスト
 catalog access,カタログアクセス
@@ -1061,6 +1060,7 @@ eventually consistent,最後には一貫性を持つ
 every so often,時々
 example code,サンプルコード
 example plugin,サンプルプラグイン
+example,例
 exception,例外
 exclamation mark,イクスクラメーション印
 exclamation point,感嘆符
@@ -1101,7 +1101,6 @@ failover,フェイルオーバ
 failover,フェイルオーバー
 Falkland,フォークランド
 false,偽
-Famagusta,ファマグスタ
 family of address,アドレスファミリ
 family,ファミリ
 family,ファミリー
@@ -2728,7 +2727,6 @@ sampling method,サンプリングメソッド
 sampling,サンプリング
 sanitizing,サニタイズ
 San_Luis,サンルイス
-Saratov,サラトフ
 savepoint,セーブポイント
 scalability,スケーラビリティ
 scalability,スケールアウト性
@@ -3344,6 +3342,7 @@ timezone,タイムゾーン
 timing overhead,タイミング・オーバーヘッド
 timing,タイミング
 tips,コツ
+tips,ヒント
 title,タイトル
 TOAST,TOAST
 toast,トースト
@@ -3485,6 +3484,7 @@ Universal database,ユニバーサルデータベース
 Unix domain socket,Unix ドメインソケット
 Unix emulation toolkit,Unixエミュレーションツールキット
 unload,アンロード
+unlogged table,ログを取らないテーブル
 unmounting,アンマウント
 unqualified name,非修飾名
 updatable views,更新可能ビュー
