@@ -43,6 +43,7 @@ aggregate expression,集約式
 aggregate function,集約関数
 aggregate,集約
 aggregated arguments,集約引数
+aggressive vacuum,積極的なバキューム
 Alaska,アラスカ
 algorithm,アルゴリズム
 alias,別名
@@ -57,10 +58,12 @@ analyze,アナライズ
 announce,アナウンス
 anonymous code blocks,無名コードブロック
 ANSI,ANSI
+Antarctica,南極
 anti,アンチ
 anti-join,アンチ結合
 Anti-virus,アンチウィルス
 anti-wraparound,ラップアラウンド防止
+API struct,API構造体
 API,API
 Append plan,Appendプラン
 Appendixes,付録
@@ -78,6 +81,7 @@ approach,アプローチ
 approach,方法
 Arabia,アラビア
 Arabic,アラビア語
+arbiter indexes,競合解決インデックス
 arbitrary precision numbers,任意の精度を持つ数
 architecture,アーキテクチャ
 archive command,アーカイブコマンド
@@ -87,6 +91,7 @@ archiving,アーカイビング
 Argentina,アルゼンチン
 argument,引数
 Armenia,アルメニア
+armor header,アーマーヘッダ
 array,配列
 ASCII-armor,ASCIIアーマー
 ASCII-art,アスキーアート
@@ -97,6 +102,7 @@ assertion,アサーション
 assertion,アサート
 asserts,アサート
 assigned,アサイン
+assignment cast,代入キャスト
 asterisk,アスタリスク
 Astrakhan,アストラハン
 asynchronous commit,非同期コミット
@@ -108,12 +114,14 @@ atomic,原子的
 attach,アタッチ
 attribute,属性
 Australia,オーストラリア
+authenticated user,認証されたユーザ
 authentication,認証
 author,作者
 authority,権限
 auto-increment,自動増分
 Autochanger,オートチェンジャ
 autocommit,自動コミット
+automatically updatable,自動的に更新可能
 autovacuum daemon,自動バキュームデーモン
 autovacuum launcher,自動バキュームランチャ
 autovacuum processes,自動バキュームプロセス
@@ -214,6 +222,7 @@ beta,ベータ
 bibliography,参考文献
 big-endian,ビッグエンディアン
 binary backups,バイナリバックアップ
+binary coercible,バイナリ強制互換
 binary coercion casts,バイナリキャスト
 Binary copy,バイナリコピー
 binary cursor,バイナリ形式のカーソル
@@ -267,6 +276,7 @@ block handler,ブロックハンドラ
 block header,ブロックヘッダ
 block level,ブロックレベル
 block of text,テキストブロック
+block range,ブロックレンジ
 block size,ブロックサイズ
 block size,ブロック容量
 block,ブロック
@@ -375,8 +385,8 @@ cascading replication,カスケーディングレプリケーション
 cascading replication,カスケードレプリケーション
 cascading standby,カスケードスタンバイ
 case sensitivity,大文字小文字の区別
-case-insensitive,大文字小文字
 case,ケース
+case-insensitive,大文字小文字
 cast method,キャストメソッド
 cast,キャスト
 catalog access,カタログアクセス
@@ -591,6 +601,7 @@ constraint escape,制約エスケープ
 constraint exclusion,制約による除外
 constraint exclusion,制約除外
 constraint exclusion,制約排除
+constraint trigger,制約トリガ
 constraint,制約
 construct,コンストラクト
 constructor,コンストラクタ
@@ -676,6 +687,7 @@ cross-reference,クロスリファレンス
 cross-schema,クロススキーマ
 Cuba,キューバ
 current directory,カレントディレクトリ
+current row,現在の行
 current working directory,カレントワーキングディレクトリ
 current,現在
 cursor command,カーソルコマンド
@@ -821,6 +833,7 @@ declaration,宣言
 decode,デコード
 decoder,デコーダ
 deep copy,ディープコピー
+default B-tree operator class,デフォルトのB-tree演算子クラス
 default catalog,デフォルトカタログ
 default class,デフォルトクラス
 default database,デフォルトデータベース
@@ -839,18 +852,20 @@ default value,デフォルト値
 default,デフォルト
 deferrable transaction,遅延トランザクション
 deferrable,deferrable
+deferrable,遅延可能な
 definition,定義
 delay,遅延
 delete,削除
 deleting,削除
 deletion,削除
+delimited identifier,区切り識別子
 delimiter,デリミタ
 delimiter,区切り文字
 demo,デモ
 demoware,デモウェア
-deserialization function,デシリアライズ関数
 descriptor,ディスクリプタ
 descriptor,デスクリプタ
+deserialization function,デシリアライズ関数
 design,デザイン
 designer,設計者
 Devanagari alphabet,ヒンディーアルファベット
@@ -1045,6 +1060,7 @@ eventually consistent,最後には一貫性を持つ
 every so often,時々
 example code,サンプルコード
 example plugin,サンプルプラグイン
+example,例
 exception,例外
 exclamation mark,イクスクラメーション印
 exclamation point,感嘆符
@@ -1057,6 +1073,7 @@ executor,エクゼキュータ
 exercise,練習
 existence,存在
 expanded,拡張
+expanded,展開
 expert,エキスパート
 expire,エキスパイア
 explicit locking,明示的ロック
@@ -1212,6 +1229,7 @@ full-text indexing,フルテキストインデックス
 function,ファンクション
 function,関数
 functional dependency,関数依存
+functional notation,関数的記法
 gap,ギャップ
 garbage data,ごみデータ
 garbage data,ゴミデータ
@@ -1226,6 +1244,7 @@ generator,ジェネレータ
 generic,一般的
 genetic algorithm,遺伝的アルゴリズム
 genetic query optimization,遺伝的問い合わせ最適化
+genetic query optimizer,遺伝的問い合わせオプティマイザ
 genetic,遺伝的
 geometric data type,幾何データ型
 Germany,ドイツ
@@ -1272,6 +1291,7 @@ guidelines,ガイドライン
 hack,実装
 Haiti,ハイチ
 handle,ハンドル
+handler function,ハンドラ関数
 handler,ハンドラ
 handling,ハンドリング
 handshake,ハンドシェーク
@@ -1383,6 +1403,7 @@ hyperlinks,ハイパーリンク
 Hyphen,ハイフン
 hypothetical,仮定の
 hypothetical-set aggregate,仮想集合集約
+I/O conversion cast,I/O変換キャスト
 IBM,IBM
 ice cream,アイスクリーム
 Iceland,アイスランド
@@ -1394,16 +1415,18 @@ image,画像
 immediate shutdown,即時シャットダウン
 impact,インパクト
 implementation,実装
-improve,改善
+implicit cast,暗黙キャスト
+implicitly-typed constants,暗黙に型付けされる定数
 import library,インポートライブラリ
 import,インポート
+improve,改善
 inch,インチ
-inclusion,inclusion
 include directive,includeディレクティブ
 include directory,インクルードディレクトリ
 include files,インクルードファイル
 include path,インクルードパス
 include,include
+inclusion,inclusion
 increment,インクリメント
 indent,インデント
 index access cost,インデックスアクセスコスト
@@ -1437,6 +1460,7 @@ index-level,インデックスレベル
 index-only scan,インデックスオンリースキャン
 indexing project,インデックスプロジェクト
 indicator,指示子
+indirect,間接
 individuals,個体
 Indonesia,インドネシア
 infinite input,無限値の入力
@@ -1487,6 +1511,7 @@ interval,時間間隔
 introduction,序文
 invalid record,無効なレコード
 inverse distribution,逆分散
+inverse transition function,逆方向遷移関数
 inversion,転置
 invocation,呼び出し
 Iraq,イラク
@@ -1507,6 +1532,7 @@ jet engine,ジェットエンジン
 job,ジョブ
 Joe,ジョー
 join condition,結合条件
+join methods,結合メソッド
 join,結合
 Jordan,ヨルダン
 Journal,ジャーナル
@@ -1523,6 +1549,7 @@ Junk,ジャンク
 just-in-time,ジャストインタイム
 Kaliningrad,カリーニングラード
 Kathmandu,カトマンズ
+Kazakhstan,カザフスタン
 kB pages,キロバイトページ
 kB,キロバイト
 keepalive message,キープアライブメッセージ
@@ -1574,9 +1601,9 @@ large object interface,ラージオブジェクトインタフェース
 large object,ラージオブジェクト
 large,ラージ
 latch,ラッチ
-latency,レイテンシ
 late locking,遅いロック
 late row locking,遅延行ロック
+latency,レイテンシ
 LaTeX,LaTeX
 Latin,ラテン
 launcher daemon,ランチャデーモン
@@ -1626,8 +1653,8 @@ ligatures,合字
 lightweight lock,軽量ロック
 like,ライク
 limitation,制限
-line feed,改行文字
 line feed,改行コード
+line feed,改行文字
 line numbers,行番号
 line segment,線分
 line,直線
@@ -1695,6 +1722,7 @@ lock mode,ロックモード
 lock table,ロックテーブル
 lock timeouts,ロックタイムアウト
 lock,ロック
+locking clauses,ロック処理句
 locking system,ロックシステム
 lockup,ロックアップ
 log archive,ログアーカイブ
@@ -1726,8 +1754,12 @@ logic,ロジック
 logical change sets,ロジカルチェンジセット
 logical decoding interface,論理デコードインタフェース
 logical decoding,ロジカルデコーディング
+logical decoding,論理デコード
+logical error,論理エラー
 logical replication slot,ロジカルレプリケーションスロット
+logical replication slot,論理レプリケーションスロット
 logical replication,ロジカルレプリケーション
+logical replication,論理レプリケーション
 logical,ロジカル
 logical,論理
 logical-decoding data,ロジカルデコーディングデータ
@@ -1770,6 +1802,7 @@ major,メジャー
 make,make
 Makefile,メークファイル
 makefiles,makefile
+Malta,マルタ
 man page,マニュアルページ
 man system,マニュアルシステム
 management,管理
@@ -1912,6 +1945,7 @@ monitoring,監視
 Morocco,モロッコ
 morphological dictionaries,形態論辞書
 Moscow,モスクワ
+most common values,頻出値
 mount option,マウントオプション
 mount paths,マウントパス
 mount point,マウントポイント
@@ -2011,6 +2045,7 @@ normalization,正規化
 normalize,正規化
 North American east,北アメリカ東海岸
 North Korea,北朝鮮
+northern Cyprus,北キプロス
 Norwegian dictionary,ノルウェー辞書
 not a number,非数
 not-null constraint,非NULL制約
@@ -2051,11 +2086,13 @@ offline,オフライン
 offset,オフセット
 oid,oid
 on,オン
+on-disk,ディスク上
 one-to-many,1対多
 online backup mode,オンラインバックアップモード
 online backup,オンラインバックアップ
 online transaction,オンライントランザクション
 online,オンライン
+OOM score adjustment,OOMスコア調整
 open file,オープンファイル
 open source,オープンソース
 open,オープン
@@ -2115,8 +2152,8 @@ overhead,オーバヘッド
 overlapping matches,オーバラップマッチ
 overload,オーバーロード
 overloading,オーバーロード
-override,オーバーライド
 override,オーバライド
+override,上書き
 overrun,オーバーラン
 overrun,オーバラン
 overview,概要
@@ -2155,7 +2192,17 @@ panic message,パニックメッセージ
 panic,パニック
 Papua New Guinea,パプアニューギニア
 Paraguay,パラグアイ
+parallel aggregation,並列集約
+parallel plan,パラレルプラン
+parallel query,パラレルクエリ
+parallel query,並列問い合わせ
+parallel restricted,パラレル制限
+parallel safe,パラレル安全
+parallel scan,パラレルスキャン
 parallel universes,パラレルユニバース
+parallel unsafe,パラレル非安全
+parallel,パラレル
+parallel,並列
 parameter data,パラメータデータ
 parameter key words,パラメータキーワード
 parameter list,パラメータリスト
@@ -2177,7 +2224,10 @@ parser tools,パーサツール
 parser,パーサ
 parsing,パース
 part,パート
+partial aggregation,部分集約
 partial index,部分インデックス
+Partial Mode,部分モード
+partial plan,部分プラン
 Partition key,パーティションキー
 partition table,パーティションテーブル
 partition,パーティション
@@ -2316,6 +2366,7 @@ predicate,述語
 predicates,述語
 preface,はじめに
 preferred types,型カテゴリ
+preferred types,優先される型
 prefetch,プレフェッチ
 prefix,プレフィックス
 prefix,接頭辞
@@ -2436,6 +2487,8 @@ quota,クォータ
 quotation marks,引用符
 quote,クオート
 quoted identifier,引用符で囲まれた識別子
+quoted identifier,引用符付き識別子
+race condition,競合条件
 radians,ラジアン
 RAID array,RAIDアレー
 ram disk,RAMディスク
@@ -2458,6 +2511,7 @@ read committed,リードコミッティド
 read uncommitted,リードアンコミッティド
 read-only transaction,読み取りのみトランザクション
 read-only transaction,読み取り専用トランザクション
+read-write,読み書き
 read/write conflicts,読み取り/書き込み競合
 reader,リーダ
 readline,readline
@@ -2588,6 +2642,7 @@ response,回答
 restart point,リスタートポイント
 restart,リスタート
 restartpoints,リスタートポイント
+restartpoints,再開始点
 restore point,リストアポイント
 restore,リストア
 restriction,制限
@@ -2636,6 +2691,7 @@ row estimation,行数推定
 row level lock,行レベルロック
 row level security,行単位セキュリティ
 row level,行レベル
+row security policies,行セキュリティポリシー
 row,行
 row-level locks,行レベルロック
 row-level security,行単位セキュリティ
@@ -2650,6 +2706,7 @@ rule,ルール
 Run-time interface,ランタイムインタフェース
 runtime,ランタイム
 runtime,実行時
+Russia,ロシア
 Russian,ロシア
 safe,セーフ
 Sakhalin,サハリン
@@ -2716,6 +2773,7 @@ search,検索
 searching,検索
 searching,探索
 secondary indexes,補助的なインデックス
+secondary,二次的な
 section,セクション
 section,節
 sector,セクタ
@@ -2777,12 +2835,13 @@ sequential,シーケンシャル
 serial number,通番
 serial,シリアル
 serializable mode,シリアライザブルモード
-serialization function,シリアライズ関数
+Serializable Snapshot Isolation,シリアライザブルスナップショット分離
 serializable snapshot,シリアライザブルスナップショット
 serializable transaction,シリアライザブルトランザクション
 serializable,シリアライザブル
 serialization anomaly,直列化異常
 serialization failure,直列化の失敗
+serialization function,シリアライズ関数
 serialization mode,シリアライゼーションモード
 series,シリーズ
 server account,サーバアカウント
@@ -2876,6 +2935,7 @@ shell program,シェルプログラム
 shell script commands,シェルスクリプトコマンド
 shell script,シェルスクリプト
 shell tools,シェルツール
+shell type,シェル型
 shell,シェル
 shift,シフト
 shipping,シッピング
@@ -2908,6 +2968,7 @@ site,サイト
 situation,シチュエーション
 size,サイズ
 skip,スキップ
+skipped,スキップされた
 slash command,スラッシュコマンド
 slash,スラッシュ
 slave,スレーブ
@@ -2940,6 +3001,7 @@ solid-state drives,ソリッドステートドライブ
 solutions,ソリューション
 sort key,ソートキー
 sort node,ソートノード
+sort operator,ソート演算子
 sort options,ソートオプション
 sort support,ソートサポート
 sort,ソート
@@ -3036,6 +3098,7 @@ storage area,格納領域
 storage hardware,ストレージハードウェア
 storage manager,ストレージ管理
 storage parameters,ストレージパラメータ
+storage parameters,格納パラメータ
 storage system,保存システム
 storage,ストレージ
 stored procedure support,ストアドプロシージャサポート
@@ -3169,6 +3232,7 @@ system,システム
 tab stop,タブストップ
 tab,タブ
 table access,テーブルアクセス
+table alias,テーブルの別名
 table column,テーブル・カラム
 table command,TABLEコマンド
 table data,テーブルデータ
@@ -3192,9 +3256,9 @@ table-level lock,テーブルレベルロック
 table-level locking,テーブルレベルロック
 table-level,テーブルレベル
 tables' filenode,テーブルファイルノード
+tablespace map,テーブル空間マップ
 tablespace options,テーブルスペースオプション
 tablespace,テーブルスペース
-tablespace map,テーブル空間マップ
 tablespace,テーブル空間
 tag,タグ
 tape,テープ
@@ -3278,6 +3342,7 @@ timezone,タイムゾーン
 timing overhead,タイミング・オーバーヘッド
 timing,タイミング
 tips,コツ
+tips,ヒント
 title,タイトル
 TOAST,TOAST
 toast,トースト
@@ -3285,6 +3350,7 @@ TODO,TODO
 Tokelau Islands,トケラウ諸島
 Token ring,トークンリング
 token,トークン
+Tonga,トンガ
 tool set,ツールセット
 tool,ツール
 toolchain,ツールチェイン
@@ -3387,6 +3453,7 @@ two-phase commit,二相コミット
 type,タイプ
 type,型
 typecast,型変換
+typed table,型付きテーブル
 typo,タイポ
 U.S. letter,U.S.レター
 Ukraine,ウクライナ
@@ -3417,6 +3484,7 @@ Universal database,ユニバーサルデータベース
 Unix domain socket,Unix ドメインソケット
 Unix emulation toolkit,Unixエミュレーションツールキット
 unload,アンロード
+unlogged table,ログを取らないテーブル
 unmounting,アンマウント
 unqualified name,非修飾名
 updatable views,更新可能ビュー
@@ -3428,6 +3496,7 @@ upgrade script,アップグレードスクリプト
 upgrade,アップグレード
 upgrading,アップグレード処理
 upper relation,上位リレーション
+UPSERT,UPSERT
 Uruguay,ウルグアイ
 Use Case,ユースケース
 use during upgrade,アップグレード中の使用
