@@ -137,7 +137,7 @@ back reference,後方参照
 back-patch,バックパッチ
 backed-up data,バックアップデータ
 backend header files,バックエンドヘッダファイル
-backend interface,バックエンドインターフェイス
+backend interface,バックエンドインタフェース
 backend macros,バックエンドマクロ
 backend memory,バックエンドメモリ
 backend message,バックエンドメッセージ
@@ -781,7 +781,7 @@ database field,データベースフィールド
 database file,データベースファイル
 database installation,データベースインストレーション
 database instance,データベースインスタンス
-database interface,データベースインターフェイス
+database interface,データベースインタフェース
 database level,データベースレベル
 database mode,データベースモード
 database objects,データベースオブジェクト
@@ -830,6 +830,7 @@ debugging symbols,デバッグシンボル
 debugging tools,デバッグツール
 decimal,10進数
 declaration,宣言
+declarative table partitioning,宣言的テーブルパーティショニング
 decode,デコード
 decoder,デコーダ
 deep copy,ディープコピー
@@ -1228,7 +1229,7 @@ full-index scan,フルインデックススキャン
 full-text indexing,フルテキストインデックス
 function,ファンクション
 function,関数
-functional dependency,関数依存
+functional dependency,関数従属性
 functional notation,関数的記法
 gap,ギャップ
 garbage data,ごみデータ
@@ -1495,8 +1496,6 @@ interactive terminal,対話式端末
 interactive,インタラクティブ
 interface library,インタフェースライブラリ
 interface support,インタフェースサポート
-interface,インターフェース
-interface,インターフェイス
 interface,インタフェース
 interlock,インターロック
 intermediate table,中間テーブル
@@ -2008,7 +2007,7 @@ network attached storage,ネットワークアタッチドストレージ
 network byte order,ネットワークバイトオーダー
 network byte order,ネットワークバイト順
 network file system,ネットワークファイルシステム
-network interfaces,ネットワークインターフェイス
+network interfaces,ネットワークインタフェース
 network overhead,ネットワークオーバーヘッド
 network packets,ネットワークパケット
 network traffic,ネットワークトラフィック
@@ -2457,12 +2456,14 @@ psql,psql
 public domain,パブリックドメイン
 public schema,パブリックスキーマ
 public-key algorithms,公開キーアルゴリズム
+publication,パブリケーション
+publish,パブリッシュ
 push down,プッシュダウン
 push,プッシュ
 Python,Python
 qual,条件
 qualification,検索条件
-qualified JOINs,修飾結合
+qualified join,限定的な結合
 qualified name,修飾名
 qualifier,修飾子
 qualify,修飾
@@ -2472,6 +2473,7 @@ quarter,クォータ
 query buffer,問い合わせバッファ
 query hash,クエリハッシュ
 query Optimizer,問い合わせ最適化
+query parallelism,並列問い合わせ
 query plan,クエリプラン
 query plan,問い合わせ計画
 query rewrite rule,問い合わせ書き換えルール
@@ -3148,7 +3150,9 @@ subquery result row,副問い合わせ結果行
 subquery,サブクエリ
 subquery,副問い合わせ
 subroutine,サブルーチン
+subscribe,サブスクライブ
 subscript,添字
+subscription,サブスクリプション
 subsections,サブセクション
 subselects,サブセレクト
 subset,サブセット
@@ -3511,7 +3515,6 @@ user database,ユーザデータベース
 user guide,ユーザガイド
 user header files,ユーザヘッダファイル
 user indexes,ユーザインデックス
-user interface,ユーザインターフェイス
 user interface,ユーザインタフェース
 user key,ユーザキー
 user locale,ユーザロケール
