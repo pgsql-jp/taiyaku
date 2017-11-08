@@ -52,6 +52,7 @@ allocation,アロケーション
 allocation,割り当て
 alphabetical order,アルファベット順
 Altai,アルタイ
+Amazon,アマゾン
 America/Adak,America/Adak
 ampersand,アンパサンド
 analyze,アナライズ
@@ -288,9 +289,14 @@ Bloom,ブルーム
 board,ボード
 Bob,ボブ
 bookmarks,ブックマーク
+boolean algebra,ブール代数
 boolean expression,ブール式
+boolean expression,論理式
+boolean operator,論理演算子
 boolean value,ブール値
+boolean value,論理値
 boolean,ブーリアン
+boolean,論理
 boot,ブート
 bootstrap superuser,ブートストラップスーパーユーザ
 bootstrap,ブートストラップ
@@ -1755,6 +1761,7 @@ logical decoding interface,論理デコードインタフェース
 logical decoding,ロジカルデコーディング
 logical decoding,論理デコード
 logical error,論理エラー
+logical operator,論理演算子
 logical replication slot,ロジカルレプリケーションスロット
 logical replication slot,論理レプリケーションスロット
 logical replication,ロジカルレプリケーション
@@ -3021,6 +3028,7 @@ source package,ソースパッケージ
 source text,ソーステキスト
 source tree,ソースツリー
 source,ソース
+Soviet Union,旧ソ連
 SP-GiST,SP-GiST
 space,スペース
 spacing,スペーシング
@@ -3043,6 +3051,7 @@ SQL key words,SQLキーワード
 SQL,SQL
 SQL-injection,SQLインジェクション
 square brackets,大括弧
+Sri Lank,スリランカ
 SSL object database,SSL オブジェクトデータベース
 stable,安定（stable）
 stack overflow,スタックオーバーフロー
