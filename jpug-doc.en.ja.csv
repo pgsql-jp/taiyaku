@@ -1077,8 +1077,10 @@ execution plan,実行計画
 executor code,エクゼキュータコード
 executor context,エクゼキュータコンテキスト
 executor,エクゼキュータ
+executor,エグゼキュータ
 exercise,練習
 existence,存在
+exit status,終了ステータス
 expanded,拡張
 expanded,展開
 expert,エキスパート
@@ -1191,7 +1193,6 @@ font,フォント
 footers,フッタ
 foreground process,フォアグラウンドプロセス
 foreground,フォアグラウンド
-foreign data wrapper,データラッパの作成
 foreign data wrapper,外部データラッパ
 foreign data,外部データ
 foreign key,外部キー
@@ -2046,6 +2047,7 @@ nonmasked bits,非マスクビット
 nonnegative,非負
 nonnull,非NULL
 nonrepeatable read,反復不能読み取り
+nonzero,非ゼロ
 Norfolk Island,ノーフォーク島
 normalization,正規化
 normalize,正規化
@@ -2205,6 +2207,7 @@ parallel query,並列問い合わせ
 parallel restricted,パラレル制限
 parallel safe,パラレル安全
 parallel scan,パラレルスキャン
+parallel worker,パラレルワーカー
 parallel universes,パラレルユニバース
 parallel unsafe,パラレル非安全
 parallel,パラレル
@@ -2553,6 +2556,7 @@ recursive term,再帰的表現（recursive term）
 redirect,リダイレクト
 redirection,リダイレクション
 reference page,リファレンスページ
+reference page,マニュアルページ
 reference,リファレンス
 referenced,被参照
 referencing,参照
@@ -3069,6 +3073,7 @@ standalone utility,スタンドアローンユーティリティ
 standalone,スタンドアローン
 standard conforming,標準に従う
 standard deviation,標準偏差
+ standard distribution,標準配布物
 standard error,標準エラー
 Standard Generalized Markup Language,Standard Generalized Markup Language
 standard input,標準入力
@@ -3645,6 +3650,7 @@ write ahead log,先行書き込みログ
 write cache,ライトキャッシュ
 write through,ライトスルー
 write-ahead log,ログ先行書き込み
+write-ahead log,先行書き込みログ
 write-back,write-back
 write-through,write-through
 writer process,ライタプロセス
