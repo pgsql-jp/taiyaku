@@ -52,6 +52,7 @@ allocation,アロケーション
 allocation,割り当て
 alphabetical order,アルファベット順
 Altai,アルタイ
+Amazon,アマゾン
 America/Adak,America/Adak
 ampersand,アンパサンド
 analyze,アナライズ
@@ -137,7 +138,7 @@ back reference,後方参照
 back-patch,バックパッチ
 backed-up data,バックアップデータ
 backend header files,バックエンドヘッダファイル
-backend interface,バックエンドインターフェイス
+backend interface,バックエンドインタフェース
 backend macros,バックエンドマクロ
 backend memory,バックエンドメモリ
 backend message,バックエンドメッセージ
@@ -288,9 +289,14 @@ Bloom,ブルーム
 board,ボード
 Bob,ボブ
 bookmarks,ブックマーク
+boolean algebra,ブール代数
 boolean expression,ブール式
+boolean expression,論理式
+boolean operator,論理演算子
 boolean value,ブール値
+boolean value,論理値
 boolean,ブーリアン
+boolean,論理
 boot,ブート
 bootstrap superuser,ブートストラップスーパーユーザ
 bootstrap,ブートストラップ
@@ -781,7 +787,7 @@ database field,データベースフィールド
 database file,データベースファイル
 database installation,データベースインストレーション
 database instance,データベースインスタンス
-database interface,データベースインターフェイス
+database interface,データベースインタフェース
 database level,データベースレベル
 database mode,データベースモード
 database objects,データベースオブジェクト
@@ -830,6 +836,7 @@ debugging symbols,デバッグシンボル
 debugging tools,デバッグツール
 decimal,10進数
 declaration,宣言
+declarative table partitioning,宣言的テーブルパーティショニング
 decode,デコード
 decoder,デコーダ
 deep copy,ディープコピー
@@ -1070,8 +1077,10 @@ execution plan,実行計画
 executor code,エクゼキュータコード
 executor context,エクゼキュータコンテキスト
 executor,エクゼキュータ
+executor,エグゼキュータ
 exercise,練習
 existence,存在
+exit status,終了ステータス
 expanded,拡張
 expanded,展開
 expert,エキスパート
@@ -1184,7 +1193,6 @@ font,フォント
 footers,フッタ
 foreground process,フォアグラウンドプロセス
 foreground,フォアグラウンド
-foreign data wrapper,データラッパの作成
 foreign data wrapper,外部データラッパ
 foreign data,外部データ
 foreign key,外部キー
@@ -1228,7 +1236,7 @@ full-index scan,フルインデックススキャン
 full-text indexing,フルテキストインデックス
 function,ファンクション
 function,関数
-functional dependency,関数依存
+functional dependency,関数従属性
 functional notation,関数的記法
 gap,ギャップ
 garbage data,ごみデータ
@@ -1495,8 +1503,6 @@ interactive terminal,対話式端末
 interactive,インタラクティブ
 interface library,インタフェースライブラリ
 interface support,インタフェースサポート
-interface,インターフェース
-interface,インターフェイス
 interface,インタフェース
 interlock,インターロック
 intermediate table,中間テーブル
@@ -1756,6 +1762,7 @@ logical decoding interface,論理デコードインタフェース
 logical decoding,ロジカルデコーディング
 logical decoding,論理デコード
 logical error,論理エラー
+logical operator,論理演算子
 logical replication slot,ロジカルレプリケーションスロット
 logical replication slot,論理レプリケーションスロット
 logical replication,ロジカルレプリケーション
@@ -2008,7 +2015,7 @@ network attached storage,ネットワークアタッチドストレージ
 network byte order,ネットワークバイトオーダー
 network byte order,ネットワークバイト順
 network file system,ネットワークファイルシステム
-network interfaces,ネットワークインターフェイス
+network interfaces,ネットワークインタフェース
 network overhead,ネットワークオーバーヘッド
 network packets,ネットワークパケット
 network traffic,ネットワークトラフィック
@@ -2040,6 +2047,7 @@ nonmasked bits,非マスクビット
 nonnegative,非負
 nonnull,非NULL
 nonrepeatable read,反復不能読み取り
+nonzero,非ゼロ
 Norfolk Island,ノーフォーク島
 normalization,正規化
 normalize,正規化
@@ -2199,6 +2207,7 @@ parallel query,並列問い合わせ
 parallel restricted,パラレル制限
 parallel safe,パラレル安全
 parallel scan,パラレルスキャン
+parallel worker,パラレルワーカー
 parallel universes,パラレルユニバース
 parallel unsafe,パラレル非安全
 parallel,パラレル
@@ -2457,12 +2466,14 @@ psql,psql
 public domain,パブリックドメイン
 public schema,パブリックスキーマ
 public-key algorithms,公開キーアルゴリズム
+publication,パブリケーション
+publish,パブリッシュ
 push down,プッシュダウン
 push,プッシュ
 Python,Python
 qual,条件
 qualification,検索条件
-qualified JOINs,修飾結合
+qualified join,限定的な結合
 qualified name,修飾名
 qualifier,修飾子
 qualify,修飾
@@ -2472,6 +2483,7 @@ quarter,クォータ
 query buffer,問い合わせバッファ
 query hash,クエリハッシュ
 query Optimizer,問い合わせ最適化
+query parallelism,並列問い合わせ
 query plan,クエリプラン
 query plan,問い合わせ計画
 query rewrite rule,問い合わせ書き換えルール
@@ -2544,6 +2556,7 @@ recursive term,再帰的表現（recursive term）
 redirect,リダイレクト
 redirection,リダイレクション
 reference page,リファレンスページ
+reference page,マニュアルページ
 reference,リファレンス
 referenced,被参照
 referencing,参照
@@ -3019,6 +3032,7 @@ source package,ソースパッケージ
 source text,ソーステキスト
 source tree,ソースツリー
 source,ソース
+Soviet Union,旧ソ連
 SP-GiST,SP-GiST
 space,スペース
 spacing,スペーシング
@@ -3041,6 +3055,7 @@ SQL key words,SQLキーワード
 SQL,SQL
 SQL-injection,SQLインジェクション
 square brackets,大括弧
+Sri Lank,スリランカ
 SSL object database,SSL オブジェクトデータベース
 stable,安定（stable）
 stack overflow,スタックオーバーフロー
@@ -3058,6 +3073,7 @@ standalone utility,スタンドアローンユーティリティ
 standalone,スタンドアローン
 standard conforming,標準に従う
 standard deviation,標準偏差
+ standard distribution,標準配布物
 standard error,標準エラー
 Standard Generalized Markup Language,Standard Generalized Markup Language
 standard input,標準入力
@@ -3148,7 +3164,9 @@ subquery result row,副問い合わせ結果行
 subquery,サブクエリ
 subquery,副問い合わせ
 subroutine,サブルーチン
+subscribe,サブスクライブ
 subscript,添字
+subscription,サブスクリプション
 subsections,サブセクション
 subselects,サブセレクト
 subset,サブセット
@@ -3511,7 +3529,6 @@ user database,ユーザデータベース
 user guide,ユーザガイド
 user header files,ユーザヘッダファイル
 user indexes,ユーザインデックス
-user interface,ユーザインターフェイス
 user interface,ユーザインタフェース
 user key,ユーザキー
 user locale,ユーザロケール
@@ -3633,6 +3650,7 @@ write ahead log,先行書き込みログ
 write cache,ライトキャッシュ
 write through,ライトスルー
 write-ahead log,ログ先行書き込み
+write-ahead log,先行書き込みログ
 write-back,write-back
 write-through,write-through
 writer process,ライタプロセス
