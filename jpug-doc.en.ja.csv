@@ -274,6 +274,7 @@ BKI,BKI
 block cache,ブロックキャッシュ
 block comment,ブロックコメント
 block counts,ブロックカウント
+block device,ブロックデバイス
 block handler,ブロックハンドラ
 block header,ブロックヘッダ
 block level,ブロックレベル
@@ -282,7 +283,6 @@ block range,ブロックレンジ
 block size,ブロックサイズ
 block size,ブロック容量
 block,ブロック
-block-device,ブロックデバイス
 blocking locks,ブロッキングロック
 blocking,ブロッキング
 blocks of zeroes,ゼロブロック
@@ -949,7 +949,7 @@ double quotes,ダブルクオート
 down,ダウン
 downgrade logic,ダウングレードロジック
 downgrade script,ダウングレードスクリプト
-downgrading,ダウングレード
+downgrade,ダウングレード
 download,ダウンロード
 drive cache,ドライブキャッシュ
 drive,ドライブ
