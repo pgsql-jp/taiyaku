@@ -112,6 +112,7 @@ asynchronous,非同期
 at sign,アットマーク
 atom,アトム
 atomic,原子的
+Atlantic,大西洋
 attach,アタッチ
 attribute,属性
 Australia,オーストラリア
@@ -273,6 +274,7 @@ BKI,BKI
 block cache,ブロックキャッシュ
 block comment,ブロックコメント
 block counts,ブロックカウント
+block device,ブロックデバイス
 block handler,ブロックハンドラ
 block header,ブロックヘッダ
 block level,ブロックレベル
@@ -281,7 +283,6 @@ block range,ブロックレンジ
 block size,ブロックサイズ
 block size,ブロック容量
 block,ブロック
-block-device,ブロックデバイス
 blocking locks,ブロッキングロック
 blocking,ブロッキング
 blocks of zeroes,ゼロブロック
@@ -438,6 +439,7 @@ chunk of memory,メモリチャンク
 chunk,チャンク
 CIDR,CIDR
 city,都市
+CKT,CKT
 class member,クラスメンバ
 class,クラス
 class-shorthand escapes,クラス省略エスケープ
@@ -625,6 +627,7 @@ controller,コントローラ
 conventions,規約
 conversion,変換
 converter,コンバータ
+Cook Islands,クック諸島
 copy and paste,コピーペースト
 copy data,コピーデータ
 copy message,コピーメッセージ
@@ -946,7 +949,7 @@ double quotes,ダブルクオート
 down,ダウン
 downgrade logic,ダウングレードロジック
 downgrade script,ダウングレードスクリプト
-downgrading,ダウングレード
+downgrade,ダウングレード
 download,ダウンロード
 drive cache,ドライブキャッシュ
 drive,ドライブ
@@ -2601,6 +2604,7 @@ repeatable read transaction,リピータブルリードトランザクション
 repeatable read,リピータブルリード
 replay,リプレイ
 replica,レプリカ
+replica identity,レプリカアイデンティティ
 replication commands,レプリケーションコマンド
 replication data,レプリケーションデータ
 replication options,レプリケーションオプション
@@ -3152,7 +3156,6 @@ subtype,派生元型
 Sudan,スーダン
 suffix,サフィックス
 suffix,接尾辞
-suite,スィート
 suite,スイート
 sum,総和
 summary table,サマリテーブル
@@ -3270,7 +3273,6 @@ test data,テストデータ
 test files,テストファイル
 test program,テストプログラム
 test script,テストスクリプト
-test suite,テストスィート
 test suite,テストスイート
 test,テスト
 text data,テキストデータ
@@ -3321,7 +3323,7 @@ timeline,タイムライン
 timelines,タイムライン
 timeout,タイムアウト
 timer,タイマー
-timestamp,タイプスタンプ
+timestamp,タイムスタンプ
 timezone offset,タイムゾーンオフセット
 timezone,タイムゾーン
 timing overhead,タイミング・オーバーヘッド
