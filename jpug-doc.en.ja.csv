@@ -563,7 +563,7 @@ compiler driver,コンパイラドライバ
 compiler flag,コンパイラフラグ
 compiler option,コンパイラオプション
 compiler option,コンパイルオプション
-Compiler suite,コンパイラスィート
+Compiler suite,コンパイラスイート
 compiler tool,コンパイラツール
 compiler,コンパイラ
 complex number,複素数
@@ -1061,7 +1061,6 @@ execution plan,実行計画
 executor code,エクゼキュータコード
 executor context,エクゼキュータコンテキスト
 executor,エクゼキュータ
-executor,エグゼキュータ
 exercise,練習
 existence,存在
 exit status,終了ステータス
@@ -1086,11 +1085,9 @@ external representations,外部表現
 facilities,ファシリティ
 fact table,ファクトテーブル
 factor,ファクタ
-failover cluster,フェールオーバクラスタ
-failover signal,フェイルオーバシグナル
-failover systems,フェールオーバーシステム
-failover,フェールオーバ
-failover,フェイルオーバ
+failover cluster,フェールオーバークラスタ
+failover signal,フェイルオーバーシグナル
+failover systems,フェイルオーバーシステム
 failover,フェイルオーバー
 Falkland,フォークランド
 false,偽
@@ -2783,8 +2780,7 @@ self join,自己結合
 self-join,自己結合
 semantic,セマンティック
 semantics,セマンティクス
-semantics,セマンティックス
-semantics,セマンテックス
+semantics,意味
 semaphore map,セマフォマップ
 semaphore resource map,セマフォリソースマップ
 semaphore set,セマフォセット
@@ -2945,7 +2941,7 @@ sliced bread,スライスパン
 slot,スロット
 smart failover,スマートフェイルオーバー
 smart shutdown,スマートシャットダウン
-snapshot semantics,スナップショットセマンティックス
+snapshot semantics,スナップショットセマンティクス
 snapshot types,スナップショットタイプ
 snapshot,snapshot
 snapshot,スナップショット
@@ -3134,7 +3130,6 @@ subtype,派生元型
 Sudan,スーダン
 suffix,サフィックス
 suffix,接尾辞
-suite,スイート
 sum,総和
 summary table,サマリテーブル
 summary,要約
