@@ -128,8 +128,8 @@ autovacuum daemon,自動バキュームデーモン
 autovacuum launcher,自動バキュームランチャ
 autovacuum processes,自動バキュームプロセス
 autovacuum transactions,自動バキュームトランザクション
-autovacuum worker process,バキュームワーカプロセス
-autovacuum worker,自動バキュームワーカ
+autovacuum worker process,バキュームワーカープロセス
+autovacuum worker,自動バキュームワーカー
 autovacuum,オートバキューム
 autovacuum,自動バキューム
 average,平均
@@ -155,11 +155,9 @@ background process,バックグラウンドプロセス
 background runner,バックグラウンドランナー
 background tables,バックグラウンドテーブル
 background worker process,バックグラウンドワーカープロセス
-background worker processes,バックグラウンドワーカプロセス
-background worker,バックグラウンドワーカ
+background worker,バックグラウンドワーカー
 background writer process's,バックグラウンドライタプロセス
 background writer,バックグラウンドライタ
-background writer,バックグラウンドライター
 background,バックグラウンド
 backlog queue,バックログキュー
 backport,バックポート
@@ -206,8 +204,7 @@ basic,基本
 batch job,バッチジョブ
 batch,バッチ
 battery,バッテリ
-battery,バッテリー
-battery-backed,バッテリー・バックアップ
+battery-backed,バッテリ・バックアップ
 battery-backup units,バッテリバックアップ付き装置
 battery-backup,バッテリバックアップ
 before-images,更新前イメージ
@@ -295,7 +292,6 @@ boolean expression,論理式
 boolean operator,論理演算子
 boolean value,ブール値
 boolean value,論理値
-boolean,ブーリアン
 boolean,論理
 boot,ブート
 bootstrap superuser,ブートストラップスーパーユーザ
@@ -327,7 +323,6 @@ buffer cache,バッファキャッシュ
 buffer hits,バッファヒット
 buffer lock,バッファロック
 buffer manager,バッファマネージャ
-buffer overflow,バッファーオーバーフロー
 buffer overflow,バッファオーバーフロー
 buffer overrun,バッファオーバーラン
 buffer pins,バッファピン
@@ -481,7 +476,6 @@ closed,閉じた
 cluster data directory,クラスタデータディレクトリ
 cluster directory,クラスタディレクトリ
 cluster,クラスタ
-cluster,クラスター
 cluster-wide,クラスタ全体
 clusterware,クラスタウェア
 code block,コードブロック
@@ -748,10 +742,9 @@ data stream,データストリーム
 data type,データタイプ
 data type,データ型
 data warehouse,データウェアハウス
-data wrapper helper,データラッパヘルパ
-data wrapper options,データラッパオプション
-data wrapper support,データラッパサポート
-data wrapper,データラッパ
+data wrapper helper,データラッパーヘルパ
+data wrapper options,データラッパーオプション
+data wrapper support,データラッパーサポート
 data wrapper,データラッパー
 data,データ
 database access error,データベースアクセスエラー
@@ -888,7 +881,6 @@ dirty data pages,ダーティデータページ
 dirty data pages,ダーティページデータ
 dirty read,ダーティリード
 dirty,ダーティ
-dirty,ダーティー
 discrete,離散
 disjunction,論理和
 disk access,ディスク・アクセス
@@ -995,7 +987,6 @@ entity,実体
 entry point,エントリーポイント
 entry point,エントリポイント
 entry,エントリ
-entry,エントリー
 enumerated types,列挙型
 environment variable,環境変数
 environment,環境
@@ -1044,7 +1035,6 @@ event trigger code,イベントトリガコード
 event trigger manager,イベントトリガマネージャ
 event trigger procedure,イベントトリガプロシージャ
 event trigger,イベントトリガ
-event trigger,イベントトリガー
 event viewer,イベントビューア
 event,イベント
 eventually consistent,最後には一貫性を持つ
@@ -1058,9 +1048,9 @@ exclamation point,感嘆符
 exclusion constraint,排他制約
 execute,実行
 execution plan,実行計画
-executor code,エクゼキュータコード
-executor context,エクゼキュータコンテキスト
-executor,エクゼキュータ
+executor code,エグゼキュータコード
+executor context,エグゼキュータコンテキスト
+executor,エグゼキュータ
 exercise,練習
 existence,存在
 exit status,終了ステータス
@@ -1085,7 +1075,7 @@ external representations,外部表現
 facilities,ファシリティ
 fact table,ファクトテーブル
 factor,ファクタ
-failover cluster,フェールオーバークラスタ
+failover cluster,フェイルオーバークラスタ
 failover signal,フェイルオーバーシグナル
 failover systems,フェイルオーバーシステム
 failover,フェイルオーバー
@@ -1093,7 +1083,6 @@ Falkland,フォークランド
 false,偽
 family of address,アドレスファミリ
 family,ファミリ
-family,ファミリー
 FAQ,FAQ
 fast failover,ファストフェイルオーバー
 fast path,近道
@@ -1150,7 +1139,6 @@ filenode,ファイルノード
 filesystem snapshot,ファイルシステムスナップショット
 fill factor,フィルファクタ
 filter,フィルタ
-filter,フィルター
 filtering dictionary,フィルタリング辞書
 filtering,フィルタリング
 filtering,フィルタ処理
@@ -1173,7 +1161,7 @@ font,フォント
 footers,フッタ
 foreground process,フォアグラウンドプロセス
 foreground,フォアグラウンド
-foreign data wrapper,外部データラッパ
+foreign data wrapper,外部データラッパー
 foreign data,外部データ
 foreign key,外部キー
 foreign server,外部サーバ
@@ -1321,7 +1309,6 @@ header bytes,ヘッダバイト
 header field,ヘッダフィールド
 header file,ヘッダファイル
 header,ヘッダ
-header,ヘッダー
 heading,見出し
 heap entry,ヒープエントリ
 heap memory,ヒープメモリ
@@ -1431,7 +1418,7 @@ index relation,インデックスリレーション
 index scan node,インデックススキャンノード
 index scan,インデックススキャン
 index scan,インデックス走査
-index semantics,インデックスセマンティックス
+index semantics,インデックスセマンティクス
 index size,インデックスサイズ
 index support,インデックスサポート
 index tree,インデックスツリー
@@ -1800,19 +1787,15 @@ marking,マーキング
 markup,マークアップ
 mary,メアリー
 mask,マスク
-master database cluster,マスターデータベースクラスタ
+master database cluster,マスタデータベースクラスタ
 master key,マスタキー
-master mode,マスターモード
-master process,マスタープロセス
+master mode,マスタモード
 master process,マスタプロセス
 master repository,マスタリポジトリ
 master server process,マスタサーバプロセス
-master server,マスターサーバ
 master server,マスタサーバ
-master table,マスターテーブル
 master table,マスタテーブル
 master,マスタ
-master,マスター
 master-standby replication,マスタ・スタンバイレプリケーション
 match,マッチ
 matching,マッチング
@@ -1834,7 +1817,6 @@ member machine,メンバマシン
 member object,メンバオブジェクト
 member relations,メンバーリレーション
 member,メンバ
-members,メンバー
 membership,メンバーシップ
 membership,メンバシップ
 membership,メンバ資格
@@ -1846,8 +1828,7 @@ memory blocks,メモリブロック
 memory buffers,メモリバッファ
 memory context,メモリコンテキスト
 memory copying,メモリコピー
-memory errors,メモリーエラー
-memory leak,メモリーリーク
+memory errors,メモリエラー
 memory leak,メモリリーク
 memory model,メモリモデル
 memory overcommit,メモリオーバーコミット
@@ -1857,7 +1838,6 @@ memory segment,メモリセグメント
 memory size,メモリサイズ
 memory support,メモリサポート
 memory,メモリ
-memory,メモリー
 memory-based,メモリベース
 merge join,マージ結合
 merge,マージ
@@ -2119,11 +2099,10 @@ overcommit,オーバーコミット
 overflow,オーバーフロー
 overhaul,オーバーホール
 overhead,オーバーヘッド
-overhead,オーバヘッド
-overlapping matches,オーバラップマッチ
+overlapping matches,オーバーラップマッチ
 overload,オーバーロード
 overloading,オーバーロード
-override,オーバライド
+override,オーバーライド
 override,上書き
 overrun,オーバーラン
 overview,概要
@@ -2362,11 +2341,9 @@ primary keepalive message,プライマリキープアライブメッセージ
 primary key field,主キーフィールド
 primary key,主キー
 primary node,プライマリノード
-primary server,プライマリーサーバ
 primary server,プライマリサーバ
 primary system,プライマリシステム
 primary,プライマリ
-primary,プライマリー
 primitive,プリミティブ
 principal,プリンシパル
 print,プリント
@@ -2389,7 +2366,7 @@ process stack size,プロセススタックサイズ
 process title,プロセスタイトル
 process,プロセス
 processor,プロセッサ
-production,稼動
+production,稼働
 Professor,教授
 profiles,プロファイル
 profiling,プロファイリング
@@ -2455,7 +2432,6 @@ query terms,検索語
 query text,クエリテキスト
 query tree,問い合わせツリー
 query,クエリ
-query,クエリー
 query,問い合わせ
 queue,キュー
 quota,クォータ
@@ -2511,7 +2487,6 @@ recovery script,リカバリスクリプト
 recovery software,リカバリーソフトウェア
 recovery target,リカバリターゲット
 recovery,リカバリ
-recovery,リカバリー
 rectangle,矩形
 rectangle,長方形
 recursive term,再帰的表現（recursive term）
@@ -2632,7 +2607,6 @@ right join,右結合
 risk,リスク
 robustness,堅牢性
 role members,ロールメンバ
-role members,ロールメンバー
 role password,ロールパスワード
 role system,ロールシステム
 role tables,ロールテーブル
@@ -2703,9 +2677,7 @@ scalar context,スカラコンテキスト
 scalar data,スカラデータ
 scalar expressions,スカラ式
 scalar,スカラ
-scalar,スカラー
 scale factor,スケールファクタ
-scale factor,スケールファクター
 scale,位取り
 scan cost,スキャンコスト
 scan key,スキャンキー
@@ -2714,7 +2686,6 @@ scan node,スキャンノード
 scan plan,スキャンプラン
 scan,スキャン
 scanner,スキャナ
-scanner,スキャナー
 scenario,シナリオ
 schedule lag time,スケジュールラグタイム
 schedule,スケジュール
@@ -2827,7 +2798,6 @@ server host,サーバホスト
 server instance,サーバインスタンス
 server key type,サーバキータイプ
 server log files,サーバログファイル
-server log,サーバーログ
 server log,サーバログ
 server machine,サーバマシン
 server manual,サーバマニュアル
@@ -2858,7 +2828,6 @@ server transaction,サーバトランザクション
 server user,サーバユーザ
 server version,サーババージョン
 server,サーバ
-server,サーバー
 server-side encoding,サーバサイドエンコーディング
 server-side,サーバサイド
 service file,サービスファイル
@@ -3021,7 +2990,7 @@ standalone utility,スタンドアローンユーティリティ
 standalone,スタンドアローン
 standard conforming,標準に従う
 standard deviation,標準偏差
- standard distribution,標準配布物
+standard distribution,標準配布物
 standard error,標準エラー
 Standard Generalized Markup Language,Standard Generalized Markup Language
 standard input,標準入力
@@ -3045,6 +3014,7 @@ state values,状態値
 statement,ステートメント
 statement,文
 statement-level,文レベル
+statement triggers,文トリガ
 static,静的
 statistical,統計
 statistics collector,統計情報コレクタ
@@ -3328,7 +3298,6 @@ transaction counter,トランザクションカウンタ
 transaction data,トランザクションデータ
 transaction ID wraparound,トランザクションIDの周回
 transaction ID,トランザクションID
-transaction isolation level,トランザクション隔離レベル
 transaction isolation level,トランザクション分離レベル
 transaction isolation,トランザクションの分離
 transaction level,トランザクションレベル
@@ -3374,7 +3343,6 @@ trigger parameters,トリガパラメータ
 trigger procedures,トリガプロシージャ
 trigger programmer,トリガプログラマ
 trigger,トリガ
-trigger,トリガー
 trigger-based,トリガベース
 trigram,トライグラム
 Trojan horse,トロイの木馬
@@ -3480,7 +3448,6 @@ user sessions,ユーザセッション
 user table,ユーザテーブル
 user triggers,ユーザトリガ
 user,ユーザ
-user,ユーザー
 user-defined,ユーザ定義
 user-friendly,ユーザフレンドリ
 user-level,ユーザレベル
@@ -3506,10 +3473,8 @@ variance,分散
 variation,バリエーション
 varlena,varlena
 vector,ベクタ
-vector,ベクター
 vector,ベクトル
 vendor,ベンダ
-vendor,ベンダー
 Venezuela,ベネズエラ
 VERBOSE,VERBOSE
 version upgrades,バージョンアップ
@@ -3564,16 +3529,14 @@ witness server,証言サーバ
 witness server,証明サーバ
 word,ワード
 work around,ワークアラウンド
-worker process,ワーカプロセス
-worker threads,ワーカスレッド
-worker,ワーカ
+worker process,ワーカープロセス
+worker threads,ワーカースレッド
 worker,ワーカー
 working table,作業テーブル
 workstation,ワークステーション
 wrap,ラップ
 wraparound,周回
-wrapper program,ラッパプログラム
-wrapper,ラッパ
+wrapper program,ラッパープログラム
 wrapper,ラッパー
 write ahead log,先行書き込みログ
 write cache,ライトキャッシュ
