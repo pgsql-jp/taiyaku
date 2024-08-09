@@ -1,62 +1,89 @@
 en,ja
 abort,アボート
 abort,中断
-abstract data type,抽象データ型
 abstract,アブストラクト
 abstract,理論
+abstract data type,抽象データ型
 abstraction,抽象化
 accents,アクセント
 accents,訛り
+access,アクセス
 access control list,アクセス制御リスト
 access costs,アクセスコスト
 access count,アクセスカウント
+accessing,アクセス
+access keyword,アクセスキーワード
 access logs,アクセスログ
+access method property,アクセスメソッドプロパティ
 access methods,アクセスメソッド
+access method support,アクセスメソッドサポート
+accessor,アクセサ
+accessor chain,アクセサチェーン
 access paths,アクセスパス
 access pattern,アクセスパターン
 access penalty,アクセスペナルティ
+access permission,アクセスパーミッション
+access request message,アクセスリクエストメッセージ
 access rights,アクセス権
-access,アクセス
-accessing,アクセス
 account,アカウント
+acl,acl
 ACL,ACL
 acronyms,頭字語
 action code,アクションコード
+action list,アクションリスト
 actions,アクション
-active directory,アクティブディレクトリ
 active,アクティブ
-add-in's,アドイン
+active directory,アクティブディレクトリ
+activity,アクティビティ
 add-in,アドイン
+add-in's,アドイン
 add-on,アドオン
-address field,アドレスフィールド
-address space,アドレス空間
 address,アドレス
-admin option,アドミンオプション
+address family,アドレスファミリー
+address field,アドレスフィールド
+addressing,アドレッシング
+address mask,アドレスマスク
+address space,アドレス空間
+ad hoc,アドホック
 administration tools,管理ツール
-advanced features,高度な諸機能
+administrator,管理者
+admin option,アドミンオプション
+adress bit,アドレスビット
 advanced,高度な
+advanced features,高度な諸機能
 advice,アドバイス
 advisory lock,アドバイザリロック
 advisory lock,勧告的ロック
+advisory locks,勧告的ロック
+affix,接辞
 affix file,接辞ファイル
-aggregate expression,集約式
-aggregate function,集約関数
+after,後
+after-images,更新後イメージ
 aggregate,集約
 aggregated arguments,集約引数
+aggregate expression,集約式
+aggregate function,集約関数
+aggregate functions,集約関数
+aggregates,集約
 aggressive vacuum,積極的なバキューム
 Alaska,アラスカ
 algorithm,アルゴリズム
+alias,エイリアス
 alias,別名
 Alice,アリス
+alignment,アライメント
 allocation,アロケーション
 allocation,割り当て
+all visible,全可視
+alphabet,アルファベット
 alphabetical order,アルファベット順
 Altai,アルタイ
 Amazon,アマゾン
 America/Adak,America/Adak
 ampersand,アンパサンド
-ANALYZE,ANALYZE
+analytic functions,分析関数
 analyze,アナライズ
+ANALYZE,ANALYZE
 announce,アナウンス
 anonymous code blocks,無名コードブロック
 ANSI,ANSI
@@ -64,20 +91,25 @@ Antarctica,南極
 anti,アンチ
 Anti-virus,アンチウィルス
 anti-wraparound,ラップアラウンド防止
-API struct,API構造体
+api,エイ・ピー・アイ
 API,API
-Append plan,Appendプラン
+api struct,api構造体
+API struct,API構造体
+app,アプリ
+append,アペンド
 Appendixes,付録
+Append plan,Appendプラン
 applicable role,適用可能なロール
+application,アプリケーション
 application code,アプリケーションコード
 application data subdirectory,アプリケーションデータディレクトリ
+application instance,アプリケーション・インスタンス
 application interfaces,アプリケーションインタフェース
 application level,アプリケーションレベル
 application program,アプリケーションプログラム
 application programmers,アプリケーションプログラマ
 application software,アプリケーションソフトウェア
 application's thread,アプリケーションスレッド
-application,アプリケーション
 approach,アプローチ
 approach,方法
 Arabia,アラビア
@@ -85,142 +117,202 @@ Arabic,アラビア語
 arbiter indexes,競合解決インデックス
 arbitrary precision numbers,任意の精度を持つ数
 architecture,アーキテクチャ
-archive command,アーカイブコマンド
-archive system,アーカイブシステム
 archive,アーカイブ
+archive base,アーカイブベース
+archive callback,アーカイブコールバック
+archive command,アーカイブコマンド
+archive data,アーカイブデータ
+archive directory,アーカイブ・ディレクトリ
+archive directory,アーカイブディレクトリ
+archive file,アーカイブファイル
+archive library,アーカイブ・ライブラリ
+archive library,アーカイブライブラリ
+archive log,アーカイブログ
+archive mode,アーカイブモード
+archive module,アーカイブ・モジュール
+archive module,アーカイブモジュール
+archive module callback,アーカイブ・モジュール・コールバック
+archive module callback,アーカイブモジュールコールバック
+archive process,アーカイブプロセス
+archiver,アーカイバ
+archive recovery,アーカイブリカバリ
+archiver process,アーカイバプロセス
+archive segment,アーカイブセグメント
+archive status directory,アーカイブステータスディレクトリ
+archive storage,アーカイブストレージ
+archive support,アーカイブサポート
+archive system,アーカイブシステム
+archive tool,アーカイブツール
 archiving,アーカイビング
 Argentina,アルゼンチン
 argument,引数
+arm,アーム
 Armenia,アルメニア
+armor,アーマー
 armor header,アーマーヘッダ
+array,アレイ
 array,配列
+ascii,アスキー
 ASCII-armor,ASCIIアーマー
 ASCII-art,アスキーアート
 Asia,アジア
-assertion check,アサーションチェック
-assertion failures,アサーションエラー
+assert build,アサートビルド
 assertion,アサーション
 assertion,アサート
+assertion check,アサーションチェック
+assertion failures,アサーションエラー
 asserts,アサート
 assigned,アサイン
 assignment cast,代入キャスト
 asterisk,アスタリスク
 Astrakhan,アストラハン
+asynchronous,非同期
 asynchronous commit,非同期コミット
 asynchronous multimaster replication,非同期マルチマスタレプリケーション
-asynchronous,非同期
-at sign,アットマーク
-atom,アトム
-atomic,原子的
 Atlantic,大西洋
+atom,アトム
+atomic,アトミック
+atomic,原子的
+at sign,アットマーク
 attach,アタッチ
+attribute,アトリビュート
 attribute,属性
 Australia,オーストラリア
 authenticated user,認証されたユーザ
 authentication,認証
 author,作者
 authority,権限
-auto-increment,自動増分
 Autochanger,オートチェンジャ
 autocommit,自動コミット
+auto-increment,自動増分
 automatically updatable,自動的に更新可能
-autovacuum daemon,自動バキュームデーモン
-autovacuum launcher,自動バキュームランチャ
-autovacuum processes,自動バキュームプロセス
-autovacuum transactions,自動バキュームトランザクション
-autovacuum worker process,バキュームワーカープロセス
-autovacuum worker,自動バキュームワーカー
 autovacuum,オートバキューム
 autovacuum,自動バキューム
+autovacuum daemon,自動バキュームデーモン
+autovacuum launcher,自動バキュームランチャ
+autovacuum launcher,自動バキュームランチャー
+autovacuum processes,自動バキュームプロセス
+autovacuum transactions,自動バキュームトランザクション
+autovacuum worker,自動バキュームワーカー
+auto vacuum worker process,オートバキュームワーカープロセス
+autovacuum worker process,バキュームワーカープロセス
+autovacuum workers,自動バキュームワーカー
 average,平均
 Azerbaijan,アゼルバイジャン
-B-tree,B-tree
-back reference,後方参照
-back-patch,バックパッチ
 backed-up data,バックアップデータ
+backend,バックエンド
+backend activity,バックエンドアクティビティ
+backend crash,バックエンドクラッシュ
 backend header files,バックエンドヘッダファイル
 backend interface,バックエンドインタフェース
+backend local,バックエンドローカル
 backend macros,バックエンドマクロ
 backend memory,バックエンドメモリ
+backend memory context,バックエンドメモリコンテキスト
 backend message,バックエンドメッセージ
 backend parameters,バックエンドパラメータ
 backend process,バックエンドプロセス
 backend protocol,バックエンドプロトコル
-backend server process,バックエンドサーバプロセス
 backend server,バックエンドサーバ
+backend server process,バックエンドサーバプロセス
 backend shutdown,バックエンドシャットダウン
+backend slot,バックエンドスロット
 backend stack size,バックエンドスタックサイズ
-backend,バックエンド
+backend support,バックエンドサポート
+backend type,バックエンドタイプ
+background,バックグラウンド
 background process,バックグラウンドプロセス
+background process role,バックグラウンドプロセスロール
 background runner,バックグラウンドランナー
 background tables,バックグラウンドテーブル
-background worker process,バックグラウンドワーカープロセス
+background task,バックグラウンドタスク
 background worker,バックグラウンドワーカー
-background writer process's,バックグラウンドライタプロセス
+background worker process,バックグラウンドワーカープロセス
 background writer,バックグラウンドライタ
-background,バックグラウンド
+background writer process's,バックグラウンドライタプロセス
 backlog queue,バックログキュー
+back-patch,バックパッチ
 backport,バックポート
 backquote,逆引用符
-backslash command,バックスラッシュコマンド
-backslash escape sequence,バックスラッシュエスケープシーケンス
-backslash escape,バックスラッシュエスケープ
-backslash quotes,バックスラッシュによる引用
+back reference,後方参照
 backslash,バックスラッシュ
+backslash command,バックスラッシュコマンド
+backslash escape,バックスラッシュエスケープ
+backslash escape sequence,バックスラッシュエスケープシーケンス
+backslash quotes,バックスラッシュによる引用
 backspace,バックスペース
 backspace,後退
 back-stop,バックネット
+backtrace,バックトレース
+backup,バックアップ
 backup blocks,バックアップブロック
 backup copy,バックアップコピー
 backup device,バックアップデバイス
-backup dump file,バックアップダンプファイル
+backup directory,バックアップディレクトリ
 backup dump,バックアップダンプ
+backup dump file,バックアップダンプファイル
 backup file,バックアップファイル
 backup history file,バックアップ履歴ファイル
-backup label file,バックアップラベルファイル
 backup label,バックアップラベル
+backup label file,バックアップラベルファイル
+backup manifest,バックアップマニフェスト
+backup manifest file,バックアップマニフェストファイル
 backup mode,バックアップモード
+backup process,バックアッププロセス
+backup record,バックアップレコード
 backup scripts,バックアップスクリプト
 backup server,バックアップサーバ
 backup session,バックアップセッション
 backup sets,バックアップセット
 backup software,バックアップソフトウェア
+backup target,バックアップ・ターゲット
+backup target,バックアップターゲット
 backup tool,バックアップツール
-backup,バックアップ
 Bahamas,バハマ
 balance,バランス
 Baltic,バルト語派
+band,バンド
 Bangladesh,バングラデシュ
 barrier,バリア
+barrier event,バリアイベント
+base,ベース
+base backup,ベース・バックアップ
 base backup,ベースバックアップ
+base backup client,ベースバックアップクライアント
 base directory,ベースディレクトリ
 base name,ベースネーム
+base relation,ベースリレーション
+base system,ベースシステム
 base table,ベーステーブル
 base table,基本テーブル
 base tables,実テーブル
 base type,基本型
-base,ベース
 basic,基本
-batch job,バッチジョブ
 batch,バッチ
+batch data,バッチデータ
+batch job,バッチジョブ
+batch mode,バッチモード
 battery,バッテリ
 battery-backed,バッテリ・バックアップ
-battery-backup units,バッテリバックアップ付き装置
 battery-backup,バッテリバックアップ
-before-images,更新前イメージ
+battery-backup units,バッテリバックアップ付き装置
 before,前
+before-images,更新前イメージ
 Belarus,ベラルーシ
 Belgium,ベルギー
 bell,ベル
-benchmark scenarios,ベンチマークシナリオ
 benchmark,ベンチマーク
-Berkeley code,バークレイコード
+benchmark scenarios,ベンチマークシナリオ
 Berkeley,バークレイ
+Berkeley code,バークレイコード
 best,ベスト
+best practice,ベストプラクティス
 beta,ベータ
 bibliography,参考文献
 big-endian,ビッグエンディアン
+binary,バイナリ
 binary backups,バイナリバックアップ
+binary build,バイナリビルド
 binary coercible,バイナリ強制互換
 binary coercion casts,バイナリキャスト
 Binary copy,バイナリコピー
@@ -229,6 +321,7 @@ binary data,バイナリデータ
 binary file,バイナリファイル
 binary form,バイナリフォーム
 binary format,バイナリフォーマット
+binary format data,バイナリフォーマットデータ
 binary hash,バイナリハッシュ
 binary heap,バイナリヒープ
 binary key,バイナリキー
@@ -237,110 +330,167 @@ binary mode,バイナリモード
 binary operator,二項演算子
 binary package,バイナリパッケージ
 binary parameters,バイナリパラメータ
+binary streaming replication,バイナリストリーミングレプリケーション
 binary string,バイナリ文字列
 binary tree,バイナリツリー
-binary,バイナリ
+bind,バインド
+bind address,バインドアドレス
+binding,バインディング
 bind mode,バインド・モード
 bind parameters,バインドパラメータ
-bind,バインド
-binding,バインディング
+bit,ビット
 bit binary,ビットバイナリ
 bit build,ビットビルド
 bit code,ビットコード
 bit compiler,ビットコンパイラ
 bit counter,ビットカウンタ
 bit data,ビットデータ
+bit epoch,ビットエポック
+bit error,ビットエラー
+bit hash,ビットハッシュ
 bit key,ビットキー
+bit machine,ビットマシン
+bitmap,ビットマップ
+bitmap heap scan,ビットマップヒープスキャン
+bitmap index,ビットマップインデックス
+bitmap index scan,ビットマップインデックススキャン
+bitmap page,ビットマップページ
+bitmap scan,ビットマップスキャン
+bitmap table scan,ビットマップテーブルスキャン
 bit mask,ビットマスク
+bit overflow,ビットオーバーフロー
 bit platforms,ビットプラットフォーム
+bit process,ビットプロセス
+bit processor,ビットプロセッサ
 bit release,ビットリリース
+bit server architecture,ビットサーバアーキテクチャ
 bit shifting,ビットシフト
 bit string,ビット文字列
 bit string,ビット列
 bit system,ビットシステム
 bit unicode,ビットユニコード
-bit,ビット
-bitmap heap scan,ビットマップヒープスキャン
-bitmap index scan,ビットマップインデックススキャン
-bitmap index,ビットマップインデックス
-bitmap scan,ビットマップスキャン
-bitmap table scan,ビットマップテーブルスキャン
-bitmap,ビットマップ
 bitwise flags,ビットフラグ
 BKI,BKI
+black box,ブラックボックス
+bloat,ブロート
+block,ブロック
+block address,ブロックアドレス
 block cache,ブロックキャッシュ
+block close,ブロッククローズ
 block comment,ブロックコメント
 block counts,ブロックカウント
+block data,ブロックデータ
 block device,ブロックデバイス
 block handler,ブロックハンドラ
 block header,ブロックヘッダ
+blocking,ブロッキング
+blocking locks,ブロッキングロック
+blocking mode,ブロッキングモード
 block level,ブロックレベル
+block level counter,ブロックレベルカウンタ
+block mode,ブロックモード
 block of text,テキストブロック
 block range,ブロックレンジ
+block range index,ブロックレンジインデックス
+block ranges,ブロックレンジ(block range)
 block size,ブロックサイズ
 block size,ブロック容量
-block,ブロック
-blocking locks,ブロッキングロック
-blocking,ブロッキング
 blocks of zeroes,ゼロブロック
 Bloom,ブルーム
+bloom filter,ブルームフィルタ
+bloom filter index access method,ブルームフィルタインデックスアクセスメソッド
+bloom index,ブルームインデックス
 board,ボード
 Bob,ボブ
+boolean,ブール
+boolean,論理
 boolean algebra,ブール代数
 boolean expression,ブール式
 boolean expression,論理式
 boolean operator,論理演算子
+boolean option,ブールオプション
 boolean value,ブール値
 boolean value,論理値
-boolean,論理
 boot,ブート
-bootstrap superuser,ブートストラップスーパーユーザ
 bootstrap,ブートストラップ
+bootstrap backend,ブートストラップバックエンド
+bootstrap catalog,ブートストラップカタログ
+bootstrap code,ブートストラップコード
+bootstrap mode,ブートストラップモード
+bootstrap scanner,ブートストラップスキャナ
+bootstrap superuser,ブートストラップスーパーユーザ
+bootstrap user,ブートストラップユーザ
 bottleneck,ボトルネック
+bottom-up,ボトムアップ
+bottom-up index,ボトムアップインデックス
+bottom-up index deletion,ボトムアップインデックスの削除
 Bougainville,ブーガンビル
-bound cursor,バウンドカーソル
+bound,バインドされて
 bound,バウンド
 bound,境界
+bound cursor,バウンドカーソル
 bounding box,外接矩形
+bounds,バウンド
 box,ボックス
 box,矩形
-bracket expression,ブラケット式
 bracket,ブラケット
+bracket expression,ブラケット式
 brackets,括弧
 branch,ブランチ
+branches,ブランチ
 Brazil,ブラジル
 bread,パン
 BRIN,BRIN
 British East Africa,イギリス領東アフリカ
 broadcast address for network,ネットワークブロードキャストアドレス
 Browser,ブラウザ
+brute force,ブルートフォース
 brute force password,ブルートフォースパスワード
 BSD,BSD
+B-tree,B-tree
 bucket,バケット
 bucket-level locks,バケットレベルロック
+bucket page,バケットページ
+buffer,バッファ
+buffer access,バッファアクセス
 buffer access counters,バッファアクセスカウンタ
+buffer access strategy,バッファアクセスストラテジ
 buffer cache,バッファキャッシュ
+buffer data,バッファデータ
+buffered,バッファ処理
+buffer entry,バッファエントリ
+buffer file,バッファファイル
 buffer hits,バッファヒット
+buffering,バッファリング
 buffer lock,バッファロック
 buffer manager,バッファマネージャ
 buffer overflow,バッファオーバーフロー
 buffer overrun,バッファオーバーラン
+buffer page,バッファページ
 buffer pins,バッファピン
-buffer pool scans,バッファプールスキャン
 buffer pool,バッファプール
-buffer,バッファ
-buffering,バッファリング
+buffer pool lock,バッファプールロック
+buffer pool scans,バッファプールスキャン
+buffer size,バッファサイズ
+buffer stuffing,バッファスタッフィング
+bug,バグ
 bug report,バグレポート
 bug reporting guidelines,バグレポートガイドライン
-bug,バグ
+build,ビルド
+build command,ビルドコマンド
+build directory,ビルドディレクトリ
 build failures,ビルドエラー
 build farm,ビルドファーム
+build flag,ビルドフラグ
+build option,ビルドオプション
+build phase,ビルドフェーズ
+build process,ビルドプロセス
 build rules,ビルドルール
 build scripts,ビルドスクリプト
 build system,ビルドシステム
 build tree,ビルドツリー
+build type,ビルドタイプ
 build user,ビルドユーザ
-build,ビルド
 built-in,ビルトイン
 built-in,組み込み
 bulk,バルク
@@ -349,34 +499,43 @@ bus,バス
 business objects,ビジネスオブジェクト
 business rules,ビジネス・ルール
 business rules,ビジネスルール
-busy loop,ビジーループ
 busy,ビジー
+busy loop,ビジーループ
 bypass,バイパス
+byte,バイト
 byte header,バイトヘッダ
 byte offset,バイトオフセット
 byte order,バイトオーダ
 byte sequence,バイトシーケンス
-byte,バイト
+byte size,バイトサイズ
 bytes set,バイトセット
-C-style Escapes,C形式エスケープ
-cache algorithm,キャッシュアルゴリズム
-cache files,キャッシュファイル
-cache keys,キャッシュキー
+byte word,バイトワード
+cac,シーエーシー
 cache,キャッシュ
+cache algorithm,キャッシュアルゴリズム
+cache entry,キャッシュエントリ
+cache files,キャッシュファイル
+cache hit,キャッシュヒット
+cache keys,キャッシュキー
+cache mode,キャッシュモード
+cache size,キャッシュサイズ
 California,カリフォルニア
+call,コール
+call,呼び出し
+callback,コールバック
+callback routines,コールバックルーチン
 call handler,呼び出しハンドラ
 call stack,コールスタック
-call,呼び出し
-callback routines,コールバックルーチン
-callback,コールバック
 Canada,カナダ
 Canadian Northern Rockies,カナダ・ノーザンロッキー
-cancel requests,キャンセルリクエスト
 cancel,キャンセル
 canceling,キャンセル
+cancel requests,キャンセルリクエスト
 canonicalization,正規化
 capabilities,機能
+capsule,カプセル
 capture,キャプチャ
+carriage return,キャリッジ・リターン
 carriage return,復帰
 Cartesian product,デカルト積
 Cartesian projection,デカルト投影
@@ -384,265 +543,345 @@ cascade,カスケード
 cascading replication,カスケーディングレプリケーション
 cascading replication,カスケードレプリケーション
 cascading standby,カスケードスタンバイ
-case sensitivity,大文字小文字の区別
 case,ケース
 case-insensitive,大文字小文字
-cast method,キャストメソッド
+case sensitivity,大文字小文字の区別
+casey,ケイシー
 cast,キャスト
+cast method,キャストメソッド
+casts,キャスト
+catalog,カタログ
 catalog access,カタログアクセス
 catalog cache,カタログキャッシュ
+catalog cache entry,カタログキャッシュエントリ
 catalog cluster,カタログクラスタ
+catalog data file,カタログデータファイル
+catalog data patch,カタログデータパッチ
 catalog entry,カタログエントリ
 catalog file,カタログファイル
+catalog header,カタログヘッダ
+catalog header file,カタログヘッダファイル
+catalog index,カタログインデックス
 catalog metadata,カタログメタデータ
+catalog object,カタログオブジェクト
 catalog scans,カタログスキャン
 catalog tables,カタログテーブル
-catalog,カタログ
+catalog tuple,カタログタプル
 catch,キャッチ
 categories of data,データカテゴリ
 category,カテゴリ
+category code,カテゴリコード
 Catholic,カトリック
 Cayman Islands,ケイマン諸島
 cell,セル
 Celtic,ケルト
 certificate,証明書
 chain,チェーン
+chain,チェイン
+challenge,チャレンジ
+challenge data,チャレンジデータ
+challenge message,チャレンジメッセージ
 channel,チャネル
 channel,チャンネル
+channel binding,チャネルバインディング
 chapter,章
+character-entry escapes,文字エントリエスケープ
 character set,キャラクタセット
 character set,文字セット
 character string,文字の並び
-character-entry escapes,文字エントリエスケープ
 chat messages,チャットメッセージ
+chebyshev,チェビシェフ
+check,チェック
+check callback,チェックコールバック
 check constraint,検査制約
 check digit,チェックディジット
-check,チェック
 checking into,チェックイン
 checklist,チェックリスト
 checkout,チェックアウト
+checkpoint,チェックポイント
+checkpointer,チェックポインタ
+checkpointer process,チェックポインタプロセス
 checkpoint process,チェックポイントプロセス
 checkpoint record,チェックポイントレコード
+checkpoints,チェックポイント
 checkpoint segment files,チェックポイントセグメントファイル
-checkpoint,チェックポイント
 checksum,チェックサム
+checksum algorithm,チェックサムアルゴリズム
+chicago,シカゴ
 Chile,チリ
 chip,チップ
 Choibalsan,チョイバルサン
 chromosomes,染色体
-chunk of memory,メモリチャンク
 chunk,チャンク
+chunk of memory,メモリチャンク
 CIDR,CIDR
+circumflex,サーカムフレックス
 city,都市
 CKT,CKT
-class member,クラスメンバ
 class,クラス
-class-shorthand escapes,クラス省略エスケープ
+class interface,クラスインタフェース
+classless addressing,クラスレスアドレッシング
+classless domain,クラスレスドメイン
 Classless_Inter-Domain_Routing,クラスレスドメイン間ルーティング
+class member,クラスメンバ
+class parameter,クラスパラメータ
+class-shorthand escapes,クラス省略エスケープ
+class support,クラスサポート
 clause,句
-cleaning up,整理
+clean,クリーン
 cleaning,クリーニング
-cleanup command,クリーンナップコマンド
+cleaning up,整理
 cleanup,クリーンアップ
+cleanup code,クリーンアップコード
+cleanup command,クリーンナップコマンド
 clear,クリア
+clear code,クリアコード
+client,クライアント
 client address,クライアントアドレス
 client and server,クライアント・サーバ
 client and server,クライアントサーバ
 client application,クライアントアプリケーション
 client authentication,クライアント認証
+client backend,クライアントバックエンド
 client code,クライアントコード
 client command,クライアントコマンド
 client debug,クライアントデバッグ
+client error,クライアントエラー
 client files,クライアントファイル
 client host,クライアントホスト
-client interface library,クライアントインタフェースライブラリ
 client interface,クライアントインタフェース
+client interface library,クライアントインタフェースライブラリ
 client library,クライアントライブラリ
 client machine,クライアントマシン
+client module,クライアントモジュール
+client port,クライアントポート
+client principal,クライアントプリンシパル
 client process,クライアントプロセス
-client program tests,クライアントプログラムテスト
 client program,クライアントプログラム
 client programming interfaces,クライアントプログラミングインタフェース
+client program tests,クライアントプログラムテスト
 client session,クライアントセッション
 client side,クライアントサイド
+client socket,クライアントソケット
 client software,クライアントソフトウェア
 client thread safety,クライアントスレッドセーフ
 client user,クライアントユーザ
-client,クライアント
 clock,クロック
 clone,クローン
 close,クローズ
 closed,閉じた
+closed source,クローズドソース
+cloud,クラウド
+cluster,クラスタ
+cluster,クラスタ(cluster)
 cluster data directory,クラスタデータディレクトリ
 cluster directory,クラスタディレクトリ
-cluster,クラスタ
-cluster-wide,クラスタ全体
+clustering,クラスタリング
+cluster level,クラスタレベル
 clusterware,クラスタウェア
+cluster-wide,クラスタ全体
+code,コード
 code block,コードブロック
-code coverage metrics,コードカバレッジメトリック
 code coverage,コードカバレッジ
+code coverage metrics,コードカバレッジメトリック
+code coverage test,コードカバレッジテスト
 code fields,コードフィールド
+code level,コードレベル
 code page,コードページ
 code path,コードパス
 code point,コードポイント
+code point sequence,コードポイントシーケンス
 code profiling,コードプロファイリング
+code tree,コードツリー
 code zero,コードゼロ
-code,コード
-coding conventions,コーディング規約
 coding,コーディング
-collation derivation,照合順序の導出
+coding conventions,コーディング規約
+coding error,コーディングエラー
+collation,照合順
 collation,照合順序
-collector process,コレクタプロセス
+collation derivation,照合順序の導出
 collector,コレクタ
+collector process,コレクタプロセス
 colon,コロン
+column,カラム
+column,列
 column alias,カラム別名
 column alias,列別名
 column label,列ラベル
 column reference,列の参照
-column,カラム
-column,列
+columns,列
 combine function,結合関数
 Combo,コンボ
 comma,カンマ
 comma,コンマ
+command,コマンド
 command counter,コマンドカウンタ
 command cycle,コマンドサイクル
 command file,コマンドファイル
 command level,コマンドレベル
 command line,コマンドライン
+command-line,コマンドライン
+command-line interpreter,コマンドラインインタプリタ
+command-line list,コマンドラインリスト
+command-line option,コマンドラインオプション
+command-line option switches,コマンドラインオプションスイッチ
+command-line parameter,コマンドラインパラメータ
+command-line tool,コマンドラインツール
+command-line utility,コマンドラインユーティリティ
 command logs,コマンドログ
 command message,コマンドメッセージ
 command prompt,コマンドプロンプト
+commands,コマンド
 command set,コマンドセット
 command shell,コマンドシェル
-command status tag,コマンドステータスタグ
 command status,コマンドステータス
+command status tag,コマンドステータスタグ
 command stream,コマンドストリーム
 command tag,コマンドタグ
 command text,コマンドテキスト
 command title,コマンドタイトル
 command type,コマンドタイプ
-command,コマンド
-command-line interpreter,コマンドラインインタプリタ
-command-line list,コマンドラインリスト
-command-line option switches,コマンドラインオプションスイッチ
-command-line option,コマンドラインオプション
-command-line parameter,コマンドラインパラメータ
-command-line tool,コマンドラインツール
-command-line utility,コマンドラインユーティリティ
-command-line,コマンドライン
+comment,コメント
 comment blocks,コメントブロック
 comment out,コメントアウト
+comments,コメント
 comment text,コメントテキスト
-comment,コメント
+commit,コミット
+commit callback,コミットコールバック
+commit command,コミットコマンド
 commit hash,コミットハッシュ
 commit log files,コミットログファイル
 commit message,コミットメッセージ
 commit mode,コミットモード
 commit record,コミットレコード
-commit,コミット
+committer,コミッター
+commit time,コミットタイム
+commit timestamp,コミットタイムスタンプ
+commit transaction,コミットトランザクション
 common name,コモンネーム
 common table expression,共通テーブル式
+communication,コミュニケーション
 community,コミュニティ
 commutator,交代演算子
+commware,コムウェア
 compact,コンパクト
 comparing,比較
 comparison,比較
 compatibility,互換性
+compatibility mode,互換モード
+compile,コンパイル
 compile command,コンパイルコマンド
 compile error,コンパイルエラー
-compile scripts,コンパイルスクリプト
-compile,コンパイル
+compiler,コンパイラ
 compiler driver,コンパイラドライバ
 compiler flag,コンパイラフラグ
 compiler option,コンパイラオプション
 compiler option,コンパイルオプション
 Compiler suite,コンパイラスイート
 compiler tool,コンパイラツール
-compiler,コンパイラ
+compile scripts,コンパイルスクリプト
 complex number,複素数
 complex queries,複雑な問い合わせ
 component,コンポーネント
-Composite type,コンポジットタイプ
+component procedure interface,コンポーネントプロシージャインタフェース
 composite type,複合型
+Composite type,コンポジットタイプ
 compressed archives,圧縮アーカイブ
-Computer science,コンピュータサイエンス
 computer,コンピュータ
+Computer science,コンピュータサイエンス
 concatenation,結合
 concept,コンセプト
 concept,概念
 concurrency control,同時実行制御
 conditional expression,条件式
 Conference,コンファレンス
-configuration parameter,設定パラメータ
 configuration,設定
+configuration parameter,設定パラメータ
 conflict,コンフリクト
 conformance,準拠
 conjunction,論理積
-connection pool,コネクションプール
-connection pooler,コネクションプーラ
-connection pooling software,コネクションプーリングソフトウェア
-connection pooling,コネクションプーリング
-connection service file,接続サービスファイル
-connection slot,コネクションスロット
 connection,コネクション
 connection,接続
+connection object,コネクションオブジェクト
+connection pool,コネクションプール
+connection pooler,コネクションプーラ
+connection pooling,コネクションプーリング
+connection pooling software,コネクションプーリングソフトウェア
 connection-pooling software,コネクションプールソフトウェア
 connection-pooling software,接続プールソフトウェア
+connection service file,接続サービスファイル
+connection slot,コネクションスロット
+connection string,接続文字列
 consistency,一貫性
+consistent,一致
 console,コンソール
 constant,定数
+constraint,制約
 constraint escape,制約エスケープ
 constraint exclusion,制約による除外
 constraint exclusion,制約除外
 constraint exclusion,制約排除
+constraints,制約
 constraint trigger,制約トリガ
-constraint,制約
 construct,コンストラクト
 constructor,コンストラクタ
 constructor,生成子
 consumer,コンシューマ
+container,コンテナ
 containment,包含
 containment,包含演算子
 contains,包含
-content fragment,コンテンツフラグメント
 content,コンテンツ
-context manager interface,コンテキストマネージャインタフェース
-context manager,コンテキストマネージャ
+content,コンテント
+content form,コンテントフォーム
+content fragment,コンテンツフラグメント
 context,コンテキスト
+context item,context item
+context manager,コンテキストマネージャ
+context manager interface,コンテキストマネージャインタフェース
+context tree,コンテキストツリー
+continuous,連続
 continuous archiving,継続的アーカイビング
 continuous archiving,継続的アーカイブ
-continuous,連続
-control file,制御ファイル
+continuous percentile,連続百分位数
 control,コントロール
+control data,コントロールデータ
+control file,制御ファイル
+controller,コントローラ
 controller cache,コントローラキャッシュ
 controller cards,コントローラカード
-controller,コントローラ
 conventions,規約
 conversion,変換
 converter,コンバータ
 Cook Islands,クック諸島
-copy and paste,コピーペースト
-copy data,コピーデータ
-copy message,コピーメッセージ
-copy mode,コピーモード
+copartition,コパーティション
 copy,コピー
-copy-both mode,コピーボースモード
+copy and paste,コピーペースト
 copy-both,コピーボース
+copy-both mode,コピーボースモード
+copy data,コピーデータ
+copy event,コピーイベント
+copy-in,コピーイン
 copy-in data,コピーインデータ
 copy-in mode,コピーインモード
-copy-in,コピーイン
+copy message,コピーメッセージ
+copy mode,コピーモード
+copy-on-write,copy-on-write
 copy-on-write,コピーオンライト
+copy-out,コピーアウト
 copy-out data,コピーアウトデータ
 copy-out mode,コピーアウトモード
-copy-out,コピーアウト
-Copyright,Copyright
 copyright,著作権
+Copyright,Copyright
+core,コア
 core backend,コアバックエンド
 core code,コアコード
 core database system,コアデータベースシステム
+core distribution,コアディストリビューション
 core dump,コアダンプ
+core dump file,コアダンプファイル
 core error,コアエラー
+core file,コアファイル
 core planner,コアプランナ
 core project,コアプロジェクト
 core regression test,コアリグレッションテスト
@@ -650,114 +889,116 @@ core script,コアスクリプト
 core server,コアサーバ
 core system,コアシステム
 core tests,コアテスト
-core,コア
 correlation,相関
-cost parameters,コストパラメータ
 cost,コスト
 cost-based,コストベース
+cost parameters,コストパラメータ
 count,カウント
-counter views,カウンタビュー
 counter,カウンタ
+counter views,カウンタビュー
 covariance,共分散
-cover density,被覆密度(cover density)
 cover,カバー
-coverage testing instrumentation,カバレッジテストツール
 coverage,カバレッジ
+coverage report,カバレッジレポート
+coverage testing instrumentation,カバレッジテストツール
+cover density,被覆密度(cover density)
+covering,カバリング
+covering index,カバリングインデックス
+covert channel,カバートチャネル
+crash,クラッシュ
 crash dumps,クラッシュダンプ
 crash recovery,クラッシュリカバリ
-crash,クラッシュ
 crash-safe,クラッシュセーフ
 creator,作成者
 credential,資格
-credit card,クレジットカード
 credit,クレジット
+credit card,クレジットカード
 Crimea,クリミア
-cross join,クロス結合
+critical,クリティカル
+critical section,クリティカルセクション
 cross,クロス
+cross-check,クロスチェック
 cross-compile,クロスコンパイル
+cross join,クロス結合
 cross-reference,クロスリファレンス
+C-style Escapes,C形式エスケープ
 Cuba,キューバ
+current,カレント
+current,現在
 current directory,カレントディレクトリ
+current query buffer,現在の問い合わせバッファ
 current row,現在の行
 current working directory,カレントワーキングディレクトリ
-current,現在
+cursor,カーソル
 cursor command,カーソルコマンド
+cursor index,カーソルインデックス
+cursor key,カーソルキー
+cursor loop,カーソルループ
 cursor object,カーソルオブジェクト
 cursor options,カーソルオプション
 cursor support,カーソルサポート
-cursor,カーソル
+custom,カスタム
+custom access method,カスタムアクセスメソッド
+custom archive module,カスタム・アーカイブ・モジュール
+custom archive module,カスタムアーカイブモジュール
+custom backend worker process,カスタムバックエンドワーカープロセス
 custom binaries,カスタムバイナリ
 custom dump,カスタムダンプ
+customization option,カスタマイズオプション
+customize,カスタマイズ
+custom module,カスタムモジュール
 custom options,カスタムオプション
 custom parameters,カスタムパラメータ
 custom parser,カスタムパーサ
 custom patches,カスタムパッチ
+custom path,カスタムパス
 custom plan,カスタムプラン
+custom plan,独自の計画
+custom program,カスタムプログラム
+custom resource manager,カスタムリソースマネージャ
+custom sampling method,カスタムサンプリングメソッド
+custom scan,カスタムスキャン
+custom scan method,カスタムスキャンメソッド
+custom scan path,カスタムスキャンパス
+custom scan plan node,カスタムスキャンプランノード
 custom scan provider,カスタムスキャンプロバイダ
 custom script,カスタムスクリプト
+custom server,カスタムサーバ
 custom text,カスタムテキスト
 custom trigger,カスタムトリガ
 custom versions,カスタムバージョン
-custom,カスタム
-customize,カスタマイズ
 cut-off,カットオフ
 cutoff point,カットオフポイント
+cyan,シアン
 cycle,サイクル
+cycle path,サイクル・パス
 Cyclone,サイクロン
 Cyrillic,キリル
-daemon process,デーモンプロセス
 daemon,デーモン
+daemon process,デーモンプロセス
 dash,ダッシュ
 dashboard,ダッシュボード
-data access commands,データアクセスコマンド
-data access,データアクセス
-data area,データ領域
-data byte,データバイト
-data checksums,データチェックサム
-data copies,データコピー
-data copying program,データコピープログラム
-data dictionary,データディクショナリ
-data directory path,データディレクトリパス
-data directory,データディレクトリ
-data encoding error,データエンコーディングエラー
-data errors,データエラー
-data file blocks,データファイルブロック
-data file,データファイル
-data fork,データフォーク
-data key,データキー
-data load,データロード
-data loss,データロス
-data mapping,データマッピング
-data model,データモデル
-data object,データオブジェクト
-data packet,データパケット
-data page,データページ
-data partition,データパーティション
-data provider,データプロバイダ
-data security,データセキュリティ
-data set,データセット
-data size,データサイズ
-data source,データソース
-data stream,データストリーム
-data type,データタイプ
-data type,データ型
-data warehouse,データウェアハウス
-data wrapper helper,データラッパーヘルパ
-data wrapper options,データラッパーオプション
-data wrapper support,データラッパーサポート
-data wrapper,データラッパー
 data,データ
+data access,データアクセス
+data access commands,データアクセスコマンド
+data area,データ領域
+database,データベース
+database access,データベースアクセス
 database access error,データベースアクセスエラー
 database access tools,データベースアクセスツール
-database access,データベースアクセス
+database activity,データベースアクティビティ
 database activity,データベース活動状況
 database administrator,データベース管理者
 database application,データベースアプリケーション
 database backup,データベースバックアップ
+database character set,データベースキャラクタセット
+database class,データベースクラス
+database client,データベースクライアント
 database clone,データベースのクローン
+database cluster,データベース・クラスタ
+database cluster,データベースクラスタ
 database cluster directory,データベースクラスタディレクトリ
 database cluster installation,データベースクラスタインストレーション
-database cluster,データベースクラスタ
 database command,データベースコマンド
 database connection,データベースコネクション
 database crash,データベースクラッシュ
@@ -766,7 +1007,9 @@ database directory,データベースディレクトリ
 database disk page,データベースディスクページ
 database dump,データベースダンプ
 database encoding,データベースエンコーディング
+database entry,データベースエントリ
 database error,データベースエラー
+database event trigger,データベースイベントトリガ
 database field,データベースフィールド
 database file,データベースファイル
 database installation,データベースインストレーション
@@ -775,6 +1018,7 @@ database interface,データベースインタフェース
 database level,データベースレベル
 database mode,データベースモード
 database objects,データベースオブジェクト
+database object size,データベースオブジェクトサイズ
 database page,データベースページ
 database passwords,データベースパスワード
 database programmer,データベースプログラマ
@@ -782,67 +1026,135 @@ database records,データベースレコード
 database roles,データベースロール
 database rules,データベースルール
 database schema,データベーススキーマ
+database server,データベースサーバ
 database server daemon,データベースサーバデーモン
 database server host,データベースサーバホスト
 database server instance,データベースサーバインスタンス
 database server machine,データベースサーバマシン
+database server process,データベースサーバプロセス
 database server program,データベースサーバプログラム
-database server,データベースサーバ
 database session,データベースセッション
 database sites,データベースサイト
 database size,データベースサイズ
 database software,データベースソフトウェア
 database superuser,データベーススーパーユーザ
-database system user,データベースシステムユーザ
 database system,データベースシステム
+database system user,データベースシステムユーザ
 database table,データベーステーブル
 database throughput,データベーススループット
-database user account,データベースユーザアカウント
+database transaction,データベーストランザクション
 database user,データベースユーザ
+database user account,データベースユーザアカウント
 database vendors,データベースベンダ
 database version,データベースバージョン
-database,データベース
+data block,データブロック
+data buffer,データバッファ
+data byte,データバイト
+data checksums,データチェックサム
+data copies,データコピー
+data copying program,データコピープログラム
+data dictionary,データディクショナリ
+data directory,データディレクトリ
+data directory path,データディレクトリパス
+data encoding error,データエンコーディングエラー
+data entry,データエントリ
+data errors,データエラー
+data file,データファイル
+data file blocks,データファイルブロック
+data fork,データフォーク
+data format,データフォーマット
+data key,データキー
+data link,データリンク
+data load,データロード
+data loss,データロス
+data mapping,データマッピング
+data model,データモデル
+data object,データオブジェクト
+data packet,データパケット
+data page,データページ
+data page checksum,データページチェックサム
+data partition,データパーティション
+data provider,データプロバイダ
+data replication,データレプリケーション
+data routine,データルーチン
+data security,データセキュリティ
+data set,データセット
+data size,データサイズ
+data source,データソース
+data stream,データストリーム
+data support,データサポート
+data template,データテンプレート
+data type,データタイプ
+data type,データ型
+data warehouse,データウェアハウス
+data warehouse type,データウェアハウスタイプ
+data wrapper,データラッパー
+data wrapper error,データラッパーエラー
+data wrapper handler,データラッパーハンドラ
+data wrapper helper,データラッパーヘルパ
+data wrapper options,データラッパーオプション
+data wrapper support,データラッパーサポート
+daylight saving time,サマータイム
 DBA,DBA
 DDL,DDL
-deadlock errors,デッドロックエラー
-deadlock timeout,デッドロックタイムアウト
+dead,デッド
+dead index tuple,デッドインデックスタプル
 deadlock,デッドロック
+deadlock errors,デッドロックエラー
+deadlock loop,デッドロック・ループ
+deadlocks,デッドロック
+deadlock timeout,デッドロックタイムアウト
 deallocation,解放
-debug level,デバッグレベル
-debug logging,デバッグログ
-debug messages,デバッグメッセージ
-debug option,デバッグオプション
 debug,デバッグ
 debugger,デバッガ
 debugging support,デバッグサポート
 debugging symbols,デバッグシンボル
 debugging tools,デバッグツール
+debug level,デバッグレベル
+debug logging,デバッグログ
+debug message,デバッグ・メッセージ
+debug messages,デバッグメッセージ
+debug option,デバッグオプション
+debug routine,デバッグルーチン
 decimal,10進数
 declaration,宣言
 declarative table partitioning,宣言的テーブルパーティショニング
 decode,デコード
+decode buffer,デコードバッファ
+decode interface,デコードインタフェース
+decoding,デコーディング
+deduplication,重複排除
 deep copy,ディープコピー
+default,デフォルト
+default access,デフォルトアクセス
+default algorithm,デフォルトアルゴリズム
 default B-tree operator class,デフォルトのB-tree演算子クラス
 default catalog,デフォルトカタログ
 default class,デフォルトクラス
 default database,デフォルトデータベース
+default error message,デフォルトエラーメッセージ
 default group,デフォルトグループ
+default login class,デフォルトログインクラス
 default mode,デフォルトモード
 default option,デフォルトオプション
 default parameters,デフォルトパラメータ
 default parser,デフォルトパーサ
+default partition,デフォルトパーティション
 default port,デフォルトポート
+default role,デフォルトロール
 default security label,デフォルトセキュリティラベル
+default size,デフォルトサイズ
+default socket directory path,デフォルトソケットディレクトリパス
 default table,デフォルトテーブル
 default tablespace,デフォルトテーブルスペース
 default transaction,デフォルトトランザクション
 default value,デフォルト値
-default,デフォルト
-deferrable transaction,遅延トランザクション
 deferrable,deferrable
 deferrable,遅延可能な
+deferrable transaction,遅延トランザクション
 deferred,遅延
 definition,定義
+defrag,デフラグ
 delay,遅延
 delete,削除
 deleting,削除
@@ -852,45 +1164,60 @@ delimiter,デリミタ
 delimiter,区切り文字
 demo,デモ
 demoware,デモウェア
+deploy script,デプロイスクリプト
+descartes,デカルト
 descriptor,ディスクリプタ
-descriptor,デスクリプタ
 deserialization function,デシリアライズ関数
+deserialize,デシリアライズ
 design,デザイン
 designer,設計者
+destination encoding,ディスティネーションエンコーディング
+detach,デタッチ
+deterministic,決定論的
 Devanagari alphabet,ヒンディーアルファベット
+device,デバイス
 device files,デバイスファイル
 device Manager,デバイスマネージャ
-device,デバイス
-dial-up,ダイアルアップ
 dialog,ダイアログ
+dialog window,ダイアログウィンドウ
+dial-up,ダイアルアップ
 dictionaries,辞書
 difference,差
-digest algorithm,ダイジェストアルゴリズム
+diffie-hellman parameter,ディフィー・ヘルマンパラメータ
 digest,ダイジェスト
+digest algorithm,ダイジェストアルゴリズム
+direct,ダイレクト
+direct,直接
 direct arguments,直接引数
 directive,ディレクティブ
 directives,指示子
 director,決定子
+directory,ディレクトリ
 directory access protocol,ディレクトリアクセスプロトコル
 directory archive,ディレクトリアーカイブ
+directory dump,ディレクトリダンプ
 directory path,ディレクトリパス
-directory,ディレクトリ
+dirty,ダーティ
+dirty,変更済み(dirty)
 dirty block,ダーティブロック
 dirty buffers,ダーティバッファ
 dirty data pages,ダーティデータページ
 dirty data pages,ダーティページデータ
+dirty page,ダーティページ
 dirty read,ダーティリード
-dirty,ダーティ
 discrete,離散
+discrete percentile,離散百分位数
 disjunction,論理和
+disk,ディスク
 disk access,ディスク・アクセス
 disk access,ディスクアクセス
 disk array,ディスクアレイ
+disk-based,ディスクベース
 disk block,ディスクブロック
 disk buffer,ディスクバッファ
 disk cache,ディスクキャッシュ
-disk controller cache,ディスクコントローラキャッシュ
 disk controller,ディスクコントローラ
+disk controller cache,ディスクコントローラキャッシュ
 disk drive,ディスクドライブ
 disk file,ディスクファイル
 disk layout,ディスクレイアウト
@@ -903,73 +1230,87 @@ disk space,ディスクスペース
 disk space,ディスク容量
 disk system,ディスクシステム
 disk usage,ディスク使用量
-disk,ディスク
-disk-based,ディスクベース
 display,ディスプレイ
-distribution package release,ディストリビューションパッケージリリース
-distribution terms,配布条項
 distribution,ディストリビューション
 distribution,配布物
+distribution package,ディストリビューションパッケージ
+distribution package release,ディストリビューションパッケージリリース
+distribution terms,配布条項
+docbook,docbook
 DocBook,DocBook
-document style,ドキュメントスタイル
-document table,ドキュメントテーブル
-document text,ドキュメントテキスト
 document,ドキュメント
 document,文書
+documentation,ドキュメンテーション
+documentation,文書
 documentation project,ドキュメントプロジェクト
 documentation text file,ドキュメントテキストファイル
 documentation tool,ドキュメントツール
-documentation,文書
-dollar quoting,ドル引用符付け
+document node,ドキュメントノード
+documents,文書
+document source,ドキュメントソース
+document style,ドキュメントスタイル
+document table,ドキュメントテーブル
+document text,ドキュメントテキスト
 dollar,ドル
+dollar quoting,ドル引用符付け
+domain,ドメイン
+domain account,ドメインアカウント
 domain controller,ドメインコントローラ
 domain data,ドメインデータ
+domain member system,ドメインメンバシステム
+domain socket,ドメインソケット
 domain socket directory,ドメインソケットディレクトリ
 domain socket file,ドメインソケットファイル
-domain socket,ドメインソケット
 domain support,ドメインサポート
-domain,ドメイン
 dot,ドット
 double precision,倍精度
 double quote,二重引用符
-double quotes,ダブルクオート
+double quotes,ダブルクォート
 down,ダウン
+downcast,ダウンキャスト
+downgrade,ダウングレード
 downgrade logic,ダウングレードロジック
 downgrade script,ダウングレードスクリプト
-downgrade,ダウングレード
+downlink,ダウンリンク
 download,ダウンロード
-drive cache,ドライブキャッシュ
+download page,ダウンロードページ
 drive,ドライブ
-driver script,ドライバスクリプト
+drive cache,ドライブキャッシュ
 driver,ドライバ
+driver script,ドライバスクリプト
 DSA,DSA
+dummy,ダミー
 dummy data,ダミーデータ
 dummy node,ダミーノード
 dummy version,ダミーバージョン
-dummy,ダミー
+dump,ダンプ
 dump data,ダンプデータ
 dump file,ダンプファイル
 dump programs,ダンププログラム
 dump script,ダンプスクリプト
-dump,ダンプ
+dump size,ダンプサイズ
 duplicate,重複
+dynamic-linker,ダイナミックリンカ
 dynamic loader,動的ローダ
 dynamic loading,動的ロード
 dynamic shared memory subsystem,動的共有メモリサブシステム
-dynamic-linker,ダイナミックリンカ
 early locking,早いロック
 ECC,ECC
 ECPG host application,ECPGホストアプリケーション
+edge,エッジ
+edge case,エッジケース
 edge recombination crossover,辺再組合せ交叉
 edition,エディション
 editor,エディタ
+effective boolean value,有効なブール値
 Egypt,エジプト
 Elgamal,Elgamal
-email address,メールアドレス
 email,メール
-embedded option,埋め込みオプション
-embedded SQL,埋め込みSQL
+email address,メールアドレス
 embedded,埋め込み
+embedded option,埋め込みオプション
+embedded options,埋め込みオプション
+embedded SQL,埋め込みSQL
 emulate,エミュレート
 enabled role,有効なロール
 encapsulates,カプセル化
@@ -977,411 +1318,500 @@ encode,エンコード
 encoding,エンコーディング
 encrypted passwords,暗号化パスワード
 encryption,暗号化
-end user,エンドユーザ
 endian,エンディアン
+end user,エンドユーザ
 enforcing mode,エンフォーシングモード
 engine,エンジン
 ensure,保証
 entity,エンティティ
 entity,実体
-entry point,エントリーポイント
-entry point,エントリポイント
 entry,エントリ
+entry escape,エントリエスケープ
+entry point,エントリポイント
 enumerated types,列挙型
-environment variable,環境変数
+enum type,列挙型
 environment,環境
-epoch timestamp,エポックタイムスタンプ
+environment variable,環境変数
 epoch,エポック
-equal to,等しい
+epochs,エポック
+epoch timestamp,エポックタイムスタンプ
 equality operator,等価演算子
+equal to,等しい
 equivalence class,同値クラス
 erratic core dumps,エラーコアダンプ
+error,エラー
 error checking,エラーチェック
 error class,エラークラス
-error code scheme,エラーコードスキーム
+error code,エラー・コード
 error codes,エラーコード
+error code scheme,エラーコードスキーム
+error context,エラーコンテキスト
 error cursor,エラーカーソル
 error field,エラーフィールド
 error handling,エラーハンドリング
 error level,エラーレベル
-error message fields,エラーメッセージフィールド
-error message text,エラーメッセージテキスト
 error message,エラーメッセージ
+error message fields,エラーメッセージフィールド
+error message hint,エラーメッセージヒント
+error message text,エラーメッセージテキスト
 error report,エラーレポート
 error status,エラーステータス
+error stream,エラーストリーム
 error text,エラーテキスト
-error,エラー
+escape,エスケープ
+escapes,エスケープ
 escape sequence,エスケープシーケンス
 escape string syntax,エスケープ文字列構文
 escape support,エスケープサポート
 escape warning,エスケープに関する警告
-escape,エスケープ
 Ethernet card,イーサネットカード
+euclid,ユークリッド
 Europe,ヨーロッパ
+event,イベント
 event callback procedure,イベントコールバックプロシージャ
 event data,イベントデータ
 event handler,イベントハンドラ
-event log messages,イベントログメッセージ
 event log,イベントログ
 event logger,イベントロガー
 event logging,イベントロギング
+event log messages,イベントログメッセージ
 event of an error,エラーイベント
 event procedure,イベントプロシージャ
 event queue system,イベントキューシステム
 event source,イベントソース
 event support,イベントサポート
 event system,イベントシステム
+event trigger,イベントトリガ
 event trigger code,イベントトリガコード
 event trigger manager,イベントトリガマネージャ
 event trigger procedure,イベントトリガプロシージャ
-event trigger,イベントトリガ
-event viewer,イベントビューア
-event,イベント
 eventually consistent,最後には一貫性を持つ
+event viewer,イベントビューア
 every so often,時々
+example,例
 example code,サンプルコード
 example plugin,サンプルプラグイン
-example,例
 exception,例外
+exclamation,イクスクラメーション
 exclamation mark,イクスクラメーション印
 exclamation point,感嘆符
 exclusion constraint,排他制約
 execute,実行
 execution plan,実行計画
+executor,エグゼキュータ
 executor code,エグゼキュータコード
 executor context,エグゼキュータコンテキスト
-executor,エグゼキュータ
 exercise,練習
 existence,存在
 exit status,終了ステータス
 expanded,拡張
 expanded,展開
+expanded,展開された
 expert,エキスパート
 expire,エキスパイア
 explicit locking,明示的ロック
 export,エクスポート
+export option,エクスポートオプション
 expression,式
+expressions,式
 extended,拡張
 extended statistics objects,拡張統計情報オブジェクト
-extending SQL,SQLの拡張
 extending,拡張
+extending SQL,SQLの拡張
 extensibility,拡張性
 extension,extension
 extension,エクステンション
 extension,拡張
+extensions,拡張
 extent,エクステント
 external projects,外部プロジェクト
 external representations,外部表現
 facilities,ファシリティ
-fact table,ファクトテーブル
 factor,ファクタ
+fact table,ファクトテーブル
+failover,フェイルオーバー
 failover cluster,フェイルオーバークラスタ
 failover signal,フェイルオーバーシグナル
 failover systems,フェイルオーバーシステム
-failover,フェイルオーバー
 Falkland,フォークランド
+fallback,フォールバック
 false,偽
-family of address,アドレスファミリ
 family,ファミリ
+family,ファミリー
+family of address,アドレスファミリ
 FAQ,FAQ
 fast failover,ファストフェイルオーバー
+fastgetattr,fastgetattr
 fast path,近道
-fast shutdown,高速シャットダウン
-fast-path locking,ファストパスロック
 fast-path,ファストパス
 fast-path,近道
-fastgetattr,fastgetattr
+fast-path locking,ファストパスロック
+fast shutdown,高速シャットダウン
+fatal error,フェイタルエラー
 fatal error,致命的エラー
 feature,機能
+feedback,フィードバック
 feedback message,フィードバックメッセージ
 feedback status,フィードバックステータス
-feedback,フィードバック
 feet,フィート
 fetch,フェッチ
 fetch,取り出し
+fetch count,フェッチカウント
+field,フィールド
 field codes,フィールドコード
 field data,フィールドデータ
+field entry,フィールドエントリ
 field headings,フィールドヘッダ
+field key,フィールドキー
 field selection,フィールド選択
-field,フィールド
 Fiji,フィジー
+file,ファイル
 file access,ファイルアクセス
+file-based,ファイルベース
 file block,ファイルブロック
+file checksum,ファイルチェックサム
 file copy,ファイルコピー
 file descriptor,ファイルディスクリプタ
-file descriptor,ファイルデスクリプタ
 file directory,ファイルディレクトリ
 file error,ファイルエラー
 file format,ファイル形式
 file handle,ファイルハンドル
+file layout,ファイルレイアウト
+file-level,ファイルレベル
+file mode,ファイルモード
+filenode,ファイルノード
+file object,ファイルオブジェクト
+file offset,ファイルオフセット
 file options,ファイルオプション
 file path,ファイルパス
 file segments,ファイルセグメント
 file size,ファイルサイズ
 file status,ファイルステータス
 file stream,ファイルストリーム
+file system,ファイルシステム
 file system access,ファイルシステムアクセス
 file system backup,ファイルシステムバックアップ
+file-system-backup tool,ファイルシステムバックアップツール
 file system cache,ファイルシステムキャッシュ
+file-system interface,ファイルシステムインタフェース
 file system layout,ファイルシステムレイアウト
 file system level,ファイルシステムレベル
 file system mount points,ファイルシステムマウントポイント
+file system partition,ファイルシステムパーティション
+file system permission,ファイルシステムパーミッション
 file system replication,ファイルシステムレプリケーション
-file system,ファイルシステム
-file version stamps,ファイルバージョンスタンプ
-file,ファイル
-file-based,ファイルベース
-file-level,ファイルレベル
-file-system interface,ファイルシステムインタフェース
-file-system software,ファイルシステムソフトウェア
-file-system-backup tool,ファイルシステムバックアップツール
-filenode,ファイルノード
 filesystem snapshot,ファイルシステムスナップショット
+file-system software,ファイルシステムソフトウェア
+file table,ファイルテーブル
+file version stamps,ファイルバージョンスタンプ
 fill factor,フィルファクタ
 filter,フィルタ
-filtering dictionary,フィルタリング辞書
+filter callback,フィルタコールバック
+filter expressions,フィルター式
 filtering,フィルタリング
 filtering,フィルタ処理
+filtering dictionary,フィルタリング辞書
+filter rule,フィルタルール
 final function,最終関数
 Finland,フィンランド
 firewall,ファイアウォール
+first,ファースト
 fitness,適応度
+flag,フラグ
 flag bit,フラグビット
 flag fields,フラグフィールド
+flag parameter,フラグパラメータ
 flag set,フラグセット
-flag,フラグ
+flat,フラット
 flat file,フラットファイル
 flat text file,フラットテキストファイル
 flight,フライト
 floating-point,浮動小数点
 flow,フロー
 flush,フラッシュ
-font lock,フォントロック
 font,フォント
+font lock,フォントロック
 footers,フッタ
-foreground process,フォアグラウンドプロセス
 foreground,フォアグラウンド
-foreign data wrapper,外部データラッパー
+foreground process,フォアグラウンドプロセス
 foreign data,外部データ
+foreign data wrapper,外部データラッパー
 foreign key,外部キー
 foreign server,外部サーバ
 foreign table,外部テーブル
 forest,フォレスト
 fork,フォーク
-form feed,改ページ
 form,フォーム
-format code,書式コード
-format specifiers,フォーマット指示子
 format,フォーマット
 format,書式
+format byte,フォーマットバイト
+format code,書式コード
+formats,書式
+format script,フォーマットスクリプト
+format specifiers,フォーマット指示子
+form feed,改ページ
 fragment,フラグメント
-frame options,フレームオプション
 frame,フレーム
+frame mode,フレームモード
+frame options,フレームオプション
 framework,フレームワーク
-free space map,空き領域マップ
 free,フリー
+free space,フリースペース
+free space map,空き領域マップ
 freeze,フリーズ
 Freiberg,フライブルグ
 French,フランス
 French,フランス語
-front-end applications,フロントエンドアプリケーション
-front-end library,フロントエンドライブラリ
+friendly,フレンドリー
 front-end,フロントエンド
+frontend,フロントエンド
+front-end applications,フロントエンドアプリケーション
+frontend-backend,フロントエンド/バックエンド
+frontend-backend protocol,フロントエンド・バックエンドプロトコル
+front-end library,フロントエンドライブラリ
 frontend message,フロントエンドメッセージ
 frontend programs,フロントエンドプログラム
 frontend tool,フロントエンドツール
-frontend,フロントエンド
-frontend-backend,フロントエンド/バックエンド
 full backup,フルバックアップ
 full disk,フルディスク
+full-index scan,フルインデックススキャン
 full installation,フルインストレーション
 full name,フルネーム
 full page,フルページ
+full page image,フルページイメージ
 full path,フルパス
+full-text indexing,フルテキストインデックス
 full text search,全文テキスト検索
 full text search,全文検索
-full-index scan,フルインデックススキャン
-full-text indexing,フルテキストインデックス
 function,ファンクション
 function,関数
 functional dependency,関数従属性
 functional notation,関数的記法
 gap,ギャップ
+garbage collection,ガベージコレクション
 garbage data,ごみデータ
+garbage data,ガベージデータ
 garbage data,ゴミデータ
+garbage index tuple,ゴミインデックスタプル
+gather merge,ギャザーマージ
 Gather node,Gather ノード
+gather path,ギャザーパス
+gauss,ガウス
 gaussian distribution,ガウス分布
 Gaza,ガザ
-GB of memory,ギガバイトメモリ
 GB,ギガバイト
+GB of memory,ギガバイトメモリ
 gene,遺伝子
-generator pool,ジェネレータプール
+general comparisons,一般比較
 generator,ジェネレータ
+generator pool,ジェネレータプール
 generic,一般的
+generic table parameter,ジェネリックテーブルパラメータ
+genetic,遺伝的
 genetic algorithm,遺伝的アルゴリズム
 genetic query optimization,遺伝的問い合わせ最適化
 genetic query optimizer,遺伝的問い合わせオプティマイザ
-genetic,遺伝的
 geometric data type,幾何データ型
 Germany,ドイツ
 getting started,さあ始めましょう
 Gigabyte,ギガバイト
 GIN,GIN
 GiST,GiST
+global,グローバル
+global counter,グローバルカウンタ
 global data,グローバルデータ
 global level,グローバルレベル
 global objects,グローバルオブジェクト
 global option,グローバルオプション
 Global pointer,グローバルポインタ
+global scope,グローバルスコープ
 global system tables,グローバルシステムテーブル
 global tables,グローバルテーブル
-global,グローバル
+global transaction,グローバルトランザクション
 GMT offset timezone,GMT オフセットタイムゾーン
 GNU,GNU
 grammar rules,文法ルール
+grant,グラント
 grant options,グラントオプション
 graph,グラフ
-graphical installer package,グラフィカルインストーラパッケージ
-graphical installer,グラフィカルインストーラ
 graphical,グラフィカル
-greater than or equal,以上
+graphical installer,グラフィカルインストーラ
+graphical installer package,グラフィカルインストーラパッケージ
 greater than,より大きい
 greater than,大なり
+greater than or equal,以上
 greedy,最短マッチを行わない（欲張り型）
 greedy,欲張りの
 Greek,ギリシャ
+greenland,グリーンランド
 Greenwich,グリニッジ
-Gregorian calendar,グレゴリオ暦
+Gregorian,グレゴリオ
 Gregorian,グレゴリオ暦
+Gregorian calendar,グレゴリオ暦
+Gregory,グレゴリウス
 Gregory XIII,ローマ教皇グレゴリウス13世
-group commit,グループコミット
-group membership,グループメンバシップ
-group role,グループロール
 group,グループ
-grouping set,グループ化セット
+group access,グループアクセス
+group commit,グループコミット
+grouping,グルーピング
 grouping,グループ化
+grouping set,グループ化セット
+grouping sets,グループ化セット
+group leader,グループリーダー
+group membership,グループメンバシップ
+group policy tool,グループポリシーツール
+group role,グループロール
+guard,ガード
 guest,ゲスト
+guests,ゲスト
 guide,ガイド
 guidelines,ガイドライン
 hack,実装
 Haiti,ハイチ
 handle,ハンドル
-handler function,ハンドラ関数
 handler,ハンドラ
+handler function,ハンドラ関数
 handling,ハンドリング
 handshake,ハンドシェーク
+handshake,ハンドシェイク
 hang,ハング
-Hangul code,ハングルコード
 Hangul,ハングル
+Hangul code,ハングルコード
+hang up,ハングアップ
+hard,ハード
+hard block,ハードブロック
+hard-coded,ハードコード
+hardcoded,ハードコーディングされた
+hard-coding,ハードコーディング
+hard error,ハードエラー
 hard limit,ハードリミット
 hard links,ハードリンク
-hard,ハード
-hard-coded,ハードコード
-hard-coding,ハードコーディング
-hardcoded,ハードコーディングされた
+hardware,ハードウェア
+hardware acceleration,ハードウェアアクセラレーション
 hardware addresses,ハードウェアアドレス
 hardware architecture,ハードウェアアーキテクチャ
 hardware clocks,ハードウェアクロック
 hardware errors,ハードウェアエラー
 hardware keys,ハードウェアキー
 hardware stacks,ハードウェアスタック
-hardware,ハードウェア
+hash,ハッシュ
 hash algorithm,ハッシュアルゴリズム
 hash block size,ハッシュブロックサイズ
+hash-bucket-level locks,ハッシュバケットレベルロック
 hash buckets,ハッシュバケット
 hash code,ハッシュコード
-hash index methods,ハッシュインデックスメソッド
 hash index,ハッシュインデックス
 hash indexing support,ハッシュインデックスサポート
+hash index methods,ハッシュインデックスメソッド
+hash index tuple,ハッシュインデックスタプル
+hash join,ハッシュジョイン
 hash join,ハッシュ結合
 hash keys,ハッシュキー
 hash marks,ハッシュマーク
 hash node,ハッシュノード
+hash partitioning,ハッシュパーティショニング
+hash partition table,ハッシュパーティションテーブル
+hash password,ハッシュパスワード
 hash strategies,ハッシュストラテジ
 hash support,ハッシュサポート
-hash table size,ハッシュテーブルサイズ
 hash table,ハッシュテーブル
-hash,ハッシュ
-hash-bucket-level locks,ハッシュバケットレベルロック
+hash table size,ハッシュテーブルサイズ
 Hawaii,ハワイ
+header,ヘッダ
 header block,ヘッダブロック
 header bytes,ヘッダバイト
 header field,ヘッダフィールド
 header file,ヘッダファイル
-header,ヘッダ
 heading,見出し
-heap entry,ヒープエントリ
-heap memory,ヒープメモリ
-heap page image,ヒープページイメージ
-heap page,ヒープページ
-heap pointers,ヒープポインタ
-heap relation,ヒープリレーション
-heap tuple,ヒープタプル
 heap,ヒープ
-heap-only tuples,ヒープオンリータプル
+heap access,ヒープアクセス
+heap block,ヒープブロック
+heap entry,ヒープエントリ
 heap_getattr,heap_getattr
 heap_getsysattr,heap_getsysattr
 HEAP_HASNULL,HEAP_HASNULL
 HEAP_HASOID,HEAP_HASOID
+heap memory,ヒープメモリ
+heap-only tuples,ヒープオンリータプル
+heap page,ヒープページ
+heap page image,ヒープページイメージ
+heap pointers,ヒープポインタ
+heap relation,ヒープリレーション
+heap scan,ヒープスキャン
+heap tuple,ヒープタプル
 heartbeat,ハートビート
 heavy user,ヘビーユーザ
 heavyweight lock,重量ロック
 Hebrew,ヘブライ
 Hebron,ヘブロン
-help text,ヘルプテキスト
 help,ヘルプ
 helper,ヘルパ
-Heuristic,ヒューリスティック
+help text,ヘルプテキスト
+heuristic,ヒューリスティック
+heuristic,発見的手法
 high availability,高可用性
-high temperature,最高気温
+high bit,ハイビット
+high key,ハイキー
 highlighting,ハイライト
-hint message,ヒントメッセージ
+high temperature,最高気温
 hint,ヒント
 hint bit,ヒントビット
-histogram bins,度数分布ビン
-histogram bucket,ヒストグラムバケット
+hint message,ヒントメッセージ
 histogram,ヒストグラム
 histogram,度数分布
+histogram bin,ヒストグラムビン
+histogram bins,度数分布ビン
+histogram bucket,ヒストグラムバケット
+histogram slot,ヒストグラムスロット
 historical changes,歴史的変更
 historical corrections,歴史的な訂正
 historically,歴史的
 history,歴史
 Hit,ヒット
+hold cursor,ホールドカーソル
 holder,ホルダー
 home directory,ホームディレクトリ
 hook,フック
+host,ホスト
 host address,ホストアドレス
+host application,ホストアプリケーション
+host-based,ホストベース
+host file,ホストファイル
+hosting,ホスティング
 host language,ホスト言語
+host language,ホスト変数
 host mask,ホストマスク
 host program,ホストプログラム
 host system,ホストシステム
 host variable,ホスト変数
-host,ホスト
-host-based,ホストベース
-hosting,ホスティング
+host variables,ホスト変数
+hot,ホット
 hot backups,ホットバックアップ
-hot standby feedback message,ホットスタンバイフィードバックメッセージ
+hot standby,ホット・スタンバイ
+hot standby,ホットスタンバイ
 hot standby feedback,ホットスタンバイフィードバック
+hot standby feedback message,ホットスタンバイフィードバックメッセージ
+hot-standby mode,ホットスタンバイモード
 hot standby parameter reference,ホットスタンバイパラメータリファレンス
 hot standby parameters,ホットスタンバイパラメータ
 hot standby replication,ホットスタンバイレプリケーション
 hot standby server,ホットスタンバイサーバ
 hot standby sessions,ホットスタンバイセッション
 hot standby tests,ホットスタンバイテスト
-hot standby,ホットスタンバイ
-hot,ホット
-hot-standby mode,ホットスタンバイモード
 HTML,HTML
 huge pages,huge pages
 Hyphen,ハイフン
 hypothetical,仮定の
 hypothetical-set aggregate,仮想集合集約
-I/O conversion cast,I/O変換キャスト
 IBM,IBM
 ice cream,アイスクリーム
 Iceland,アイスランド
+idea,アイデア
 idea,アイディア
 identifier,識別子
+identifiers,識別子
+idiom,イディオム
+idle,アイドル
 image,イメージ
 image,画像
 immediate shutdown,即時シャットダウン
@@ -1391,86 +1821,118 @@ implicit cast,暗黙キャスト
 implicitly-typed constants,暗黙に型付けされる定数
 import,インポート
 improve,改善
+include,include
+include,インクルード
 include directive,includeディレクティブ
 include directory,インクルードディレクトリ
 include files,インクルードファイル
 include path,インクルードパス
-include,include
+include switch,インクルードスイッチ
 inclusion,inclusion
 increment,インクリメント
+incremental sort,インクリメンタルソート
 indent,インデント
+index,インデックス
+index access,インデックスアクセス
 index access cost,インデックスアクセスコスト
 index access methods,インデックスアクセスメソッド
 index access path,インデックスアクセスパス
-index access,インデックスアクセス
 index approach,インデックスアプローチ
 index blocks,インデックスブロック
+index column,インデックスカラム
 index cost,インデックスコスト
 index data,インデックスデータ
 index entry,インデックスエントリ
 index file,インデックスファイル
+indexing project,インデックスプロジェクト
 index key,インデックスキー
+index key data,インデックスキーデータ
+index-level,インデックスレベル
+index macro,インデックスマクロ
 index metapages,インデックスメタページ
 index methods,インデックスメソッド
+index-only scan,インデックスオンリースキャン
+index-only scans,インデックスオンリースキャン
 index page,インデックスページ
 index pin,インデックスピン
+index pointer,インデックスポインタ
+index property,インデックスプロパティ
 index relation,インデックスリレーション
-index scan node,インデックススキャンノード
 index scan,インデックススキャン
 index scan,インデックス走査
+index scan node,インデックススキャンノード
+index search,インデックスサーチ
 index semantics,インデックスセマンティクス
 index size,インデックスサイズ
+index storage parameter,インデックスストレージパラメータ
 index support,インデックスサポート
 index tree,インデックスツリー
-index tuple headers,インデックスタプルヘッダ
 index tuple,インデックスタプル
-index,インデックス
-index-level,インデックスレベル
-index-only scan,インデックスオンリースキャン
-indexing project,インデックスプロジェクト
+index tuple headers,インデックスタプルヘッダ
+index vacuum cycle,インデックスバキュームサイクル
+indicator,インジケータ
 indicator,指示子
 indirect,間接
+individuals,群
 individuals,個体
 Indonesia,インドネシア
+infinite,無限
 infinite input,無限値の入力
 infinite loop,無限ループ
-infinite,無限
+information schema,インフォメーションスキーマ
 informix compatibility mode,informix互換モード
+infrastructure,インフラ
 Infrastructure,インフラストラクチャ
 inheritance,継承
 inherits,継承
+init fork,初期化フォーク(init fork)
 initialization fork,初期化フォーク
 injection,インジェクション
+inline,インライン
 inline blocks,インラインブロック
 inline handler,インラインハンドラ
-inline,インライン
+in-memory,インメモリ
+in-memory data,インメモリデータ
+inner joins,内部結合
+inner relation,インナーリレーション
 input abbreviations,入力簡略形
+in_range,in_range
+insert,インサート
 inserting,挿入
-install scripts,インストールスクリプト
-installation directory,インストレーションディレクトリ
-installation instructions,インストール手順
-installation tree,インストールツリー
 installation,インストール
 installation,インストレーション
+installation directory,インストレーションディレクトリ
+installation instructions,インストール手順
+installation subdirectory,インストレーションサブディレクトリ
+installation tree,インストールツリー
+installation tree,インストレーションツリー
+install directory,インストールディレクトリ
 installer,インストーラ
-instance data,インスタンスデータ
+install program,インストールプログラム
+install schema,インストールスキーマ
+install scripts,インストールスクリプト
 instance,インスタンス
+instance data,インスタンスデータ
+instance data pointer,インスタンスデータポインタ
 instance-level,インスタンスレベル
 instances of parameter,パラメータインスタンス
 instead of,代わり
 integer,整数
 integrity constraints,整合性制約
-interactive terminal,対話式端末
 interactive,インタラクティブ
+interactive terminal,対話式端末
+interface,インタフェース
 interface library,インタフェースライブラリ
 interface support,インタフェースサポート
-interface,インタフェース
+interleave,インターリーブ
 intermediate table,中間テーブル
+internal,インターナル
 internal node,内部ノード
-internet address,インターネットアドレス
 internet,インターネット
+internet address,インターネットアドレス
 interpolate,差し替え
 interpreter,インタプリタ
+interpreter program,インタプリタプログラム
 intersection,積
 interval,インターバル
 interval,時間間隔
@@ -1480,26 +1942,30 @@ inverse distribution,逆分散
 inverse transition function,逆方向遷移関数
 inversion,転置
 invocation,呼び出し
+i/o conversion cast,i/o変換キャスト
+I/O conversion cast,I/O変換キャスト
 Iraq,イラク
+irreflexive law,非反射律
 iso,iso
 isolation level,隔離レベル
 Israel,イスラエル
 istory file,ヒストリファイル
 Italy,イタリア
-item layout,アイテムレイアウト
-item pointers,アイテムポインタ
 item,アイテム
 item,項目
-iterator interface,イテレータインタフェース
+item layout,アイテムレイアウト
+item pointers,アイテムポインタ
 iterator,イテレータ
+iterator interface,イテレータインタフェース
 itself,自分自身
 JDBC,JDBC
 jet engine,ジェットエンジン
 job,ジョブ
 Joe,ジョー
+join,結合
 join condition,結合条件
 join methods,結合メソッド
-join,結合
+joins,結合
 Jordan,ヨルダン
 Journal,ジャーナル
 journaled file systems,ジャーナルファイルシステム
@@ -1507,40 +1973,57 @@ Journaling,ジャーナリング
 JSON,JSON
 jsonb,jsonb
 Julian calendar,ユリウス暦
+julian date,ユリウス日
 Julian date,ユリウス日
+julius,ユリウス
 Julius Caesar,ユリウス・カエサル
+jump,ジャンプ
 junk,ゴミ
 Junk,ジャンク
 just-in-time,ジャストインタイム
 Kaliningrad,カリーニングラード
 Kathmandu,カトマンズ
 Kazakhstan,カザフスタン
-kB pages,キロバイトページ
 kB,キロバイト
+kB pages,キロバイトページ
 keepalive message,キープアライブメッセージ
-keepalive socket option,キープアライブソケットオプション
 keepalives,キープアライブ
+keepalive socket option,キープアライブソケットオプション
 Kemerovo,ケメロヴォ
+kerberos,ケルベロス
 Kerberos,Kerberos
+kerberos user principal,ケルベロスユーザプリンシパル
+Kernel,カーネル
 Kernel cache,カーネルキャッシュ
 Kernel call,カーネルコール
 Kernel error message,カーネルエラーメッセージ
+kernel event,カーネルイベント
+kernel level,カーネルレベル
+kernel log,カーネルログ
 Kernel log messages,カーネルログメッセージ
 Kernel message,カーネルメッセージ
+kernel page cache,カーネルページキャッシュ
 Kernel parameters,カーネルパラメータ
 Kernel resources,カーネルリソース
 kernel source code,カーネルソースコード
 Kernel stack,カーネルスタック
 Kernel tuning,カーネルチューニング
 Kernel vendor,カーネルベンダ
-Kernel,カーネル
+kernel version,カーネルバージョン
+key,キー
+keychain,キーチェーン
 key data,キーデータ
 key error,キーエラー
 key field,キーフィールド
 key file,キーファイル
+key password,キーパスワード
+key password callback,キーパスワードコールバック
+key path,キーパス
+keytab,keytab
 key trigger,キートリガ
 key word,キーワード
-key,キー
+keyword category,キーワードカテゴリ
+key words,キーワード
 kill,終了させる シグナルを送る
 kilobytes,キロバイト
 Kiribati,キリバス
@@ -1548,260 +2031,365 @@ Kirov,キーロフ
 kit,キット
 knowledge based system,知識ベースシステム
 KSQO,KSQO
+label,label
+label,ラベル
+label-based,ラベルベース
 label file,ラベルファイル
 label path,ラベル経路
 label provider,ラベルプロバイダ
 label text,ラベルテキスト
 label trees,ラベルツリー
-label,label
-label,ラベル
-label-based,ラベルベース
-language extension,言語拡張
+lag,ラグ
 language,言語
+language extension,言語拡張
 laptops,ラップトップ
+large,ラージ
 large files,ラージファイル
+large object,ラージオブジェクト
 large object data,ラージオブジェクトデータ
 large object file,ラージオブジェクトファイル
 large object interface,ラージオブジェクトインタフェース
-large object,ラージオブジェクト
-large,ラージ
 latch,ラッチ
 late locking,遅いロック
-late row locking,遅延行ロック
 latency,レイテンシ
+late row locking,遅延行ロック
 LaTeX,LaTeX
 Latin,ラテン
-launcher daemon,ランチャデーモン
 launcher,ランチャ
-layer,レイヤー
+launcher daemon,ランチャデーモン
+launcher process,ランチャプロセス
+layer,レイヤ
 layout,レイアウト
+leader,リーダー
+leader process,リーダープロセス
+leaf,リーフ
+leaf certificate,リーフ証明書
 leaf datum,リーフデータ
+leaf entry,リーフエントリ
 leaf index,リーフインデックス
+leaf index node,リーフインデックスノード
 leaf level,リーフレベル
 leaf node,リーフノード
 leaf page,リーフページ
+leaf page tuple,リーフページタプル
+leaf partition,リーフパーティション
 leaf tuples,リーフタプル
-leaf certificate,リーフ証明書
-leaf,リーフ
 leak,リーク
 leak-proof,リークプルーフ
 left join,左結合
 left outer join,左外部結合
+legacy provider,レガシープロバイダ
 legal notice,法的告知
 length,長さ
-less than or equal,以下
 less than,より小さい
-level access,レベルアクセス
-level lock mode,レベルロックモード
-level lock,レベルロック
-level trigger,レベルトリガ
+less than or equal,以下
+letter size,レターサイズ
 level,レベル
+level access,レベルアクセス
+level lock,レベルロック
+level lock mode,レベルロックモード
+level object,レベルオブジェクト
+level program,レベルプログラム
+level programming,レベルプログラミング
+level security,レベルセキュリティ
+level transaction,レベルトランザクション
+level trigger,レベルトリガ
+levenshtein,レーベンシュタイン
+lexeme,語彙素
 lexemes,語彙素
+lexemes,語彙素(lexemes)
 lexer,レクサ
 lexer,字句解析
 lexical,レキシカル
 lexical,語彙
 libpq,libpq
+library,ライブラリ
+library-based,ライブラリ・ベース
+library database,ライブラリデータベース
 library directory,ライブラリディレクトリ
 library files,ライブラリファイル
 library finalization function,ライブラリ最終処理関数
 library initialization function,ライブラリ初期化処理関数
+library installation,ライブラリインストール
 library installed,ライブラリインストール済
 library path,ライブラリパス
 library routines,ライブラリルーチン
+library search path,ライブラリサーチパス
+library segment,ライブラリセグメント
 library support,ライブラリサポート
-library,ライブラリ
+library version,ライブラリバージョン
 libxslt,libxslt
 Libya,リビア
 License,ライセンス
 Liechtenstein,リヒテンシュタイン
+lifecycle,ライフサイクル
+lifetime,ライフタイム
 ligatures,合字
 lightweight lock,軽量ロック
 like,ライク
 limitation,制限
+line,直線
+Linear,リニア
+linear regression,線形リグレッション
 line feed,改行コード
 line feed,改行文字
 line numbers,行番号
+line pointer,ラインポインタ
 line segment,線分
-line,直線
-linear regression,線形リグレッション
-Linear,リニア
-link editor,リンクエディタ
-link mode,リンクモード
-link symbol,リンクシンボル
 link,リンク
-linked list data,リンクリストデータ
+link editor,リンクエディタ
 linked list,リンクリスト
+linked list data,リンクリストデータ
+linker,リンカ
 linker error,リンカエラー
 linker flag,リンカフラグ
+linker option,リンカオプション
 linker options,リンクオプション
-linker,リンカ
+linker switch,リンカスイッチ
+link mode,リンクモード
+link symbol,リンクシンボル
 list,リスト
+listen,リッスン
 listen,監視する
 listener,リスナ
+listening,リスニング
+listen socket,リッスンソケット
+list option,リストオプション
+list partitioning,リストパーティショニング
+list partition table,リストパーティションテーブル
+literal,リテラル
+literal boolean,リテラルブール
 literal data,リテラルデータ
 literal parser,リテラルパーサ
 literal processor,リテラルプロセッサ
 literal text,リテラルテキスト
-literal,リテラル
 Lithuania,リトアニア
 little-endian,リトルエンディアン
-load balancing,負荷分散
+live data directory,ライブデータディレクトリ
 load,ロード
 loadable,ロード可能
+load balancing,ロードバランシング
+load balancing,負荷分散
 loader,ローダ
 loading,ローディング
+local,ローカル
 local access,ローカルアクセス
-local block cache,ローカルブロックキャッシュ
 local block,ローカルブロック
+local block cache,ローカルブロックキャッシュ
 local buffer,ローカルバッファ
+local buffer pool,ローカルバッファプール
 local byte order,ローカルバイトオーダー
 local copies,ローカルコピー
 local database,ローカルデータベース
+local disk,ローカルディスク
+locale,ロケール
+locale category,ロケールカテゴリ
+locale checking,ロケールチェック
+locale data,ロケールデータ
+locale provider,ロケール・プロバイダ
+locale provider,ロケールプロバイダ
+locale support,ロケールサポート
+locale variation,ロケールバリエーション
 local file,ローカルファイル
+local file system,ローカルファイルシステム
 local host,ローカルホスト
-local loopback address,ローカルループバックアドレス
+localhost,ローカルホスト
+local instance,ローカルインスタンス
+localization,ローカライゼーション
+localization,多言語対応
+localize,ローカライズ
 local loopback,ローカルループバック
+local loopback address,ローカルループバックアドレス
 local machine,ローカルマシン
+local memory,ローカルメモリ
+local object,ローカルオブジェクト
+local objects,ローカルオブジェクト
+local path,ローカルパス
 local policy ,ローカルポリシー
+local port,ローカルポート
+local replication,ローカルレプリケーション
 local server,ローカルサーバ
 local session,ローカルセッション
 local sockets,ローカルソケット
+local subtransaction,ローカルサブトランザクション
 local system,ローカルシステム
 local tables,ローカルテーブル
 local time,ローカルタイム
 local transaction,ローカルトランザクション
+local trigger,ローカルトリガ
 local tuple,ローカルタプル
 local user,ローカルユーザ
-local,ローカル
-locale category,ロケールカテゴリ
-locale checking,ロケールチェック
-locale data,ロケールデータ
-locale support,ロケールサポート
-locale,ロケール
-localhost,ローカルホスト
-localization,多言語対応
+lock,ロック
+lock callback,ロックコールバック
 lock data,ロックデータ
 lock files,ロックファイル
-lock manager,ロックマネージャ
-lock mode,ロックモード
-lock table,ロックテーブル
-lock timeouts,ロックタイムアウト
-lock,ロック
 locking clauses,ロック処理句
 locking system,ロックシステム
+lock level,ロックレベル
+lock manager,ロックマネージャ
+lock manager lock,ロックマネージャロック
+lock mode,ロックモード
+lock object,ロックオブジェクト
+lock option,ロックオプション
+lock page,ロックページ
+lock table,ロックテーブル
+lock timeouts,ロックタイムアウト
 lockup,ロックアップ
+log,ログ
 log archive,ログアーカイブ
 log collector,ログコレクタ
 log data,ログデータ
+log directory,ログディレクトリ
+log entry,ログエントリ
 log file,ログファイル
-log level,ログレベル
-log messages,ログメッセージ
-log record,ログレコード
-log rotation tool,ログローテーションツール
-log rotation,ログローテーション
-log segment file,ログセグメントファイル
-log segment,ログセグメント
-log sequence,ログシーケンス
-log shipping,ログシッピング
-log stream,ログストリーム
-log table,ログテーブル
-log,ログ
 log-file manager,ログファイルマネージャ
-log-shipping standby server,ログシッピングスタンバイサーバ
 logged into,ログオン
+logger,ロガー
+logging,ロギング
+logging collector,ロギングコレクタ
 logging collector,ログ収集機構
 logging options,ロギングオプション
 logging parameters,ロギングパラメータ
-logging,ロギング
-logic error,ロジックエラー
-logic system,論理システム
 logic,ロジック
-logical change sets,ロジカルチェンジセット
-logical decoding interface,論理デコードインタフェース
-logical decoding,ロジカルデコーディング
-logical decoding,論理デコード
-logical error,論理エラー
-logical operator,論理演算子
-logical replication slot,ロジカルレプリケーションスロット
-logical replication slot,論理レプリケーションスロット
-logical replication,ロジカルレプリケーション
-logical replication,論理レプリケーション
 logical,ロジカル
 logical,論理
-login host,ログインホスト
-login role,ログインロール
+logical change sets,ロジカルチェンジセット
+logical decode,ロジカルデコード
+logical decoding,ロジカルデコーディング
+logical decoding,論理デコード
+logical decoding interface,ロジカルデコーディングインタフェース
+logical decoding interface,論理デコードインタフェース
+logical decoding message,ロジカルデコーディングメッセージ
+logical error,論理エラー
+logical operator,論理演算子
+logical replication,ロジカルレプリケーション
+logical replication,論理レプリケーション
+logical replication slot,ロジカルレプリケーションスロット
+logical replication slot,論理レプリケーションスロット
+logical replication solution,ロジカルレプリケーションソリューション
+logical replication system,ロジカルレプリケーションシステム
+logical slot,ロジカルスロット
+logical streaming replication,ロジカルストリーミングレプリケーション
+logic error,ロジックエラー
+logic system,論理システム
 login,ログイン
+login class,ログインクラス
+login host,ログインホスト
+login privilege,login権限
+login role,ログインロール
+log level,ログレベル
+log manager subprocess,ログマネージャサブプロセス
+log messages,ログメッセージ
+logout,ログアウト
+log record,ログレコード
+log rotation,ログローテーション
+log rotation program,ログローテーションプログラム
+log rotation tool,ログローテーションツール
+log segment,ログセグメント
+log segment file,ログセグメントファイル
+log sequence,ログシーケンス
+log shipping,ログシッピング
+log-shipping standby server,ログシッピングスタンバイサーバ
+log spam,ログスパム
+log stream,ログストリーム
+log table,ログテーブル
 London,ロンドン
+loop,ループ
+loopback address,ループバックアドレス
 loop labels,ループラベル
 Loop node,ループノード
-loop,ループ
+lossy,損失がある
 lossy,非可逆
+lost,ロスト
 low temperature,最低気温
 MAC address,MACアドレス
+machine,マシン
 machine addressing,マシンアドレス
 machine architecture,マシンアーキテクチャ
 machine object,マシンオブジェクト
-machine,マシン
 Macquarie,マッコーリー島
 macro,マクロ
+magenta,マゼンタ
+magic,マジック
 magic block,マジックブロック
 magic number,マジックナンバー
 mailing list,メーリングリスト
+Main,メイン
 main copy,メインコピー
 main database engine,メインデータベースエンジン
+main data directory,メイン・データ・ディレクトリ
+main data directory,メインデータディレクトリ
+main data file,メインデータファイル
+main fork,メインフォーク
+main fork,主フォーク
 main lock table,メインロックテーブル
 main loop,メインループ
 main parser,メインパーサ
-main server process,メインサーバプロセス
 main server,メインサーバ
+main server process,メインサーバプロセス
 main table,メインテーブル
-Main,メイン
-maintenance commands,メンテナンスコマンド
-maintenance level,メンテナンスレベル
 maintenance,メンテナンス
+maintenance commands,メンテナンスコマンド
+maintenance job,メンテナンスジョブ
+maintenance level,メンテナンスレベル
+maintenance window,メンテナンスウィンドウ
+main transaction,メイントランザクション
+main tree,メインツリー
+major,メジャー
 major mode,メジャーモード
+major protocol version,メジャープロトコルバージョン
 major release,メジャーリリース
+major release level,メジャーリリースレベル
 major upgrade,メジャーアップグレード
 major version,メジャーバージョン
-major,メジャー
 make,make
 Makefile,メークファイル
 makefiles,makefile
 Malta,マルタ
-man page,マニュアルページ
 management,管理
-manager interface,マネージャインタフェース
 manager,マネージャ
+manager interface,マネージャインタフェース
+manifest,マニフェスト
+manifest data,マニフェストデータ
 manipulation,操作
-manual page,マニュアルページ
+man page,マニュアルページ
 manual,マニュアル
-map file,マップファイル
+manual page,マニュアルページ
 map,マップ
-mapping file,マッピングファイル
+map bit,マップビット
+map file,マップファイル
+map page,マップページ
 mapping,マッピング
 mapping,写像
+mapping data,マッピングデータ
+mapping file,マッピングファイル
 margin,マージン
 mark,マーク
+marker record,マーカーレコード
 marking,マーキング
 markup,マークアップ
 mary,メアリー
 mask,マスク
+master,マスタ
 master database cluster,マスタデータベースクラスタ
 master key,マスタキー
 master mode,マスタモード
 master process,マスタプロセス
 master repository,マスタリポジトリ
-master server process,マスタサーバプロセス
 master server,マスタサーバ
-master table,マスタテーブル
-master,マスタ
+master server process,マスタサーバプロセス
 master-standby replication,マスタ・スタンバイレプリケーション
+master table,マスタテーブル
 match,マッチ
 matching,マッチング
-materialize nodes,ノードマテリアライゼーション
+match option,マッチオプション
+match pattern,マッチパターン
+materialization,マテリアライゼーション
+materialize,materialize
 materialize,マテリアライズ
+materialized,マテリアライズド
 materialized view,マテリアライズドビュー
+materialize nodes,ノードマテリアライゼーション
 mathematical model,数学的モデル
 matrix,マトリクス
 Mauritius,モーリシャス
@@ -1810,136 +2398,185 @@ MB,メガバイト
 mechanism,メカニズム
 mechanism,機構
 media,メディア
+median,メジアン
 median,中央値(メジアン)
 megabyte,メガバイト
+member,メンバ
+member access,メンバアクセス
+member accessor,メンバアクセサ
 member fields,メンバフィールド
 member machine,メンバマシン
 member object,メンバオブジェクト
-member relations,メンバーリレーション
-member,メンバ
-membership,メンバーシップ
+member relations,メンバリレーション
+member role,メンバロール
 membership,メンバシップ
 membership,メンバ資格
+membership option,メンバシップオプション
+memo,メモ
+memory,メモリ
 memory access,メモリアクセス
 memory address,メモリアドレス
 memory allocation,メモリアロケーション
+memory allocator,メモリアロケータ
+memory allocator access,メモリアロケータアクセス
 memory barrier,メモリバリア
+memory-based,メモリベース
 memory blocks,メモリブロック
 memory buffers,メモリバッファ
 memory context,メモリコンテキスト
+memory contexts,メモリコンテキスト
 memory copying,メモリコピー
 memory errors,メモリエラー
+memory hash table access,メモリハッシュテーブルアクセス
 memory leak,メモリリーク
+memory mapped file,メモリマップファイル
 memory model,メモリモデル
+memory object,メモリオブジェクト
 memory overcommit,メモリオーバーコミット
+memory page,メモリページ
 memory parameters,メモリパラメータ
+memory pool,メモリプール
 memory queue,メモリキュー
+memory region,メモリリージョン
 memory segment,メモリセグメント
 memory size,メモリサイズ
+memory space,メモリスペース
+memory subsystem,メモリサブシステム
 memory support,メモリサポート
-memory,メモリ
-memory-based,メモリベース
-merge join,マージ結合
 merge,マージ
 Merge-Append,マージ、アペンド
+merge join,マージ結合
 mergejoin,マージ結合
 merit,メリット
-message catalog files,メッセージカタログファイル
-message catalog,メッセージカタログ
-message fields,メッセージフィールド
-message format,メッセージフォーマット
-message level,メッセージレベル
-message queue,メッセージキュー
-message sets,メッセージセット
-message stream,メッセージストリーム
-message text,メッセージテキスト
 message,メッセージ
 message-based,メッセージベース
+message callback,メッセージコールバック
+message catalog,メッセージカタログ
+message catalog files,メッセージカタログファイル
+message data,メッセージデータ
 Message-Digest,メッセージダイジェスト
+message fields,メッセージフィールド
+message flow,メッセージフロー
+message format,メッセージフォーマット
+message level,メッセージレベル
+message localization,メッセージローカライゼーション
+message localization library,メッセージローカライゼーションライブラリ
+message queue,メッセージキュー
+message sets,メッセージセット
+message storage,メッセージストレージ
+message stream,メッセージストリーム
+message text,メッセージ・テキスト
+message text,メッセージテキスト
+message type,メッセージタイプ
 meta,メタ
 meta-command,メタコマンド
 metadata,メタデータ
+metadata field,メタデータフィールド
+metadata key,メタデータキー
 metapage,メタページ
 meter,メートル
 method,メソッド
 Metlakatla,メトラカトラ
+metric,メトリック
 Mexico,メキシコ
 micro,マイクロ
+micron,ミクロン
 Micronesian,ミクロネシア
+microsoft,マイクロソフト
 middleware,ミドルウェア
 migration,移行
 miles,マイル
 millennium,ミレニアム
+milli,ミリ
 millisecond,ミリ秒
 minmax,minmax
-minor release levels,マイナーリリースレベル
-minor release,マイナーリリース
-minor version,マイナーバージョン
 minor,マイナー
+minor protocol version,マイナープロトコルバージョン
+minor release,マイナーリリース
+minor release levels,マイナーリリースレベル
+minor version,マイナーバージョン
+minor version release,マイナーバージョンリリース
+minus,マイナス
 minus sign,マイナス符号
 minus zero,マイナスゼロ
-minus,マイナス
-mirror site,ミラーサイト
 mirror,ミラー
 mirroring,ミラーリング
+mirror site,ミラーサイト
 misspellings,ミススペル
 mistake,ミス
 mixed,混在
 mnemonic,記憶の助け
-mode flags,モードフラグ
-mode options,モードオプション
 mode,モード
+mode,最頻値
+mode flags,モードフラグ
 model,モデル
+mode options,モードオプション
+moderator,モデレータ
 modifier,修飾子
 modifying,変更
-modules interfacing,インタフェースモジュール
+modular,モジュラー
 modules,モジュール
+modules interfacing,インタフェースモジュール
+module support,モジュールサポート
 Moldova,モルドバ
 Mongolia,モンゴル
 monitor,モニタ
-monitoring tools,モニタリングツール
 monitoring,監視
+monitoring tools,モニタリングツール
 Morocco,モロッコ
 morphological dictionaries,形態論辞書
 Moscow,モスクワ
 most common values,頻出値
+mount,マウント
 mount option,マウントオプション
 mount paths,マウントパス
 mount point,マウントポイント
-mount,マウント
+mount point directory,マウントポイントディレクトリ
 moving-aggregate mode,移動集約モード
 multi,マルチ
-multibyte encoding,マルチバイト符号化方式
 multibyte,マルチバイト
+multi-byte encoding,マルチバイトエンコーディング
+multibyte encoding,マルチバイト符号化方式
 multicast,マルチキャスト
 multicolumn,複数列
 multicore,マルチコア
+multi data,マルチデータ
+multi-master replication,マルチマスタレプリケーション
 multiple,マルチプル
 multiple-process applications,マルチプロセスアプリケーション
 multiple-thread programs,複数スレッドプログラム
 multiprocess,マルチプロセス
 multiprocessor,マルチプロセッサ
-multithread programs,マルチスレッドプログラム
 multithread,マルチスレッド
+multithread programs,マルチスレッドプログラム
 multitransaction,マルチトランザクション
+multi-transaction counter,マルチトランザクションカウンタ
+multi-transaction member,マルチトランザクションメンバ
+multi-transaction offset,マルチトランザクションオフセット
 multiuser,マルチユーザ
+multi-user system,マルチユーザシステム
 multivariate statistics,多変量統計情報
+multi-version,マルチバージョン
 multiversion concurrency control,多版型同時実行制御
 multiversion concurrency control,多版同時実行制御
-multixact ID wraparound,マルチトランザクションIDの周回
 multixact ID,マルチトランザクションID
+multixact ids,マルチトランザクションid
+multixact id wraparound,マルチトランザクションidの周回
+multixact ID wraparound,マルチトランザクションIDの周回
 mutation,突然変異
 mutexes,ミューテクス
 MVCC,MVCC
+nagatsug,ナガツグ
 name,名前
 named,記名的
 named,名前付け
 nanoseconds,ナノ秒
+native,ネイティブ
 native build,ネイティブビルド
 native code,ネイティブコード
+native program,ネイティブプログラム
 native server,ネイティブサーバ
 native support,ネイティブサポート
-native,ネイティブ
 natural join,自然結合
 near-exhaustive search,しらみつぶしに近い検索
 needs,ニーズ
@@ -1950,157 +2587,205 @@ negator,否定子
 negotiation,ネゴシエーション
 Nepali language,ネパール語
 nest,ネスト
-nested loop join,ネステッドループ結合
 nested loop,ネステッドループ
 nested-loop,ネステッドループ
-net services,ネットサービス
-netmask fields,ネットマスクフィールド
+nested loop join,ネステッドループ結合
+nest level,ネストレベル
 netmask,ネットマスク
-network address types,ネットワークアドレスデータ型
+netmask fields,ネットマスクフィールド
+net services,ネットサービス
+network,ネットワーク
+network access,ネットワークアクセス
 network address,ネットワークアドレス
+network address data,ネットワークアドレスデータ
+network address types,ネットワークアドレスデータ型
 network attached storage,ネットワークアタッチドストレージ
+network byte,ネットワークバイト
 network byte order,ネットワークバイトオーダー
 network byte order,ネットワークバイト順
 network file system,ネットワークファイルシステム
 network interfaces,ネットワークインタフェース
+network mask,ネットワークマスク
 network overhead,ネットワークオーバーヘッド
 network packets,ネットワークパケット
 network traffic,ネットワークトラフィック
-network,ネットワーク
+network transaction,ネットワークトランザクション
+newline,改行
 new users,新規ユーザ
 New York,ニューヨーク
 New Zealand,ニュージーランド
-newline,改行
-no operation,ノーオペレーション
-node label,ノードラベル
-node set,ノードセット
 node,ノード
+node label,ノードラベル
+nodes,ノード
+node set,ノードセット
+node type,ノードタイプ
 noise,ノイズ
+nonatomic,非原子的
+nonblocking,ノンブロック
+nonblocking connection,非ブロッキング接続
+non-blocking event loop,ノンブロッキングイベントループ
+nonblocking mode,非ブロックモード
 non-bootstrap catalogs,非ブートストラップカタログ
+nondeterministic,非決定論的
+nondeterministic collations,非決定論的照合順序
 non-durable,非永続性
+non-fiction,ノンフィクション
 non-fiction books,ノンフィクションの本
 non-greedy,最短マッチ
+non-greedy,最短マッチを行う（非欲張り型）
+non-greedy,欲張りの
+non-key,非キー
+nonnegative,非負
+nonnull,非NULL
+non-recursive term,非再帰的表現（non-recursive term）
 non-recursive term,非再帰的表現（non-recursiveterm）
+nonrepeatable read,反復不能読み取り
 non-reserved,未予約
 non-session processes,非セッションプロセス
 non-star label,非スターラベル
 non-superusers,非スーパーユーザ
-nonblocking connection,非ブロッキング接続
-nonblocking mode,非ブロックモード
-nonblocking,ノンブロック
-nonnegative,非負
-nonnull,非NULL
-nonrepeatable read,反復不能読み取り
 nonzero,非ゼロ
+no operation,ノーオペレーション
 Norfolk Island,ノーフォーク島
 normalization,正規化
 normalize,正規化
+normalized,正規化
 North American east,北アメリカ東海岸
-North Korea,北朝鮮
 Northern Cyprus,北キプロス
+North Korea,北朝鮮
+norway,ノルウェー
 Norwegian dictionary,ノルウェー辞書
 not a number,非数
-not-null constraint,非NULL制約
 note,ノート
 note,注意
 notification,通知
 notifier,通知者
+not-null constraint,非NULL制約
 Novokuznetsk,ノヴォクズネツク
 Novosibirsk,ノヴォシビルスク
+null,null
+null,ヌル
 null bitmap,ヌルビットマップ
 null byte,ヌルバイト
 null marker,ヌルマーカ
 null pointer,ヌルポインタ
 null value,NULL値
-null,null
-null,ヌル
+object,オブジェクト
 object access,オブジェクトアクセス
-object code file,オブジェクトコードファイル
+object address,オブジェクトアドレス
 object code,オブジェクトコード
+object code file,オブジェクトコードファイル
+object database,オブジェクトデータベース
 object field,オブジェクトフィールド
 object file,オブジェクトファイル
 object id,オブジェクト id
 object identifier,オブジェクト識別子
 object key,オブジェクトキー
+object lock,オブジェクトロック
 object manager,オブジェクトマネージャ
+object member,オブジェクトメンバ
+object-relational database,オブジェクトリレーショナルデータベース
 object size,オブジェクトサイズ
 object support,オブジェクトサポート
+object type,オブジェクトタイプ
 object visibility,オブジェクトの可視性
-object,オブジェクト
-object-relational database,オブジェクトリレーショナルデータベース
 octet,オクテット
+octet sequence,オクテットシーケンス
 ODBC,ODBC
 off,オフ
-off-site data storage,オフサイトデータストレージ
 office suite,オフィススイート
 official documentation,オフィシャルドキュメント
 offline,オフライン
+offload,オフロード
+offload device,オフロードデバイス
 offset,オフセット
+off-site data storage,オフサイトデータストレージ
 oid,oid
 on,オン
 on-disk,ディスク上
 one-to-many,1対多
-online backup mode,オンラインバックアップモード
-online backup,オンラインバックアップ
-online transaction,オンライントランザクション
 online,オンライン
+online backup,オンラインバックアップ
+online backup mode,オンラインバックアップモード
+online transaction,オンライントランザクション
+oom score adjustment,oomスコア調整
 OOM score adjustment,OOMスコア調整
-open file,オープンファイル
-open source,オープンソース
 open,オープン
 open,開いている
+open cursor,オープンカーソル
+opened,開かれる
+open file,オープンファイル
+open source,オープンソース
+open-source,オープンソース
 open-source database,オープンソースデータベース
 open-source project,オープンソースプロジェクト
-open-source,オープンソース
-opened,開かれる
+open transaction,オープントランザクション
 operand,オペランド
 operand,演算項目
+operating system,オペレーティングシステム
 operating system cache,オペレーティングシステムキャッシュ
+operating-system calls,オペレーティングシステムコール
 operating system level,オペレーティングシステムレベル
+operating system locale,オペレーティングシステムロケール
 operating system user,オペレーティングシステムユーザ
 operating system utilities,オペレーティングシステムユーティリティ
-operating system,オペレーティングシステム
-operating-system calls,オペレーティングシステムコール
 operation,オペレーション
 operation,操作
-operator class,演算子クラス
-operator family,演算子族
+operator,オペレータ
 operator,演算子
+operator class,演算子クラス
+operator classes,演算子クラス
+operator families,演算子族
+operator family,演算子族
 optimization,最適化
 optimize,最適化
 optimizer,オプティマイザ
-option key,オプションキー
+optimizer cost,オプティマイザコスト
+optional,オプショナル
 optional key word,オプションキーワード
 optional modules,オプションモジュール
 optional parameters,オプションパラメータ
-optional,オプショナル
+option bit,オプションビット
+option flag,オプションフラグ
+option key,オプションキー
+options,オプション
 options field,オプションフィールド
 options list,オプションリスト
-options,オプション
 Oracle,オラクル
 order,オーダー
 ordered set,順序集合
-ordered-set aggregate,順序集合集約
 ordered-set,順序集合
+ordered-set aggregate,順序集合集約
+ordered-set aggregates,順序集合集約
+ordering,順序付け
 ordering operator,順序付け演算子
 ordering operators,順序付け演算子
-ordering,順序付け
-ordinal number,序数
 ordinality,順序性
+ordinal number,序数
 origin,オリジン
+original,オリジナル
 original data,オリジナルデータ
+original text,オリジナルテキスト
 original text,オリジナル文書
 original version,オリジナルバージョン
-original,オリジナル
+origin filter,オリジンフィルタ
+origin filter callback,オリジンフィルタコールバック
+out data,アウトデータ
 outer join,外部結合
+outer relation,アウターリレーション
 output parameters,出力パラメータ
-overcommit mode,オーバーコミットモード
+output plugin,アウトプットプラグイン
+over,オーバー
 overcommit,オーバーコミット
+overcommit mode,オーバーコミットモード
 overflow,オーバーフロー
+overflow error,オーバーフローエラー
+overflow page,オーバーフローページ
 overhaul,オーバーホール
 overhead,オーバーヘッド
 overlapping matches,オーバーラップマッチ
 overload,オーバーロード
+overloaded,オーバーロード
 overloading,オーバーロード
 override,オーバーライド
 override,上書き
@@ -2112,216 +2797,310 @@ pack,パック
 package,パッケージ
 package-based,パッケージベース
 package-level,パッケージレベル
+packager,パッケージャ
 packages,パッケージソフト
 packaging system,パッケージシステム
 packet,パケット
+packet page,パケットページ
+packets,パケット
 pad,パッド
-padding bytes,パディングバイト
 padding,パディング
+padding bytes,パディングバイト
+page,ページ
+page access,ページアクセス
+page cache,ページキャッシュ
 page checksum,ページチェックサム
+paged out,ページアウト
 page header,ページヘッダ
 page image,ページイメージ
+page item,ページアイテム
 page layout,ページレイアウト
+page-level,ページレベル
+page-level locks,ページレベルロック
 page locks,ページ・ロック
+pager,ページャ
+page range,ページレンジ
+pages,ページ
 page size,ページサイズ
 page snapshots,ページスナップショット
 page status bit,ページステータスビット
 page tables,ページテーブル
-page,ページ
-page-level locks,ページレベルロック
-page-level,ページレベル
-paged out,ページアウト
-pager,ページャ
-pages,ページ
 paging space,ページングスペース
 pair,ペア
 Pakistan,パキスタン
 Palestine,パレスチナ
-panic message,パニックメッセージ
 panic,パニック
+panic message,パニックメッセージ
 Papua New Guinea,パプアニューギニア
 Paraguay,パラグアイ
+parallel,パラレル
+parallel,並列
+parallel activity,パラレルアクティビティ
 parallel aggregation,並列集約
+parallel append,パラレルアペンド
+parallel bitmap heap scan,パラレルビットマップヒープスキャン
+parallel bitmap index scan,パラレルビットマップインデックススキャン
+parallel bitmap scan,パラレルビットマップスキャン
+parallel group leader,パラレルグループリーダー
+parallel hash,パラレルハッシュ
+parallel index only scan,パラレルインデックスオンリースキャン
+parallel index scan,パラレルインデックススキャン
+parallel index scans,パラレルインデックススキャン
+parallel join,パラレルジョイン
+parallel label,パラレルラベル
+parallel leader,パラレルリーダー
 parallel plan,パラレルプラン
 parallel query,パラレルクエリ
 parallel query,並列問い合わせ
+parallel query context,パラレルクエリコンテキスト
+parallel query plan,パラレルクエリプラン
+parallel query system,パラレルクエリシステム
+parallel query worker,パラレルクエリワーカー
 parallel restricted,パラレル制限
+parallel restricted,パラレル制限（parallel restricted）
 parallel safe,パラレル安全
+parallel safe,パラレル安全（parallel safe）
+parallel safe mark,パラレルセーフマーク
 parallel scan,パラレルスキャン
-parallel worker,パラレルワーカー
+parallel sequential scan,パラレルシーケンシャルスキャン
 parallel universes,パラレルユニバース
 parallel unsafe,パラレル非安全
-parallel,パラレル
-parallel,並列
+parallel unsafe,パラレル非安全（parallel unsafe）
+parallel utility command,パラレルユーティリティコマンド
+parallel vacuum,並列バキューム
+parallel worker,パラレルワーカー
+parallel worker process,パラレルワーカープロセス
+parameter,パラメータ
 parameter data,パラメータデータ
+parameter file,パラメータファイル
 parameter key words,パラメータキーワード
 parameter list,パラメータリスト
 parameter placeholders,パラメータプレースホルダ
+parameters,パラメータ
 parameter symbol,パラメータシンボル
 parameter type,パラメータタイプ
-parameter,パラメータ
 parent,親
+parent,親(parent)
 parentheses,カッコ
 Paris,パリ
 Parity,パリティ
-parse node,パースノード
-parse tree,構文解析ツリー
 parse,解析
+parse error,パースエラー
+parse node,パースノード
+parser,パーサ
 parser errors,パーサエラー
 parser hooks,パーサフック
 parser stage,構文解析過程
 parser tools,パーサツール
-parser,パーサ
+parse tree,構文解析ツリー
 parsing,パース
 part,パート
 partial aggregation,部分集約
 partial index,部分インデックス
+partial mode,部分モード
 Partial Mode,部分モード
 partial plan,部分プラン
-Partition key,パーティションキー
-partition table,パーティションテーブル
 partition,パーティション
+partition bounds,パーティション境界
+partitioned,パーティション
+partitioned table,パーティションテーブル
 partitioned tables,テーブルパーティション
+partition index,パーティションインデックス
 partitioning,パーティショニング
+partitioning method,パーティショニング方式
+partitioning table,パーティショニングテーブル
+partition key,パーティションキー
+Partition key,パーティションキー
+partition pruning,パーティション除去
+partitions,パーティション
+partition step,パーティションステップ
+partition table,パーティションテーブル
+partition tree,パーティションツリー
+parts,パーツ
+passing mechanisms,引き渡し方式
 passphrase,パスフレーズ
+passphrase command,パスフレーズコマンド
+pass through,パススルー
+pass-through,通過地点
 passthrough,通過地点
+password,パスワード
+password callback,パスワードコールバック
+password challenge,パスワードチャレンジ
 password field,パスワードフィールド
 password file,パスワードファイル
+password hash,パスワードハッシュ
 password hashing,パスワードハッシュ化
 password policies,パスワードポリシー
 password prompt,パスワードプロンプト
-password,パスワード
 paste,ペースト
-patch review,パッチレビュー
 patch,パッチ
+patch review,パッチレビュー
 path,パス
+path engine,path engine
+path engine,パスエンジン
+path list,パスリスト
+path literal,パスリテラル
 paths,経路
+path step,パスステップ
+pattern,パターン
 pattern indexes,パターンインデックス
 pattern match,パターンマッチ
 pattern matching,パターンマッチ
 pattern matching,パターンマッチング
-pattern searching,パターンサーチ
-pattern,パターン
 pattern-matching metacharacters,パターンマッチメタ文字
+pattern match meta,パターンマッチメタ
+pattern searching,パターンサーチ
 payload,ペイロード
 PDF documentation formats,PDFドキュメントフォーマット
 peak,ピーク
+peer,ピア
+peer,同等な
 peer authentication,peer認証
 peer authentication,ピア認証
+peer group,ピアグループ
 peer groups,ピアのグループ
-peer,同等な
+peer groups,ピアグループ
 peers,ピア
 penalty,ペナルティ
-per-row,行単位の
-per-statement,文単位の
+pending leaf page,ペンディングリーフページ
+pending list,ペンディングリスト
 percent,パーセント
+percentage,パーセンテージ
+percent encode,パーセントエンコード
 percent-encode,パーセントエスケープ
+percent encoding,パーセントエンコーディング
 percentile,パーセンタイル
 percentile,百分位数
-Performance Tips,性能に関するヒント
-performance tuning,パフォーマンスチューニング
 performance,パフォーマンス
 performance,性能
+performance overhead,パフォーマンスオーバーヘッド
+Performance Tips,性能に関するヒント
+performance tuning,パフォーマンスチューニング
 period,ピリオド
 permanent table,永続テーブル
-permission check,パーミッションチェック
 permission,パーミッション
 permission,権限
 permission,権利
+permission check,パーミッションチェック
 permissions check,権限チェック
 permissive mode,パーミッシブモード
+per-row,行単位の
+per-statement,文単位の
 pg_upgrade,pg_upgrade
 phantom read,ファントムリード
+phase,フェーズ
+phase commit,フェーズコミット
+phoenix,フェニックス
 phrase,語句
-physical storage,物理的な格納
 physical,物理的
+physical replication,物理レプリケーション
+physical storage,物理的な格納
 pin,ピン
 ping,ピング
 pipe,パイプ
 pipeline,パイプライン
+pipeline command,パイプラインコマンド
+pipeline mode,パイプラインモード
+pipelining,パイプライン化(pipelining)
 PITR standby,PITRスタンバイ
 pivot,ピボット
 placeholder,プレースホルダ
-plain text,プレインテキスト
-plan node,プランノード
-plan nodes,計画ノード
-plan tree,計画ツリー
+plain,プレーン
+plain text,プレーンテキスト
 plan,プラン
 plan,計画
+planner,プランナ
+planner,問い合わせ計画
 planner code,プランナコード
 planner cost,プランナコスト
 planner data,プランナデータ
 planner error,プランナエラー
 planner method,プランナメソッド
-planner options,プランナオプション
-planner,プランナ
-planner,問い合わせ計画
 planner/optimizer,プランナ/オプティマイザ
+planner options,プランナオプション
+planner support,プランナサポート
+planning,プランニング
+planning,計画する
+plan node,プランノード
+plan nodes,計画ノード
+plan tree,プランツリー
+plan tree,計画ツリー
 platform,プラットフォーム
-plug-in,プラグイン
+plug,プラグ
 pluggable,プラガブル
+plug-in,プラグイン
 plugin callbacks,プラグインコールバック
 plus,プラス
 point,ポイント
-point-in-time recovery,ポイントインタイムリカバリ
-Point-in-time,ポイントインタイム
-pointer datum,ポインタデータ
 pointer,ポインタ
+pointer datum,ポインタデータ
+Point-in-time,ポイントインタイム
+point-in-time recovery,ポイントインタイムリカバリ
 poisoning,ポイズニング
 Poisson-distributed,ポアソン分布
 Poland,ポーランド
-policy package,ポリシーパッケージ
 policy,ポリシー
+policy object,ポリシーオブジェクト
+policy package,ポリシーパッケージ
 polling,ポーリング
 polygon,ポリゴン
+polymorphic,多様引数
 polymorphic function,多様関数
 polymorphic type,多様型
 polymorphic types,多様型
-polymorphic,多様引数
-pool size,プールサイズ
 pool,プール
+pool size,プールサイズ
 pop,ポップ
-pop-up,ポップアップ
 population,群
+population,個体
 population,母集団
-port forwarding,ポートフォワード
+pop-up,ポップアップ
 port,ポート
 port,移植
 port,移植性
+portal,ポータル
 portal object,ポータルオブジェクト
 portal parameters,ポータルパラメータ
-portal,ポータル
+portals,ポータル
 Porter,ポーター
+port forwarding,ポートフォワード
 Portugal,ポルトガル
-position-independent code,位置独立なコード
 positional,位置
 positional,位置的
+position-independent code,位置独立なコード
 positions,位置
 positive lookahead,先行肯定検索
 positive lookbehind,後方肯定検索
-post-process,後処理
 POSTGRES,POSTGRES
 PostgreSQL,PostgreSQL
 posting list,ポスティングリスト
-power set,べき集合
+posting list tuple,ポスティングリストタプル
+posting tree,ポスティングツリー
+post-process,後処理
 power,パワー
+power set,べき集合
 pragma,プラグマ
 precipitation,降水量
 precision,精度
+precision,精度(precision)
 precompiled,プリコンパイル
 precompiler,プリプロセッサ
-predicate locking,述語ロック
 predicate,述語
+predicate locking,述語ロック
 predicates,述語
 preface,はじめに
 preferred types,型カテゴリ
 preferred types,優先される型
-prefetch,プレフェッチ
+prefetch,プリフェッチ
+prefetch activity,プリフェッチ・アクティビティ
+prefetcher,プリフェッチャー
 prefix,プレフィックス
 prefix,接頭辞
 preload,プリロード
+preload catalog,プリロードカタログ
 preloading a library,プリロードライブラリ
 prepare,プリペア
+prepared,プリペアド
 prepared command,プリペアドコマンド
 prepared query,プリペアードクエリ
 prepared statement,プリペアドステートメント
@@ -2330,89 +3109,123 @@ prepared statements,プリペアド文
 prepared transaction,プリペアードトランザクション
 prepared transaction,プリペアドトランザクション
 prepared transaction,準備済みのトランザクション
-prepared,プリペアド
+prepared transaction message,プリペアドトランザクションメッセージ
 preparing a query,問い合わせの準備
+preprocess,プリプロセス
 preprocess,前処理
-preprocessor program,プリプロセッサプログラム
 preprocessor,プリプロセッサ
+preprocessor program,プリプロセッサプログラム
 prewarm,プレウォーム
+prewarm worker,プレウォームワーカー
+primary,プライマリ
+primary database,プライマリデータベース
+primary database server,プライマリデータベースサーバ
 primary heap disk file,プライマリヒープディスクファイル
 primary keepalive message,プライマリキープアライブメッセージ
-primary key field,主キーフィールド
 primary key,主キー
+primary key field,主キーフィールド
 primary node,プライマリノード
+primary process,プライマリプロセス
 primary server,プライマリサーバ
+primary server process,プライマリサーバプロセス
+primary-standby replication,プライマリ・スタンバイレプリケーション
 primary system,プライマリシステム
-primary,プライマリ
 primitive,プリミティブ
 principal,プリンシパル
 print,プリント
+privacy,プライバシー
 Privacy Handbook,プライバシーハンドブック
+private,プライベート
 private data,プライベートデータ
 private fields,プライベートフィールド
+private key,プライベートキー
 private key,秘密鍵
-private,プライベート
+private storage,プライベートストレージ
 privilege,権限
+privileges,権限
+probe,プローブ
 probe parameters,プローブパラメータ
 probe points,プローブポイント
-probe,プローブ
-procedural language,手続き言語
 procedural,手続き
-procedure memory context,プロシージャメモリコンテキスト
+procedural language,手続き言語
 procedure,プロシージャ
+procedure memory context,プロシージャメモリコンテキスト
+process,プロセス
 process group leader,プロセスグループリーダ
 process id,process id
+processor,プロセッサ
 process stack size,プロセススタックサイズ
 process title,プロセスタイトル
-process,プロセス
-processor,プロセッサ
+process type,プロセスタイプ
 production,稼働
 Professor,教授
 profiles,プロファイル
 profiling,プロファイリング
+program,プログラム
 program code,プログラムコード
 program files,プログラムファイル
-program source,プログラムソース
-program's messages ,プログラムメッセージ
-program,プログラム
-programmer's guide,プログラマガイド
 programmer,プログラマ
+programmer's guide,プログラマガイド
+programming,プログラミング
 programming interface,プログラミングインタフェース
 programming mistakes,プログラムミス
 programming style,プログラミングスタイル
 programming tools,プログラミングツール
-programming,プログラミング
+program's messages ,プログラムメッセージ
+program source,プログラムソース
 project,プロジェクト
+projection,プロジェクション
 projection,射影
+project style,プロジェクトスタイル
+proleptic gregorian calendar,先発グレゴリオ暦
 proleptic Gregorian calendar,先発グレゴリオ暦
 promote,プロモート
 prompt,プロンプト
 property,プロパティ
+property macro,プロパティマクロ
 protein,タンパク
 Protestant,プロテスタント
-protocol head,プロトコルヘッダー
+protocol,プロトコル
+protocol handshake,プロトコルハンドシェイク
+protocol head,プロトコルヘッダ
 protocol level,プロトコルレベル
 protocol message,プロトコルメッセージ
+protocol option,プロトコルオプション
 protocol support,プロトコルサポート
 protocol version,プロトコルバージョン
-protocol,プロトコル
-prototype code,プロトタイプコード
 prototype,プロトタイプ
+prototype code,プロトタイプコード
+provider,プロバイダ
+provider callback,プロバイダコールバック
+provider interface,プロバイダインタフェース
+provider library,プロバイダライブラリ
 proximity ranking,近接順序
 proximity ranking,適合性ランキング
+proxy,プロキシ
+prunes,除去
 pseudo-types,疑似データ型
 psql,psql
-public domain,パブリックドメイン
-public schema,パブリックスキーマ
-public-key algorithms,公開キーアルゴリズム
 publication,パブリケーション
+publication node,パブリケーションノード
+publication object,パブリケーションオブジェクト
+publication parameter,パブリケーションパラメータ
+publications,パブリケーション(publications)
+public domain,パブリックドメイン
+public-key algorithms,公開キーアルゴリズム
+public schema,パブリックスキーマ
 publish,パブリッシュ
 publisher,パブリッシャー
-push down,プッシュダウン
+publisher,パブリッシャー(publisher)
+publisher database,パブリッシャーデータベース
+publisher node,パブリッシャーノード
+publishers,パブリッシャー
+publisher table,パブリッシャーテーブル
 push,プッシュ
+push down,プッシュダウン
 Python,Python
 qual,条件
 qualification,検索条件
+qualifications,検索条件
 qualified join,限定的な結合
 qualified name,修飾名
 qualifier,修飾子
@@ -2420,305 +3233,423 @@ qualify,修飾
 quantified atoms,量化アトム
 quantifier,量指定子
 quarter,クォータ
+queried,問い合わせ
+query,クエリ
+query,問い合わせ
 query buffer,問い合わせバッファ
+query executor,クエリエグゼキュータ
 query hash,クエリハッシュ
-query Optimizer,問い合わせ最適化
+query optimizer,クエリオプティマイザ
+query optimizer,問い合わせオプティマイザ
+query Optimizer,問い合わせオプティマイザ
 query parallelism,並列問い合わせ
 query plan,クエリプラン
 query plan,問い合わせ計画
+query planner,クエリプランナ
+query planning,クエリプランニング
 query rewrite rule,問い合わせ書き換えルール
 query rewriting,問い合わせ書き換え
 query terms,検索語
 query text,クエリテキスト
 query tree,問い合わせツリー
-query,クエリ
-query,問い合わせ
+question mark,クェスチョンマーク
 queue,キュー
+quorum,クォーラム
 quota,クォータ
 quotation marks,引用符
-quote,クオート
+quote,クォート
 quoted identifier,引用符で囲まれた識別子
 quoted identifier,引用符付き識別子
 race condition,競合条件
+radian,ラディアン
 radians,ラジアン
 RAID array,RAIDアレー
 ram disk,RAMディスク
+random,ランダム
 random access,ランダムアクセス
+Random-Data,ランダムデータ
 random page cost,ランダムページコスト
 random sample,ランダムサンプル
 random seed,ランダムシード
-random,ランダム
-Random-Data,ランダムデータ
+range,レンジ
 range table,レンジテーブル
 range type,範囲型
-range,レンジ
 rank,ランク
 ranking,ランキング
 rapid prototyping,ラピッドプロトタイプ
 rate,レート
+read committed,リードコミッティド
 read committed mode,リードコミッティドモード
 read committed transaction,リードコミッティドトランザクション
-read committed,リードコミッティド
-read uncommitted,リードアンコミッティド
-read-only transaction,読み取りのみトランザクション
-read-only transaction,読み取り専用トランザクション
-read-write,読み書き
-read/write conflicts,読み取り/書き込み競合
 reader,リーダ
 readline,readline
-real-time clock,リアルタイムクロック
-real-time,リアルタイム
-realm parameter,レルムパラメータ
+read-only,読み取りのみ
+read-only transaction,読み取りのみトランザクション
+read-only transaction,読み取り専用トランザクション
+read uncommitted,リードアンコミッティド
+read uncommitted mode,リードアンコミッティドモード
+read-write,読み書き
+read/write conflicts,読み取り/書き込み競合
 realm,レルム
+realm parameter,レルムパラメータ
+real-time,リアルタイム
+real-time clock,リアルタイムクロック
 receiver,レシーバ
+receiver process,レシーバプロセス
 recheck,recheck
 recognizes,認識
 recombination,再組合せ
-record field,レコードフィールド
-record sets,レコードセット
 record,レコード
 record-based,レコードベース
+record field,レコードフィールド
+record sets,レコードセット
+recovery,リカバリ
 recovery code,リカバリコード
 recovery command file,リカバリコマンドファイル
+recovery conflict,リカバリコンフリクト
 recovery mode,リカバリモード
 recovery point,リカバリポイント
 recovery process,リカバリプロセス
 recovery script,リカバリスクリプト
 recovery software,リカバリーソフトウェア
 recovery target,リカバリターゲット
-recovery,リカバリ
+recovery test,リカバリテスト
 rectangle,矩形
 rectangle,長方形
 recursive term,再帰的表現（recursive term）
+recycle,リサイクル
+recycling,recycling（再利用）
 redirect,リダイレクト
 redirection,リダイレクション
-reference page,リファレンスページ
-reference page,マニュアルページ
+refactoring,リファクタリング
 reference,リファレンス
 referenced,被参照
+reference page,マニュアルページ
+reference page,リファレンスページ
 referencing,参照
+referential integrity,参照整合性
 referential integrity check,参照整合性制約
 referential integrity constraint,参照整合性制約
-referential integrity,参照整合性
+reflexive law,反射律
 refresh,リフレッシュ
-registry entries,レジストリエントリ
+refresh command,リフレッシュコマンド
 registry,レジストリ
+registry entries,レジストリエントリ
+regression,リグレッション
 regression intercept,回帰切片
 regression slope,回帰勾配
-regression test suite,リグレッションテストスイート
 regression test,リグレッションテスト
-regression,リグレッション
+regression test case,リグレッションテストケース
+regression test database,リグレッションテストデータベース
+regression test suite,リグレッションテストスイート
 regular expression,正規表現
 regular set,正規集合
 reindex,インデックス再作成
+relation,リレーション
+relation access method,リレーションアクセスメソッド
+relational,リレーショナル
+relational data,リレーショナルデータ
+relational database,リレーショナルデータベース
+relational database systems,リレーショナルデータベースシステム
+relational data model,リレーショナルデータモデル
+relational tables,リレーショナルテーブル
 relation cache,リレーションキャッシュ
+relation cache data,リレーションキャッシュデータ
 relation data,リレーションデータ
+relation database object,リレーションデータベースオブジェクト
+relation field,リレーションフィールド
 relation file,リレーションファイル
 relation fork,リレーションフォーク
+relation-level,リレーションレベル
+relation message,リレーションメッセージ
 relation options,リレーションオプション
 relation page,リレーションページ
-relation size,リレーションサイズ
-relation tuples,リレーションタプル
-relation,リレーション
-relation-level,リレーションレベル
-relational data model,リレーショナルデータモデル
-relational database systems,リレーショナルデータベースシステム
-relational database,リレーショナルデータベース
-relational tables,リレーショナルテーブル
-relational,リレーショナル
 relations,リレーション
+relation scan,リレーションスキャン
 relationship,リレーション
 relationship,関連
+relation size,リレーションサイズ
+relation tuples,リレーションタプル
 relay,リレー
+release,リリース
 release branch,リリースブランチ
 release file,リリースファイル
 release levels,リリースレベル
 release notes,リリースノート
-release,リリース
 reliability,信頼性
 reload,リロード
 relocatable,再配置可能
+remote,リモート
 remote access,リモートアクセス
 remote cursor,リモートカーソル
-remote data source,リモートデータソース
 remote database,リモートデータベース
+remote database instance,リモートデータベースインスタンス
+remote data source,リモートデータソース
+remote data system,リモートデータシステム
 remote error message,リモートエラーメッセージ
 remote host,リモートホスト
+remote instance,リモートインスタンス
 remote machine,リモートマシン
+remote node,リモートノード
+remote partition,リモートパーティション
+remote port,リモートポート
+remote replication slot,リモートレプリケーションスロット
+remote sampling,リモートサンプリング
+remote schema,リモートスキーマ
 remote server,リモートサーバ
+remote server version,リモートサーババージョン
+remote session,リモートセッション
+remote storage,リモートストレージ
+remote subtransaction,リモートサブトランザクション
 remote system,リモートシステム
 remote table,リモートテーブル
 remote transaction,リモートトランザクション
 remote user,リモートユーザ
-remote,リモート
+rename,リネーム
+rendering,レンダリング
 Rendezvous,ランデブー
 Renesas,ルネサス
+repartitioning,リパーティショニング
+repeatable read,リピータブルリード
+repeatable read level,リピータブルリードレベル
 repeatable read mode,リピータブルリードモード
 repeatable read transaction,リピータブルリードトランザクション
-repeatable read,リピータブルリード
 replay,リプレイ
+replayed,再生
 replica,レプリカ
 replica identity,レプリカアイデンティティ
+replicate,レプリケート
+replication,レプリケーション
 replication commands,レプリケーションコマンド
 replication data,レプリケーションデータ
+replication identity,レプリケーションアイデンティティ
+replication launcher process,レプリケーションランチャプロセス
+replication leader,レプリケーションリーダー
+replication loop,レプリケーションループ
+replication mode,レプリケーションモード
+replication node,レプリケーションノード
 replication options,レプリケーションオプション
+replication origin,レプリケーションオリジン
 replication origins,レプリケーション起点
+replication parallel,レプリケーションパラレル
+replication plugin,レプリケーションプラグイン
 replication progress tracking,レプリケーション進捗の追跡
-replication protocol command,レプリケーションプロトコルコマンド
 replication protocol,レプリケーションプロトコル
-replication slot data,レプリケーションスロットデータ
+replication protocol command,レプリケーションプロトコルコマンド
+replication role,レプリケーションロール
+replication scenario,レプリケーションシナリオ
+replication set,レプリケーションセット
 replication slot,レプリケーションスロット
+replication slot data,レプリケーションスロットデータ
 replication solutions,レプリケーションソリューション
 replication standby,レプリケーションスタンバイ
+replication stream,レプリケーションストリーム
+replication stream consumer,レプリケーションストリームコンシューマー
+replication subscriber,レプリケーションサブスクライバ
 replication systems,レプリケーションシステム
-replication,レプリケーション
+replication user,レプリケーションユーザ
+replication worker,レプリケーションワーカー
 report,レポート
 reporting errors,エラー報告
+report server,レポートサーバ
 repository,リポジトリ
 representation,表現形式
 request,リクエスト
 request,要求
+request queue,リクエストキュー
 reserved,予約
 reset,リセット
 resolver,リゾルバ
 resource manager,リソースマネージャ
-resources private,プライベートリソース
+resource manager method,リソースマネージャメソッド
 resources,リソース
+resources private,プライベートリソース
+response,レスポンス
 response,回答
-restart point,リスタートポイント
+response message,レスポンスメッセージ
 restart,リスタート
+restart option,リスタートオプション
+restart point,リスタートポイント
 restartpoints,リスタートポイント
 restartpoints,再開始点
-restore point,リストアポイント
 restore,リストア
+restore point,リストアポイント
+restore process,リストアプロセス
+restore tool,リストアツール
 restriction,制限
 restriction,制約
-retry flags,リトライフラグ
 retry,リトライ
+retry flags,リトライフラグ
+return,リターン
+return,結果
 return code,リターンコード
 return type,戻り値の型
-return,結果
 reverse-engineer,リバースエンジニアリング
 review,レビュー
+reviewer,レビューア
 revision,バージョン
-rewrite system,書き換えシステム
 rewriter,リライタ
+rewrite system,書き換えシステム
 right join,右結合
+ring buffer,リングバッファ
 risk,リスク
 robustness,堅牢性
+role,ロール
+role comment,ロールコメント
+role entry,ロールエントリ
 role members,ロールメンバ
+role membership,ロールメンバシップ
 role password,ロールパスワード
+roles,ロール
 role system,ロールシステム
 role tables,ロールテーブル
-role,ロール
 roll back,ロールバック
+rollback,ロールバック
 roll forward,ロールフォワード
 roll-forward recovery,ロールフォワードリカバリ
-rollback,ロールバック
 Romanian,ルーマニア
 Rome,ローマ
+root,ルート
 root directory,トップディレクトリ
 root directory,ルートディレクトリ
 root level,ルートレベル
 root node,ルートノード
+root object,ルートオブジェクト
 root page,ルートページ
+roots,ルーツ
 root user,ルートユーザ
-root,ルート
 rotate,ローテート
 rotation,ローテーション
-routine maintenance,定常的な保守
+round trip,ラウンドトリップ
 routine,ルーチン
 routine,定常的
+routine maintenance,定常的な保守
+routines,ルーチン
 routing,ルーティング
+row,行
 row constructor,行コンストラクタ
 row estimation,行数推定
-row level lock,行レベルロック
-row level security,行単位セキュリティ
+row filter,行フィルタ
 row level,行レベル
-row security policies,行セキュリティポリシー
-row,行
-row-level locks,行レベルロック
-row-level security,行単位セキュリティ
 row-level,行レベル
+row level lock,行レベルロック
+row-level locks,行レベルロック
+row level security,行単位セキュリティ
+row-level security,行単位セキュリティ
+rows,行
+row security policies,行セキュリティポリシー
 row-type,行型
 row-wise comparison,行に関する比較
+rule,ルール
 rule action,ルールアクション
 rule bodies,ルール本体
 rule event,ルールイベント
+rule file,ルールファイル
+rules,ルール
 rule system,ルールシステム
-rule,ルール
-Run-time interface,ランタイムインタフェース
 runtime,ランタイム
 runtime,実行時
+runtime error,ランタイムエラー
+Run-time interface,ランタイムインタフェース
 Russia,ロシア
 Russian,ロシア
 safe,セーフ
 Sakhalin,サハリン
 salesman,セールスマン
-Salt Bits,ソルトビット長
 salt,ソルト
+salt bit,ソルトビット
+Salt Bits,ソルトビット長
 Samara,サマラ
 Samoa,サモア
+sample,サンプル
+sample,標本
 sample application,サンプルアプリケーション
 sample data,サンプルデータ
 sample file,サンプルファイル
 sample program,サンプルプログラム
+sample scan,サンプルスキャン
 sample shell,サンプルシェル
-sample,サンプル
-sample,標本
+sampling,サンプリング
 sampling error,サンプリングエラー
 sampling method,サンプリングメソッド
-sampling,サンプリング
+sampling method support,サンプリングメソッドサポート
 San_Luis,サンルイス
+sasl,sasl
 SASL,SASL
+saslprep,saslprep
 savepoint,セーブポイント
+savepoints,セーブポイント
 scalable,スケーラビリティ
+scalar,スカラ
 scalar context,スカラコンテキスト
 scalar data,スカラデータ
 scalar expressions,スカラ式
-scalar,スカラ
-scale factor,スケールファクタ
+scale,スケール
 scale,位取り
-scan cost,スキャンコスト
-scan key,スキャンキー
-scan logic,スキャンロジック
-scan node,スキャンノード
-scan plan,スキャンプラン
+scale,位取り(scale)
+scale factor,スケールファクタ
 scan,スキャン
+scan cost,スキャンコスト
+scan descriptor,スキャンディスクリプタ
+scan key,スキャンキー
+scan keys,スキャンキー
+scan logic,スキャンロジック
 scanner,スキャナ
+scan node,スキャンノード
+scan path,スキャンパス
+scan plan,スキャンプラン
+scan plan node,スキャンプランノード
+scan provider,スキャンプロバイダ
+scan tuple,スキャンタプル
+scan type,スキャンタイプ
 scenario,シナリオ
-schedule lag time,スケジュールラグタイム
 schedule,スケジュール
+schedule lag time,スケジュールラグタイム
 scheduler,スケジューラ
 scheduling,スケジューリング
+schema,スキーマ
 schema dump,スキーマダンプ
 schema instance,スキーマインスタンス
 schema mapping,スキーママッピング
 schema metadata,スキーマメタデータ
 schema object,スキーマオブジェクト
 schema path,スキーマパス
+schemas,スキーマ
 schema support,スキーマサポート
 schema view,スキーマビュー
-schema,スキーマ
+scheme,スキーム
 scope,スコープ
+score,スコア
 screen,スクリーン
-script file meta commands,スクリプトファイルのメタコマンド
-script file,スクリプトファイル
 script,スクリプト
+script command,スクリプトコマンド
+script file,スクリプトファイル
+script file directory,スクリプトファイルディレクトリ
+script file meta commands,スクリプトファイルのメタコマンド
+script version,スクリプトバージョン
 scroll,スクロール
 seamlessly,シームレス
-search operators,検索演算子
-search path,検索パス
 search,検索
+search engine,サーチエンジン
 searching,検索
 searching,探索
-secondary indexes,補助的なインデックス
+search operators,検索演算子
+search path,サーチパス
+search path,検索パス
+secondary,セカンダリ
 secondary,二次的な
+secondary file system,セカンダリファイルシステム
+secondary indexes,補助的なインデックス
+secondary volume,セカンダリボリューム
+secret,シークレット
 section,セクション
 section,節
 sector,セクタ
-secure sockets layer,セキュアソケットレイア
 secure,セキュア
+secure schema usage pattern,セキュアなスキーマの使用パターン
+secure sockets layer,セキュアソケットレイア
+security,セキュリティ
+security barrier,セキュリティバリア
 security barrier views,セキュリティバリアビュー
 security contexts,セキュリティコンテキスト
 security design,セキュリティ・デザイン
@@ -2727,78 +3658,100 @@ security hole,セキュリティホール
 security label,セキュリティラベル
 security libraries,セキュリティライブラリ
 security model,セキュリティモデル
+security module,セキュリティモジュール
 security options,セキュリティオプション
 security policy,セキュリティポリシー
 security risk,セキュリティリスク
+security service application programming interface,セキュリティサービスアプリケーションプログラミングインタフェース
 security service provider interface,セキュリティサービスプロバイダインタフェース
+security system,セキュリティシステム
 security team,セキュリティチーム
 security view,セキュリティ・ビュー
-security,セキュリティ
 seed,シード
 seek,シーク
+segment,セグメント
+segmentation,セグメンテーション
 segment file,セグメントファイル
+segments,セグメント
 segment size,セグメントサイズ
 segment switch,セグメントスイッチ
-segment,セグメント
 seldom-changing data,あまり更新されないデータ
-select list,選択リスト
 select,セレクト
 selection,選択
 selection,淘汰
 selectivity,選択性
 selectivity,選択度
+select list,選択リスト
 self join,自己結合
 self-join,自己結合
+self-referential,自己参照
 semantic,セマンティック
 semantics,セマンティクス
 semantics,意味
+semaphore,セマフォ
 semaphore map,セマフォマップ
 semaphore resource map,セマフォリソースマップ
+semaphores,セマフォ
 semaphore set,セマフォセット
-semaphore,セマフォ
 semicolon,セミコロン
 separator,セパレータ
 separator,区切り文字
+sequence,シーケンス
 sequence data,シーケンスデータ
 sequence generator,シーケンスジェネレータ
 sequence object,シーケンスオブジェクト
 sequence parameters,シーケンスパラメータ
-sequence,シーケンス
+sequence relation,シーケンスリレーション
+sequential,シーケンシャル
+sequential access,シーケンシャルアクセス
 sequential scan,シーケンシャルスキャン
 sequential scan,シーケンシャル走査
 sequential table scan,シーケンシャルテーブルスキャン
-sequential,シーケンシャル
-serial number,通番
 serial,シリアル
-serializable mode,シリアライザブルモード
-Serializable Snapshot Isolation,シリアライザブルスナップショット分離
-serializable snapshot,シリアライザブルスナップショット
-serializable transaction,シリアライザブルトランザクション
 serializable,シリアライザブル
+serializable mode,シリアライザブルモード
+serializable snapshot,シリアライザブルスナップショット
+Serializable Snapshot Isolation,シリアライザブルスナップショット分離
+serializable transaction,シリアライザブルトランザクション
 serialization anomaly,直列化異常
 serialization failure,直列化の失敗
 serialization function,シリアライズ関数
 serialization mode,シリアライゼーションモード
+serialize,シリアライズ
+serial number,通番
+serial sequence,シリアルシーケンス
 series,シリーズ
+server,サーバ
 server account,サーバアカウント
 server applications,サーバアプリケーション
+server binary,サーババイナリ
 server certificates,サーバ証明書
+server-client,サーバ・クライアント
+server cluster,サーバクラスタ
 server code,サーバコード
+server command,サーバコマンド
 server command line,サーバコマンドライン
+server copy,サーバコピー
 server core dump,サーバコアダンプ
 server crash,サーバクラッシュ
 server daemon,サーバデーモン
 server debug,サーバデバッグ
+server directory,サーバディレクトリ
 server encoding,サーバエンコーディング
 server extensions,サーバエクステンション
 server file,サーバファイル
+server file system,サーバファイルシステム
 server header files,サーバヘッダファイル
 server hooks,サーバフック
 server host,サーバホスト
 server instance,サーバインスタンス
+server key file,サーバキーファイル
 server key type,サーバキータイプ
-server log files,サーバログファイル
+server level,サーバレベル
+server log,サーバ・ログ
 server log,サーバログ
+server log files,サーバログファイル
+server log message,サーバログメッセージ
 server machine,サーバマシン
 server manual,サーバマニュアル
 server memory,サーバメモリ
@@ -2809,14 +3762,19 @@ server option,サーバオプション
 server panic,サーバパニック
 server parameters,サーバパラメータ
 server parser,サーバパーサ
+server plugin module library,サーバプラグインモジュールライブラリ
 server plug-in modules found,サーバプラグインモジュール
 server process,サーバプロセス
 server program,サーバプログラム
-server programming interface,サーバプログラミングインタフェース
 server programming,サーバプログラミング
+server programming interface,サーバプログラミングインタフェース
 server protocol,サーバプロトコル
+server resource,サーバ・リソース
+server session,サーバセッション
 server shutdown,サーバシャットダウン
 server side,サーバサイド
+server-side,サーバサイド
+server-side encoding,サーバサイドエンコーディング
 server signaling,サーバシグナル
 server socket files,サーバソケットファイル
 server software,サーバソフトウェア
@@ -2827,56 +3785,66 @@ server systems,サーバシステム
 server transaction,サーバトランザクション
 server user,サーバユーザ
 server version,サーババージョン
-server,サーバ
-server-side encoding,サーバサイドエンコーディング
-server-side,サーバサイド
+service,サービス
+service account,サービスアカウント
 service file,サービスファイル
 service mode,サービスモード
 service pack,サービスパック
 service principal,サービスプリンシパル
-service,サービス
+service unit file,サービスユニットファイル
+session,セッション
 session defaults,セッションデフォルト
-session key packet,セッションキーパケット
 session key,セッションキー
+session key packet,セッションキーパケット
 session level,セッションレベル
+session-level lock,セッションレベルロック
+session-local,セッションローカル
 session processes,セッションプロセス
 session traffic,セッショントラフィック
 session user,セッションユーザ
-session,セッション
-session-local,セッションローカル
+set,セット
 set difference,集合差
 set encoding,セットエンコーディング
 set intersection,集合積
 set operation,集合操作
+set-returning functions,集合を返す関数
 set support,セットサポート
 set union,集合和
-set,セット
-set-valued,セット値
-setup code,セットアップコード
 setup,セットアップ
+setup code,セットアップコード
+setup command,セットアップコマンド
+set-valued,セット値
 SGML,SGML
+shared buffers,共有バッファ
 shared catalogs,共有カタログ
-shared library segments,共有ライブラリセグメント
 shared library,共有ライブラリ
-shared memory pool,共有メモリプール
+shared library segments,共有ライブラリセグメント
 shared memory,共有メモリ
+shared memory pool,共有メモリプール
 shared object,共有オブジェクト
+sharp,シャープ
 sharp,シャープ記号
+shell,シェル
+shell command,シェル・コマンド
 shell command,シェルコマンド
+shell macro,シェルマクロ
 shell program,シェルプログラム
-shell script commands,シェルスクリプトコマンド
 shell script,シェルスクリプト
+shell script commands,シェルスクリプトコマンド
 shell tools,シェルツール
 shell type,シェル型
-shell,シェル
 shift,シフト
 shipping,シッピング
-short name path,ショートネームパス
 short-circuiting,短絡評価
 shortcut,ショートカット
+short header,ショートヘッダ
+short name path,ショートネームパス
+shuffle,シャッフル
 shutdown,シャットダウン
-signal handler,シグナルハンドラ
+shutdown callback,シャットダウンコールバック
+side channel,サイドチャネル
 signal,シグナル
+signal handler,シグナルハンドラ
 signature,シグネチャ
 significant digits,有効数字
 silent mode,サイレントモード
@@ -2885,109 +3853,143 @@ simple,シンプル
 simulate,シミュレート
 simulation,シミュレーション
 Singapore,シンガポール
-single master,シングルマスタ
-single quote,単一引用符
-single quotes,シングルクオート
-single sign-on,シングルサインオン
-single-byte server,シングルバイトサーバ
 single-byte,シングルバイト
+single-byte server,シングルバイトサーバ
+single master,シングルマスタ
+single quote,シングルクォート
+single quote,単一引用符
+single quotes,シングルクォート
 single-row mode,単一行モード
-single-step mode,シングルステップモード
+single sign-on,シングルサインオン
 single-step,シングルステップ
+single-step mode,シングルステップモード
 single-threaded,シングルスレッド
 single-user mode,シングルユーザモード
 site,サイト
 situation,シチュエーション
 size,サイズ
+size chunk,サイズチャンク
 skip,スキップ
 skipped,スキップされた
-slash command,スラッシュコマンド
+skyarch,スカイアーチ
 slash,スラッシュ
+slash command,スラッシュコマンド
 sleep,スリープ
 sleep,休止
 slice,スライス
 sliced bread,スライスパン
 slot,スロット
+slow,スロー
+slru,slru
 smart failover,スマートフェイルオーバー
 smart shutdown,スマートシャットダウン
-snapshot semantics,スナップショットセマンティクス
-snapshot types,スナップショットタイプ
+smooth,スムース
 snapshot,snapshot
 snapshot,スナップショット
+snapshot data,スナップショットデータ
+snapshot isolation,スナップショット分離
+snapshot mode,スナップショットモード
+snapshot semantics,スナップショットセマンティクス
+snapshot types,スナップショットタイプ
+socket,ソケット
 socket directory,ソケットディレクトリ
 socket file,ソケットファイル
 socket interface,ソケットインタフェース
 socket option,ソケットオプション
 socket parameter,ソケットパラメータ
-socket,ソケット
+socket path,ソケットパス
+soft block,ソフトブロック
+soft limit,ソフトリミット
 soft-mounting,ソフトマウント
+software,ソフト
+software,ソフトウェア
 software package,ソフトウェアパッケージ
 software project,ソフトウェアプロジェクト
 software systems,ソフトウェアシステム
 software tools,ソフトウェアツール
-software,ソフト
-software,ソフトウェア
 solid state device,ソリッドステートディスク
 solid-state drives,ソリッドステートドライブ
 solutions,ソリューション
+sonic garden,ソニックガーデン
+sort,ソート
+sort,並べ替え
+sort batch,ソートバッチ
+sorted,ソート処理
+sorting,並べ替え
 sort key,ソートキー
 sort node,ソートノード
 sort operator,ソート演算子
 sort options,ソートオプション
+sorts,ソート
+sort semantics,ソートセマンティクス
+sort step,ソートステップ
 sort support,ソートサポート
-sort,ソート
-sort,並べ替え
-sorting,並べ替え
+source,ソース
+source archive,ソースアーカイブ
+source code,ソースコード
 source code file,ソースコードファイル
 source code hooks,ソースコードフック
 source code repository,ソースコードリポジトリ
-source code,ソースコード
 source compilation,ソースコンパイル
 source database,ソースデータベース
 source directory,ソースディレクトリ
+source encoding,ソースエンコーディング
 source file,ソースファイル
+source level,ソースレベル
 source package,ソースパッケージ
+source slot,ソーススロット
 source text,ソーステキスト
+source transaction,ソーストランザクション
 source tree,ソースツリー
-source,ソース
+source tuple,ソースタプル
 Soviet Union,旧ソ連
-SP-GiST,SP-GiST
 space,スペース
 spacing,スペーシング
 Spain,スペイン
 spam,spam
+spam mail,スパムメール
+span,シーパン
 sparse,スパース
-spell mode,スペルモード
 spell,スペル
 spell-check,スペルチェック
+spelling mistake,スペルミス
+spell mode,スペルモード
+SP-GiST,SP-GiST
 SPI,SPI
+spike,スパイク
+spill,スピル
+spinlock,スピンロック
 spinlock code,スピンロックコード
 spinlock speed,スピンロックスピード
 spinlock support,スピンロックサポート
-spinlock,スピンロック
 spoofing,なりすまし
 spooling,スプール
-SQL command scripts,SQLコマンドスクリプト
-SQL key words,SQLキーワード
 SQL,SQL
+SQL command scripts,SQLコマンドスクリプト
 SQL-injection,SQLインジェクション
+sql/json data model,sql/jsonデータモデル
+sql key words,sqlキーワード
+SQL key words,SQLキーワード
 square brackets,大括弧
 Sri Lank,スリランカ
 SSL object database,SSL オブジェクトデータベース
 stable,安定（stable）
+stack,スタック
 stack overflow,スタックオーバーフロー
 stack overrun,スタックオーバーラン
 stack size,スタックサイズ
+stack trace,スタックトレース
 stack traceback,スタックトレースバック
-stack,スタック
+stage,ステージ
 stamp,スタンプ
 stand-alone,スタンドアローン
+standalone,スタンドアローン
 standalone hot backups,スタンドアローンホットバックアップ
 standalone mode,スタンドアローンモード
+standalone process,スタンドアローンプロセス
 standalone program,スタンドアローンプログラム
 standalone session,スタンドアローンセッション
 standalone utility,スタンドアローンユーティリティ
-standalone,スタンドアローン
 standard conforming,標準に従う
 standard deviation,標準偏差
 standard distribution,標準配布物
@@ -2995,147 +3997,234 @@ standard error,標準エラー
 Standard Generalized Markup Language,Standard Generalized Markup Language
 standard input,標準入力
 standard output,標準出力
+standby,スタンバイ
 standby cluster,スタンバイクラスタ
 standby database server,スタンバイデータベースサーバ
 standby instance,スタンバイインスタンス
 standby mode,スタンバイモード
+standby query,スタンバイクエリ
 standby recovery,スタンバイリカバリ
+standby replication,スタンバイレプリケーション
 standby replication server,スタンバイ・リプリケーションサーバ
+standby replication tool,スタンバイレプリケーションツール
 standby server,スタンバイサーバ
 standby servers,スタンバイサーバ
 standby system,スタンバイシステム
-standby,スタンバイ
+standby transaction,スタンバイトランザクション
 star,スター
-start menu,スタートメニュー
+star group,スターグループ
 start,スタート
+start menu,スタートメニュー
 startup,スタートアップ
-state transition function,状態遷移関数
-state values,状態値
+startup callback,スタートアップコールバック
+startup packet,スタートアップパケット
+startup process,スタートアッププロセス
+state machine,ステートマシン
 statement,ステートメント
 statement,文
 statement-level,文レベル
 statement triggers,文トリガ
+state transition function,状態遷移関数
+state transition functions,状態遷移関数
+state values,状態値
 static,静的
 statistical,統計
+statistics,統計処理
+statistics,統計情報
 statistics collector,統計情報コレクタ
 statistics object,統計オブジェクト
 statistics object,統計情報オブジェクト
-statistics,統計処理
-statistics,統計情報
-status message,ステータスメッセージ
+statistics objects,統計情報オブジェクト
 status,ステータス
+status code,ステータスコード
+status message,ステータスメッセージ
+status zero,ステータスゼロ
 steady state,定常状態
 stem,ステム
-step by step,ステップバイステップ
 step,ステップ
+step by step,ステップバイステップ
 stop word,ストップワード
-storage area networks,ストレージエリアネットワーク
+stopword file,ストップワードファイル
+stop words,ストップワード
+storage,ストレージ
 storage area,格納領域
+storage area networks,ストレージエリアネットワーク
 storage hardware,ストレージハードウェア
 storage manager,ストレージ管理
+storage media,ストレージメディア
+storage option,ストレージオプション
 storage parameters,ストレージパラメータ
 storage parameters,格納パラメータ
+storage subsystem,ストレージサブシステム
 storage system,保存システム
-storage,ストレージ
-stored procedure support,ストアドプロシージャサポート
+stored,ストアド
 stored procedure,ストアドプロシージャ
+stored procedure support,ストアドプロシージャサポート
 strategy,ストラテジ
 strategy,戦略
+strategy ring,ストラテジリング
+stream,ストリーム
+stream abort callback,ストリームアボートコールバック
+stream abort message,ストリームアボートメッセージ
+stream commit,ストリームコミット
+stream commit callback,ストリームコミットコールバック
+stream commit message,ストリームコミットメッセージ
+streaming,ストリーミング
+streaming access,ストリーミングアクセス
+streaming binary replication,ストリーミングバイナリレプリケーション
+streaming callback,ストリーミングコールバック
+streaming client,ストリーミングクライアント
+streaming connection,ストリーミングコネクション
+streaming counter,ストリーミングカウンタ
+streaming mode,ストリーミングモード
+streaming recovery,ストリーミングリカバリ
+streaming replication,ストリーミングレプリケーション
+streaming replication client,ストリーミングレプリケーションクライアント
+streaming replication interface,ストリーミングレプリケーションインタフェース
+streaming replication mode,ストリーミングレプリケーションモード
+streaming replication protocol,ストリーミングレプリケーションプロトコル
+streaming replication slot,ストリーミングレプリケーションスロット
+stream message callback,ストリームメッセージコールバック
 stream object,ストリームオブジェクト
 stream of data,ストリームデータ
-stream,ストリーム
-streaming access,ストリーミングアクセス
-streaming replication,ストリーミングレプリケーション
-streaming,ストリーミング
+stream replication protocol interface,ストリームレプリケーションプロトコルインタフェース
+stream segment,ストリームセグメント
+stream transaction,ストリームトランザクション
+stride,stride
 string,文字列
 strip,ストリップ
 stripe,ストライプ
 struct varlena,struct varlena
 stub,スタブ
-style guide,スタイルガイド
-style of the unix tool,Unixツールスタイル
 style,スタイル
 style,様式
-stylesheet commands,スタイルシートコマンド
+style guide,スタイルガイド
+style of the unix tool,Unixツールスタイル
 stylesheet,スタイルシート
+stylesheet commands,スタイルシートコマンド
 sub,サブ
-sub-object,サブオブジェクト
-sub-partitions,サブパーティション
-sub-protocol,サブプロトコル
-sub-query,副問い合わせ
-sub-routine module,サブルーチンモジュール
 subarrays,部分配列
 subblock,副ブロック
 subcategories,サブカテゴリ
 subclass,サブクラス
+subcommand,サブコマンド
 subdictionary,副辞書
-subdirectory tree,サブディレクトリツリー
 subdirectory,サブディレクトリ
+subdirectory tree,サブディレクトリツリー
 subdomains,サブドメイン
 subfield,サブフィールド
 subject,サブジェクト
-subnet address,サブネットアドレス
+sublist,サブリスト
+submessage,サブメッセージ
 subnet,サブネット
+subnet address,サブネットアドレス
+sub-object,サブオブジェクト
 subpackage,サブパッケージ
+sub-partitioning,サブパーティショニング
+subpartitioning,サブパーティショニング
+sub-partitions,サブパーティション
+subphase,サブフェーズ
 subplan,サブプラン
+subplan node,サブプランノード
+subplan parameter,サブプランパラメータ
 subprocess,サブプロセス
-subquery result row,副問い合わせ結果行
+sub-protocol,サブプロトコル
+sub-query,副問い合わせ
 subquery,サブクエリ
 subquery,副問い合わせ
+subquery,副問合せ
+subquery result row,副問い合わせ結果行
 subroutine,サブルーチン
+sub-routine module,サブルーチンモジュール
 subscribe,サブスクライブ
+subscriber,サブスクライバ
 subscriber,サブスクライバー
+subscriber database,サブスクライバーデータベース
+subscriber node,サブスクライバーノード
+subscribers,サブスクライバー
 subscript,添字
 subscription,サブスクリプション
+subscription parameter,サブスクリプションパラメータ
+subscription worker,サブスクリプションワーカー
 subsections,サブセクション
+sub-SELECT,副SELECT
 subset,サブセット
 subset,部分集合
 subsystem,サブシステム
-subtransaction block,サブトランザクションブロック
-subtransaction manager,サブトランザクションマネージャ
 subtransaction,サブトランザクション
-subtree's key,副ツリーキー
+subtransaction block,サブトランザクションブロック
+subtransaction cache,サブトランザクションキャッシュ
+subtransaction manager,サブトランザクションマネージャ
 subtree,サブツリー
+subtree's key,副ツリーキー
+subtype,サブタイプ
 subtype,派生元型
+subxact,subxact
 Sudan,スーダン
 suffix,サフィックス
 suffix,接尾辞
+suffix truncation,末尾消去
+suite,スイート
 sum,総和
-summary table,サマリテーブル
+summarize,サマライズ
+summary,サマリ
 summary,要約
-super user,スーパーユーザ
+summary data,サマリデータ
+summary index tuple,サマリインデックスタプル
+summary page range,サマリページレンジ
+summary range,サマリレンジ
+summary table,サマリテーブル
+summary tuple,サマリタプル
 super,スーパー
-superuser role,スーパーユーザロール
+superset,スーパーセット
+super user,スーパーユーザ
 superuser,スーパーユーザ
+superuser level,スーパーユーザレベル
+superuser mode,スーパーユーザモード
+superuser role,スーパーユーザロール
+superuser status,スーパーユーザ状態
+supervisor,スーパーバイザ
+supervisor process,スーパーバイザプロセス
+supervisor server process,スーパーバイザサーバプロセス
 supplied,提供される
+support,サポート
+support data,サポートデータ
 support files,サポートファイル
+support macro,サポートマクロ
 support method,サポートメソッド
 support procedure,サポートプロシージャ
 support routine,サポートルーチン
 support site,サポートサイト
+support tool pack,サポートツールパック
 support utilities,サポートユーティリティ
-support,サポート
 surrogate pairs,サロゲートペア
 swap,スワップ
 swapping,スワッピング
 Sweden,スウェーデン
-switch file,スイッチファイル
 switch,スイッチ
+switch file,スイッチファイル
 switch-over,スイッチオーバ
+switchover,スイッチオーバー
 Switzerland,スイス
-symbol table,シンボルテーブル
 symbol,シンボル
 symbolic link,シンボリックリンク
+symbol table,シンボルテーブル
+symmetric law,対称律
+synchronous,同期的
 synchronous multimaster replication,同期マルチマスタレプリケーション
 synchronous replication,同期レプリケーション
-synchronous,同期的
 syntax,構文
 Syria,シリア
+syslogger,syslogger
+system,システム
 system access controls,システムアクセスコントロール
 system call,システムコール
+system catalog,システムカタログ
+system catalog cache,システムカタログキャッシュ
+system catalogs,システムカタログ
 system catalog schema,システムカタログスキーマ
 system catalog tables,システムカタログテーブル
-system catalog,システムカタログ
+system catalog tuple,システムカタログタプル
 system clock,システムクロック
 system columns,システム列
 system compiler,システムコンパイラ
@@ -3144,7 +4233,12 @@ system data,システムデータ
 system database,システムデータベース
 system default,システムデフォルト
 system error,システムエラー
+system file,システムファイル
+system header file,システムヘッダファイル
 system index,システムインデックス
+system library,システムライブラリ
+system locale,システムロケール
+system memory,システムメモリ
 system objects,システムオブジェクト
 system patch levels,システムパッチレベル
 system path,システムパス
@@ -3157,65 +4251,100 @@ system status indicators,システムステータスインジケータ
 system table,システムテーブル
 system triggers,システムトリガ
 system user,システムユーザ
+system version,システムバージョン
 system view,システムビュー
-system,システム
-tab stop,タブストップ
 tab,タブ
+table,テーブル
+table,表
 table access,テーブルアクセス
+table access method,テーブルアクセスメソッド
 table alias,テーブルの別名
+table block,テーブルブロック
 table column,テーブル・カラム
 table command,TABLEコマンド
+table constructor,テーブルコンストラクタ
+table copy,テーブルコピー
+table data,テーブル・データ
 table data,テーブルデータ
+table entry,テーブルエントリ
 table expression,テーブル式
 table file,テーブルファイル
+table layout,テーブルレイアウト
 table level,テーブルレベル
+table-level,テーブルレベル
+table-level lock,テーブルレベルロック
+table-level locking,テーブルレベルロック
+table-level lock modes,テーブルレベルロックモード
 table list,テーブルリスト
 table lock,テーブルロック
 table mapping,テーブルマッピング
 table of contents,目次
+table option,テーブルオプション
 table page,テーブルページ
 table partitioning,テーブルパーティショニング
+table sampling,テーブルサンプリング
+table sampling method,テーブルサンプリングメソッド
 table scan,テーブルスキャン
 table schema,テーブルスキーマ
+table segment size,テーブルセグメントサイズ
+tables' filenode,テーブルファイルノード
 table size,テーブルサイズ
 table sources,テーブルソース
-table,テーブル
-table,表
-table-level lock modes,テーブルレベルロックモード
-table-level lock,テーブルレベルロック
-table-level locking,テーブルレベルロック
-table-level,テーブルレベル
-tables' filenode,テーブルファイルノード
-tablespace map,テーブル空間マップ
-tablespace options,テーブルスペースオプション
 tablespace,テーブルスペース
 tablespace,テーブル空間
+tablespace map,テーブル空間マップ
+tablespace options,テーブルスペースオプション
+tablespace parameter,テーブルスペースパラメータ
+table storage parameter,テーブルストレージパラメータ
+tab stop,タブストップ
 tag,タグ
 tape,テープ
 tarball,tarball
 tarball,tarボール
-target file,ターゲットファイル
-target list,ターゲットリスト
 target,ターゲット
-Task Scheduler,タスクスケジューラ
+target buffer,ターゲットバッファ
+target file,ターゲットファイル
+target function,対象関数
+target index,ターゲットインデックス
+target list,ターゲットリスト
+target object,ターゲットオブジェクト
+target recovery mode,ターゲットリカバリモード
+target relation,ターゲットリレーション
+target schema,ターゲットスキーマ
+target table,ターゲットテーブル
+target tuple,ターゲットタプル
 task,タスク
+Task Scheduler,タスクスケジューラ
+taxi,タクシー
 team,チーム
+technique,テクニック
+template,テンプレート
 template data,テンプレートデータ
 template database,テンプレートデータベース
 template pattern,テンプレートパターン
-template,テンプレート
-temporary table,一時テーブル
 temporary,一時的
+temporary table,一時テーブル
+tenant,テナント
 terabyte,テラバイト
 terminal,ターミナル
+terminal device,ターミナルデバイス
 TERSE,TERSE
+test,テスト
 test case,テストケース
 test data,テストデータ
+test database,テストデータベース
+tester,テスター
 test files,テストファイル
+test framework,テストフレームワーク
+test machine,テストマシン
+test module,テストモジュール
 test program,テストプログラム
 test script,テストスクリプト
+test server,テストサーバ
+test status,テストステータス
 test suite,テストスイート
-test,テスト
+test table,テストテーブル
+text,テキスト
 text data,テキストデータ
 text domain,テキストドメイン
 text editor,テキストエディタ
@@ -3223,150 +4352,198 @@ text field,テキストフィールド
 text file,テキストファイル
 text index,テキストインデックス
 text mode,テキストモード
+text node,テキストノード
 text object,テキストオブジェクト
 text parameter,テキストパラメータ
+text search,テキストサーチ
+text search,テキスト検索
 text search configurations,テキスト検索設定
 text search dictionaries,テキスト検索辞書
 text search parsers,テキスト検索パーサ
 text search templates,テキスト検索テンプレート
-text search,テキストサーチ
-text search,テキスト検索
-text,テキスト
+textual,テキスト
 textual label,テキストラベル
 textual sort order,テキストソート順
-textual,テキスト
 Thai,タイ語
 thesaurus,シソーラス
-third-party applications,サードパーティアプリケーション
 third-party,サードパーティ
-thread flags,スレッドフラグ
+third-party applications,サードパーティアプリケーション
+third-party code,サードパーティコード
+third-party module,サードパーティモジュール
 thread,スレッド
-thread-safe,スレッドセーフ
 threaded applications,スレッドアプリケーション
+thread flags,スレッドフラグ
+thread program,スレッドプログラム
+thread-safe,スレッドセーフ
+throttle,スロットル
 throughput,スループット
 ticket,チケット
+tid,tid
 TID,TID
 tight,厳しめの
-tilde user,チルダユーザ
 tilde,チルダ
-time span,時間間隔
-time stamp counter,タイムスタンプカウンタ
-time stamp,タイムスタンプ
-time travel,time travel
-time travel,タイムトラベル
-time zone data files,タイムゾーンデータファイル
-time zone database,タイムゾーンデータベース
-time zone names,時間帯名
-time zone,タイムゾーン
-time zone,時間帯
-timeline switch,タイムラインスイッチ
+tilde user,チルダユーザ
+time frame,タイムフレーム
 timeline,タイムライン
+timeline command,タイムラインコマンド
 timelines,タイムライン
+timeline switch,タイムラインスイッチ
+timely,タイムリー
 timeout,タイムアウト
 timer,タイマー
+time span,時間間隔
+time stamp,タイムスタンプ
 timestamp,タイムスタンプ
-timezone offset,タイムゾーンオフセット
+time stamp counter,タイムスタンプカウンタ
+time travel,time travel
+time travel,タイムトラベル
+time zone,タイムゾーン
+time zone,時間帯
 timezone,タイムゾーン
-timing overhead,タイミング・オーバーヘッド
+time zone database,タイムゾーンデータベース
+time zone data files,タイムゾーンデータファイル
+time zone names,時間帯名
+timezone offset,タイムゾーンオフセット
 timing,タイミング
+timing data,タイミングデータ
+timing overhead,タイミング・オーバーヘッド
 tips,コツ
 tips,ヒント
 title,タイトル
-TOAST,TOAST
+toast,toast
 toast,トースト
+TOAST,TOAST
+toast pointer,toastポインタ
+toast table,toastテーブル
+toast table,トーストテーブル
 TODO,TODO
 Tokelau Islands,トケラウ諸島
-Token ring,トークンリング
 token,トークン
+Token ring,トークンリング
+tokens,トークン
+token text,トークンテキスト
 Tonga,トンガ
-tool set,ツールセット
 tool,ツール
 toolchain,ツールチェーン
-top level,トップレベル
+tool set,ツールセット
+tool style,ツールスタイル
 top,トップ
+top-down,トップダウン
 topic,トピック
+top level,トップレベル
+top-level transaction,トップレベルトランザクション
+topology,トポロジ
+toronto,トロント
+total,トータル
 trace,トレース
 trace,追跡
 Traceback,トレースバック
+track,トラック
+tracker,トラッカー
+track segment,トラックセグメント
 Trade-off,トレードオフ
 Traffic,トラフィック
 tranche,トランシェ
-Trans-Baikal Territory (Zabaykalsky Krai),ザバイカリエ地方(Zabaykalsky Krai)
+transaction,トランザクション
+transactional,トランザクション
+transactional replication,トランザクショナルレプリケーション
 transaction block,トランザクションブロック
+transaction command,トランザクションコマンド
 transaction commit,トランザクションコミット
+transaction commit timestamp,トランザクションコミットタイムスタンプ
 transaction counter,トランザクションカウンタ
 transaction data,トランザクションデータ
-transaction ID wraparound,トランザクションIDの周回
 transaction ID,トランザクションID
-transaction isolation level,トランザクション分離レベル
+transaction id wraparound,トランザクションidの周回
+transaction ID wraparound,トランザクションIDの周回
 transaction isolation,トランザクションの分離
+transaction isolation level,トランザクション分離レベル
 transaction level,トランザクションレベル
 transaction locks,トランザクションロック
-transaction log file,トランザクションログファイル
 transaction log,トランザクションログ
+transaction log file,トランザクションログファイル
 transaction manager,トランザクションマネージャ
+transaction message,トランザクションメッセージ
 transaction rate,トランザクションレート
 transaction records,トランザクションレコード
 transaction rollback,トランザクションロールバック
-transaction script files,トランザクションスクリプトファイル
+transactions,トランザクション
+transaction-safe,トランザクションセーフ
 transaction script,トランザクションスクリプト
+transaction script files,トランザクションスクリプトファイル
 transaction snapshot,トランザクションスナップショット
+transaction support,トランザクションサポート
 transaction system,トランザクションシステム
 transaction table,トランザクションテーブル
 transaction throughput,トランザクションスループット
-transaction,トランザクション
-transaction-safe,トランザクションセーフ
-transactional,トランザクション
-transition relations,遷移リレーション
-transform function,変形関数
+Trans-Baikal Territory (Zabaykalsky Krai),ザバイカリエ地方(Zabaykalsky Krai)
 transform,変換
 transformation process,書き換えプロセス
 transformation process,変換プロセス
+transform function,変形関数
+transition relations,遷移リレーション
+transition tables,遷移テーブル(transition tables)
+transitive law,推移律
 translation,翻訳
+transport,トランスポート
 traverse values,探索値
+tree,ツリー
 tree data,ツリーデータ
 tree index,ツリーインデックス
+tree key,ツリーキー
 tree level,ツリーレベル
 tree list,ツリーリスト
 tree node,ツリーノード
 tree page,ツリーページ
 tree structure,木構造
-tree,ツリー
 Trent,トレント
+trichotomy law,三分律
+trigger,トリガ
+trigger-based,トリガベース
+trigger command,トリガコマンド
 trigger data,トリガデータ
-trigger event lists,トリガイベントリスト
 trigger event,トリガイベント
+trigger event lists,トリガイベントリスト
 trigger file,トリガファイル
+trigger handler,トリガハンドラ
 trigger level,トリガレベル
 trigger manager,トリガマネージャ
 trigger parameters,トリガパラメータ
 trigger procedures,トリガプロシージャ
 trigger programmer,トリガプログラマ
-trigger,トリガ
-trigger-based,トリガベース
 trigram,トライグラム
+trigram index,トライグラムインデックス
+trigraph,トリグラフ
 Trojan horse,トロイの木馬
 Trouble,トラブル
+troubleshooting,トラブルシューティング
+troy,トロイ
 true,真
-trusted procedure,トラステッド・プロシージャ
-trusted procedure,トラステッドプロシージャ
+trust chain,トラストチェーン
+trusted,trusted
 trusted,トラステッド
 trusted,信頼
+trusted procedure,トラステッドプロシージャ
 try,トライ
 tuning,チューニング
 Tunisia,チュニジア
 tunnel,トンネル
+tuple,タプル
+tuple data,タプルデータ
+tuple deforming,タプルデフォーミング
 tuple descriptor,タプルディスクリプタ
 tuple field,タプルフィールド
 tuple headers,タプルヘッダ
 tuple identifiers,タプル識別子
 tuple index,タプルインデックス
-tuple locks,タプル・ロック
-tuple table slot,タプルテーブルスロット
-tuple table,タプルテーブル
-tuple,タプル
 tuple-level,タプルレベル
+tuple locks,タプル・ロック
+tuple slot,タプルスロット
 tuplestore,タプルストア
+tuple store object,タプルストアオブジェクト
+tuple table,タプルテーブル
+tuple table slot,タプルテーブルスロット
+tuple version,タプルバージョン
 Turkey,トルコ
 Turks & Caicos Islands,タークス・カイコス諸島
 tutorial,チュートリアル
@@ -3374,120 +4551,160 @@ two-phase commit,二相コミット
 type,タイプ
 type,型
 typecast,型変換
+type categories,型カテゴリ
 typed table,型付きテーブル
+typo,タイプミス
 typo,タイポ
-U.S. letter,U.S.レター
 Ukraine,ウクライナ
 Ulyanovsk regions,ウリヤノフスク地域
 unary operator,単項演算子
-unbound cursor,アンバウンドカーソル
 unbound,アンバウンド
-underflow error,アンダーフローエラー
+unbound,バインドされていない
+unbound cursor,アンバウンドカーソル
 underflow,アンダーフロー
+underflow error,アンダーフローエラー
+underlying type,基となる型
 underscore,アンダースコア
 unescaping,アンエスケープ
-Unicode escape,Unicodeエスケープ
-Unicode escape,ユニコードエスケープ
 Unicode,Unicode
 Unicode,ユニコード
-uninstall script,アンインストールスクリプト
+Unicode escape,Unicodeエスケープ
+Unicode escape,ユニコードエスケープ
+unicode text,ユニコードテキスト
 uninstall,アンインストール
+uninstall script,アンインストールスクリプト
 union,ユニオン
 union,和
+unique,一意な
+Unique,ユニーク
 unique constraint,一意性制約
+unique index,ユニークインデックス
 unique index,一意インデックス
 unique indexes,一意性インデックス
-Unique,ユニーク
-unique,一意な
+unique key,ユニークキー
 Unit,ユニット
 United kingdom,イギリス
 Universal database,ユニバーサルデータベース
 Unix domain socket,Unix ドメインソケット
 unload,アンロード
+unlock,アンロック
 unlogged table,ログを取らないテーブル
 unmounting,アンマウント
 unqualified name,非修飾名
+unqualified names,非修飾名
 updatable views,更新可能ビュー
-update script,更新スクリプト
 update,アップデート
 update,更新
+update rules,更新ルール
+update script,更新スクリプト
+update scripts,更新スクリプト
 updating,更新
-upgrade script,アップグレードスクリプト
 upgrade,アップグレード
+upgrade script,アップグレードスクリプト
 upgrading,アップグレード処理
+upload,アップロード
 upper relation,上位リレーション
+upsert,upsert
 UPSERT,UPSERT
 Uruguay,ウルグアイ
 Use Case,ユースケース
 use during upgrade,アップグレード中の使用
+user,ユーザ
+user access,ユーザアクセス
 user account,ユーザアカウント
 user applications,ユーザアプリケーション
 user callback,ユーザコールバック
+user catalog table,ユーザカタログテーブル
 user command,ユーザコマンド
 user community,ユーザコミュニティ
-user data files,ユーザデータファイル
 user data,ユーザデータ
 user database,ユーザデータベース
+user data files,ユーザデータファイル
+user-defined,ユーザ定義
+user experience,ユーザエクスペリエンス
+user file,ユーザファイル
+user-friendly,ユーザフレンドリ
 user guide,ユーザガイド
 user header files,ユーザヘッダファイル
 user indexes,ユーザインデックス
 user interface,ユーザインタフェース
 user key,ユーザキー
+user-level,ユーザレベル
 user locale,ユーザロケール
 user lock,ユーザロック
+user logout,ユーザログアウト
 user manual,ユーザマニュアル
-user mapping option,ユーザマッピングオプション
+usermap,ユーザマップ
+usermap parameter,ユーザマップパラメータ
 user mapping,ユーザマッピング
+user mapping option,ユーザマッピングオプション
 user name maps,ユーザ名マップ
 user objects,ユーザオブジェクト
+user option,ユーザオプション
 user password,ユーザパスワード
 user principal,ユーザプリンシパル
+user profile,ユーザプロファイル
 user roles,ユーザロール
+user security,ユーザセキュリティ
 user sequences,ユーザシーケンス
 user sessions,ユーザセッション
 user table,ユーザテーブル
 user triggers,ユーザトリガ
-user,ユーザ
-user-defined,ユーザ定義
-user-friendly,ユーザフレンドリ
-user-level,ユーザレベル
-usermap parameter,ユーザマップパラメータ
-usermap,ユーザマップ
+U.S. letter,U.S.レター
+utility,ユーティリティ
 utility command,ユーティリティコマンド
 utility program,ユーティリティプログラム
-utility,ユーティリティ
 UUID,UUID
+vacuum,バキューム
+vacuum cleanup,バキュームクリーンアップ
 vacuum cleanup record,バキュームクリーンアップレコード
+vacuum cost,バキュームコスト
+vacuum daemon,バキュームデーモン
+vacuuming,バキューム処理
+vacuum launcher,バキュームランチャ
+vacuum logging,バキュームロギング
 vacuum options,バキュームオプション
 vacuum overhead,バキュームオーバーヘッド
-vacuum,バキューム
-vacuuming,バキューム処理
+vacuum process,バキュームプロセス
+vacuum worker,バキュームワーカー
 validation,バリデーション
 validator,バリデータ
 validator,有効性検証関数
+value comparisons,値比較
 value expression,評価式
+valuepercall,valuepercall
 value store,バリューストア
-variable variables,可変変数
 variable,変数
+variable variables,可変変数
 variance,分散
 variation,バリエーション
 varlena,varlena
+vault,バルト
 vector,ベクタ
 vector,ベクトル
 vendor,ベンダ
 Venezuela,ベネズエラ
 VERBOSE,VERBOSE
-version upgrades,バージョンアップ
 version,バージョン
+version churn,バージョンチャーン
+version file,バージョンファイル
+versioning,バージョニング
+versions,版
+version upgrades,バージョンアップ
 versus large objects,対ラージオブジェクト
+vienna,ウィーン
 Vienna University of Technology,ウィーン工科大学
+vietnam,ベトナム
 Vietnamese,ベトナム語
+view,ビュー
 view definition,ビュー定義
 view relation,ビューリレーション
 view rules,ビュールール
+views,ビュー
+view trigger,ビュートリガ
 view trigger procedure,ビュートリガプロシージャ
 view updates,ビューの更新
-view,ビュー
+virtual machine,仮想マシン
 virtual table,仮想テーブル
 visibility map,可視性マップ
 visible,可視
@@ -3495,67 +4712,86 @@ volatility,変動性
 Volgograd,ヴォルゴグラード
 volume,ボリューム
 volunteers,ボランティア
+vpath,vpath
 VPATH,VPATH
 WAL archiver,WALアーカイバ
+WAL block size,walブロックサイズ
 WAL block size,WALブロック容量
 WAL file archiving,WALファイルアーカイブ
-wal segment size,WALセグメント容量
 Wally,ウィリー
-warm standby server,ウォームスタンバイサーバ
+WAL segment,walセグメント
+WAL segment file,WALセグメントファイル
+WAL segment size,WALセグメント容量
+WAL segment size,WALセグメントサイズ
 warm standby,ウォームスタンバイ
 warm-standby script,ウォームスタンバイスクリプト
+warm standby server,ウォームスタンバイサーバ
 warning,ワーニング
+weak,weak
 weak,弱めの
+Web,ウェブ
 web pages,ウェブページ
 web server,ウェブサーバ
-Web Site,Webサイト
-Web,ウェブ
 website,ウェブサイト
+Web Site,Webサイト
 weight,ウェイト
 weight,重み
 well-formed,整形式
 white space,空白文字
 wiki,wiki
+wildcard,ワイルドカード
+wildcard member accessor,ワイルドカードメンバアクセサ
 wildcard pattern,ワイルドカードパターン
 wildcard server certificates,ワイルドカードサーバ証明書
-wildcard,ワイルドカード
+window,ウィンドウ
 window frame,ウィンドウフレーム
-window function call,ウィンドウ関数呼び出し
 window function,ウィンドウ関数
-Windows operating system service,Windowsオペレーティングシステムサービス
+window function call,ウィンドウ関数呼び出し
+window functions,ウィンドウ関数
 Windows,Windows
+Windows operating system service,Windowsオペレーティングシステムサービス
 wired,ワイアード
-witness server,証言サーバ
-witness server,証明サーバ
+witness server,witnessサーバ
 word,ワード
 work around,ワークアラウンド
-worker process,ワーカープロセス
-worker threads,ワーカースレッド
 worker,ワーカー
+worker process,ワーカープロセス
+worker slot,ワーカースロット
+worker threads,ワーカースレッド
+working table,ワーキング・テーブル
 working table,作業テーブル
+workload,ワークロード
 workstation,ワークステーション
 wrap,ラップ
+wrap around,ラップアラウンド
 wraparound,周回
-wrapper program,ラッパープログラム
 wrapper,ラッパー
+wrapper option,ラッパーオプション
+wrapper program,ラッパープログラム
+wrapping,ラッピング
 write ahead log,先行書き込みログ
-write cache,ライトキャッシュ
-write through,ライトスルー
 write-ahead log,ログ先行書き込み
 write-ahead log,先行書き込みログ
+write-ahead logging,ログ先行書き込み
+write back,ライトバック
 write-back,write-back
-write-through,write-through
-writer process,ライタプロセス
+write cache,ライトキャッシュ
 writer,ライタ
+writer process,ライタプロセス
+write through,ライトスルー
+write-through,write-through
 WRONG,間違い
+xact,xact
+xid,xid
+XML,XML
 XML export,XMLエクスポート
 XML option,XMLオプション
-XML,XML
 XPath,XPath
 XSLT,XSLT
+zero,ゼロ
 zero bytes,ゼロバイト
+zero clear,ゼロクリア
 zero mask,ゼロマスク
 zero octet,ゼロオクテット
 zero transactions,ゼロトランザクション
-zero,ゼロ
 zone,ゾーン
