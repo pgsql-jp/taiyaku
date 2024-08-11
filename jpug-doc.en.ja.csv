@@ -465,8 +465,8 @@ build system,ビルドシステム
 build tree,ビルドツリー
 build type,ビルドタイプ
 built-in,ビルトイン
-built-in,組み込み
 built-in,組み込まれ
+built-in,組み込み
 bulk,バルク
 bundle,バンドル
 bus,バス
@@ -795,9 +795,9 @@ context manager,コンテキストマネージャ
 context manager interface,コンテキストマネージャインタフェース
 context tree,コンテキストツリー
 continuous,連続
+continuous archiving,継続的なアーカイブ
 continuous archiving,継続的アーカイビング
 continuous archiving,継続的アーカイブ
-continuous archiving,継続的なアーカイブ
 continuous percentile,連続百分位数
 control,コントロール
 control data,コントロールデータ
@@ -1339,8 +1339,8 @@ extending,拡張
 extending SQL,SQLの拡張
 extensibility,拡張性
 extension,extension
-extension,拡張
 extension,延長
+extension,拡張
 extensions,エクステンション
 extensions,拡張
 extent,エクステント
@@ -1424,8 +1424,8 @@ filter callback,フィルタコールバック
 filter expressions,フィルター式
 filtering,フィルタリング
 filtering,フィルタ処理
-filtering out,除外
 filtering dictionary,フィルタリング辞書
+filtering out,除外
 filter rule,フィルタルール
 final function,最終関数
 Finland,フィンランド
@@ -2943,12 +2943,12 @@ prepared query,プリペアド問い合わせ
 prepared statement,プリペアドステートメント
 prepared statement,準備済みの文
 prepared statements,プリペアド文
+prepared transaction,プリペアドのトランザクション
 prepared transaction,プリペアドトランザクション
-prepared transaction,準備済みのトランザクション
 prepared transaction,準備されたトランザクション
-prepared transaction,準備済トランザクション,
-prepared transaction,プリペアドのトランザクション,
 prepared transaction,準備したトランザクション
+prepared transaction,準備済みのトランザクション
+prepared transaction,準備済トランザクション
 prepared transaction message,プリペアドトランザクションメッセージ
 preparing a query,問い合わせの準備
 preprocess,プリプロセス
@@ -4268,8 +4268,8 @@ troy,トロイ
 true,真
 trust chain,トラストチェーン
 trusted,trusted
-trusted,信頼
 trusted,信用
+trusted,信頼
 trusted procedure,トラステッドプロシージャ
 try,トライ
 tuning,チューニング
@@ -4294,8 +4294,8 @@ tuple version,タプルバージョン
 Turkey,トルコ
 Turks & Caicos Islands,タークス・カイコス諸島
 tutorial,チュートリアル
-two-phase commit,二相コミット
 two-phase commit,2相コミット
+two-phase commit,二相コミット
 type,タイプ
 type,型
 type,種
@@ -4453,8 +4453,8 @@ volunteers,ボランティア
 vpath,vpath
 VPATH,VPATH
 WAL archiver,WALアーカイバ
-WAL block size,WALブロック容量
 WAL block size,WALブロックサイズ
+WAL block size,WALブロック容量
 Wally,ウィリー
 WAL segment,walセグメント
 WAL segment file,WALセグメントファイル
