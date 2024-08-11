@@ -2487,11 +2487,10 @@ non-fiction,ノンフィクション
 non-fiction books,ノンフィクションの本
 non-greedy,最短マッチ
 non-greedy,最短マッチを行う（非欲張り型）
-non-greedy,欲張りの
 non-key,非キー
 nonnegative,非負
 nonnull,非NULL
-non-recursive term,非再帰的表現（non-recursive term）
+non-recursive term,非再帰的表現
 nonrepeatable read,反復不能読み取り
 non-reserved,未予約
 non-session processes,非セッションプロセス
@@ -2702,15 +2701,12 @@ parallel query plan,パラレルクエリプラン
 parallel query system,パラレルクエリシステム
 parallel query worker,パラレルクエリワーカー
 parallel restricted,パラレル制限
-parallel restricted,パラレル制限（parallel restricted）
 parallel safe,パラレル安全
-parallel safe,パラレル安全（parallel safe）
 parallel safe mark,パラレルセーフマーク
 parallel scan,パラレルスキャン
 parallel sequential scan,パラレルシーケンシャルスキャン
 parallel universes,パラレルユニバース
 parallel unsafe,パラレル非安全
-parallel unsafe,パラレル非安全（parallel unsafe）
 parallel utility command,パラレルユーティリティコマンド
 parallel vacuum,並列バキューム
 parallel worker,パラレルワーカー
@@ -3142,9 +3138,9 @@ recovery target,リカバリターゲット
 recovery test,リカバリテスト
 rectangle,矩形
 rectangle,長方形
-recursive term,再帰的表現（recursive term）
+recursive term,再帰的表現
 recycle,リサイクル
-recycling,recycling（再利用）
+recycling,再利用
 redirect,リダイレクト
 redirection,リダイレクション
 refactoring,リファクタリング
@@ -3761,7 +3757,7 @@ SQL key words,SQLキーワード
 square brackets,大括弧
 Sri Lank,スリランカ
 SSL object database,SSL オブジェクトデータベース
-stable,安定（stable）
+stable,安定
 stack,スタック
 stack size,スタックサイズ
 stack trace,スタックトレース
