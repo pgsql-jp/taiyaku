@@ -7,7 +7,6 @@ abstract data type,抽象データ型
 abstraction,抽象化
 accents,アクセント
 accents,訛り
-access,アクセス
 access control list,アクセス制御リスト
 access costs,アクセスコスト
 access count,アクセスカウント
@@ -16,27 +15,26 @@ access keyword,アクセスキーワード
 access logs,アクセスログ
 access method property,アクセスメソッドプロパティ
 access methods,アクセスメソッド
-access method support,アクセスメソッドサポート
 accessor,アクセサ
+accessor,アクセス
 accessor chain,アクセサチェーン
 access paths,アクセスパス
 access pattern,アクセスパターン
 access permission,アクセスパーミッション
+access permission,アクセス権限
 access request message,アクセスリクエストメッセージ
 access rights,アクセス権
 account,アカウント
+account,口座
 acl,acl
 ACL,ACL
 acronyms,頭字語
 action code,アクションコード
 action list,アクションリスト
-actions,アクション
-active,アクティブ
-activity,アクティビティ
 add-in,アドイン
 add-in's,アドイン
 add-on,アドオン
-address,アドレス
+add-on,追加
 address family,アドレスファミリー
 address field,アドレスフィールド
 addressing,アドレッシング
@@ -48,30 +46,32 @@ administrator,管理者
 admin option,アドミンオプション
 adress bit,アドレスビット
 advanced,高度な
-advanced features,高度な諸機能
+advanced,上級
+advanced features,高度な機能
 advice,アドバイス
 advisory lock,アドバイザリロック
 advisory lock,勧告的ロック
-advisory locks,勧告的ロック
+advisory lock,共有勧告的ロック
+advisory lock,排他勧告的ロック
 affix,接辞
 affix file,接辞ファイル
-after,後
 after-images,更新後イメージ
 aggregate,集約
-aggregated arguments,集約引数
 aggregate expression,集約式
 aggregate function,集約関数
-aggregate functions,集約関数
 aggregates,集約
 aggressive vacuum,積極的なバキューム
 Alaska,アラスカ
 algorithm,アルゴリズム
+algorithm,演算手法
 alias,エイリアス
 alias,別名
 Alice,アリス
 alignment,アライメント
+alignment,整列
 allocation,アロケーション
 allocation,割り当て
+all visible,全ての可視
 all visible,全可視
 alphabet,アルファベット
 alphabetical order,アルファベット順
@@ -81,19 +81,24 @@ America/Adak,America/Adak
 ampersand,アンパサンド
 analytic functions,分析関数
 analyze,アナライズ
+analyze,解析
 ANALYZE,ANALYZE
 announce,アナウンス
+anonymous code blocks,匿名コードブロック
 anonymous code blocks,無名コードブロック
 ANSI,ANSI
 Antarctica,南極
 anti,アンチ
 Anti-virus,アンチウィルス
 anti-wraparound,ラップアラウンド防止
+anti-wraparound,周回対策
+anti-wraparound,周回防止
 api,エイ・ピー・アイ
 API,API
 API struct,API構造体
 app,アプリ
 append,アペンド
+append,追加
 Appendixes,付録
 applicable role,適用可能なロール
 application,アプリケーション
@@ -126,7 +131,6 @@ archive log,アーカイブログ
 archive mode,アーカイブモード
 archive module,アーカイブモジュール
 archive module callback,アーカイブモジュールコールバック
-archive process,アーカイブプロセス
 archiver,アーカイバ
 archive recovery,アーカイブリカバリ
 archiver process,アーカイバプロセス
@@ -137,9 +141,9 @@ archive support,アーカイブサポート
 archive system,アーカイブシステム
 archive tool,アーカイブツール
 archiving,アーカイビング
+archiving,アーカイブ
 Argentina,アルゼンチン
 argument,引数
-arm,アーム
 Armenia,アルメニア
 armor,アーマー
 armor header,アーマーヘッダ
@@ -156,6 +160,7 @@ assertion check,アサーションチェック
 assertion failures,アサーションエラー
 asserts,アサート
 assigned,アサイン
+assigned,割り当て
 assignment cast,代入キャスト
 asterisk,アスタリスク
 Astrakhan,アストラハン
@@ -183,7 +188,6 @@ autovacuum,オートバキューム
 autovacuum,自動バキューム
 autovacuum daemon,自動バキュームデーモン
 autovacuum launcher,自動バキュームランチャ
-autovacuum launcher,自動バキュームランチャー
 autovacuum processes,自動バキュームプロセス
 autovacuum worker,自動バキュームワーカー
 auto vacuum worker process,オートバキュームワーカープロセス
@@ -209,7 +213,9 @@ backend slot,バックエンドスロット
 backend support,バックエンドサポート
 backend type,バックエンドタイプ
 background,バックグラウンド
+background,背景
 background process,バックグラウンドプロセス
+background process,バックグラウンド処理
 background process role,バックグラウンドプロセスロール
 background tables,バックグラウンドテーブル
 background task,バックグラウンドタスク
@@ -291,6 +297,7 @@ benchmark scenarios,ベンチマークシナリオ
 Berkeley,バークレイ
 Berkeley code,バークレイコード
 best,ベスト
+best,最適
 best practice,ベストプラクティス
 beta,ベータ
 bibliography,参考文献
@@ -314,12 +321,11 @@ binary package,バイナリパッケージ
 binary parameters,バイナリパラメータ
 binary streaming replication,バイナリストリーミングレプリケーション
 binary string,バイナリ文字列
+binary string,バイナリ列
 binary tree,バイナリツリー
-bind,バインド
 bind address,バインドアドレス
 binding,バインディング
 bind mode,バインド・モード
-bind parameters,バインドパラメータ
 bit,ビット
 bit binary,ビットバイナリ
 bit build,ビットビルド
@@ -351,8 +357,6 @@ bit unicode,ビットユニコード
 bitwise flags,ビットフラグ
 BKI,BKI
 black box,ブラックボックス
-bloat,ブロート
-block,ブロック
 block address,ブロックアドレス
 block cache,ブロックキャッシュ
 block close,ブロッククローズ
@@ -363,10 +367,12 @@ block header,ブロックヘッダ
 blocking,ブロッキング
 blocking locks,ブロッキングロック
 blocking mode,ブロッキングモード
+blocking mode,ブロックモード
 block level,ブロックレベル
 block level counter,ブロックレベルカウンタ
 block mode,ブロックモード
 block range,ブロックレンジ
+block range,ブロック範囲
 block range index,ブロックレンジインデックス
 block ranges,ブロックレンジ
 block size,ブロックサイズ
@@ -399,20 +405,24 @@ bottleneck,ボトルネック
 bottom-up,ボトムアップ
 bottom-up index,ボトムアップインデックス
 bottom-up index deletion,ボトムアップインデックスの削除
+bottom-up index deletion,ボトムアップインデックス削除
 Bougainville,ブーガンビル
 bound,バインドされて
 bound,バウンド
 bound,境界
+bound cursor,バインドされたカーソル
 bound cursor,バウンドカーソル
 bounding box,外接矩形
 bounds,バウンド
 box,ボックス
 box,矩形
 bracket,ブラケット
+bracket,括弧
 bracket expression,ブラケット式
 brackets,括弧
 branch,ブランチ
 branches,ブランチ
+branches,分岐
 Brazil,ブラジル
 bread,パン
 BRIN,BRIN
@@ -422,15 +432,16 @@ Browser,ブラウザ
 brute force,ブルートフォース
 BSD,BSD
 B-tree,B-tree
+B-tree,Bツリー
 bucket,バケット
 bucket-level locks,バケットレベルロック
 bucket page,バケットページ
 buffer,バッファ
 buffer access,バッファアクセス
 buffer access strategy,バッファアクセスストラテジ
+buffer access strategy,バッファアクセス戦略
 buffer cache,バッファキャッシュ
 buffer data,バッファデータ
-buffered,バッファ処理
 buffer entry,バッファエントリ
 buffer file,バッファファイル
 buffer hits,バッファヒット
@@ -444,9 +455,10 @@ buffer pool lock,バッファプールロック
 buffer size,バッファサイズ
 buffer stuffing,バッファスタッフィング
 bug,バグ
+bug,不具合
 bug report,バグレポート
+bug report,バグ報告
 bug reporting guidelines,バグレポートガイドライン
-build,ビルド
 build command,ビルドコマンド
 build directory,ビルドディレクトリ
 build farm,ビルドファーム
@@ -454,14 +466,17 @@ build flag,ビルドフラグ
 build option,ビルドオプション
 build phase,ビルドフェーズ
 build process,ビルドプロセス
+build process,作成プロセス
 build rules,構築規則
 build system,ビルドシステム
+build system,構築システム
 build tree,ビルドツリー
 build type,ビルドタイプ
 built-in,ビルトイン
 built-in,組み込まれ
 built-in,組み込み
 bulk,バルク
+bulk,大量
 bundle,まとめ（る）
 bus,バス
 business objects,ビジネスオブジェクト
@@ -469,17 +484,17 @@ business rules,ビジネス・ルール
 business rules,ビジネスルール
 busy,ビジー
 busy loop,ビジーループ
-bypass,バイパス
 byte,バイト
 byte offset,バイトオフセット
 byte order,バイトオーダ
+byte order,バイト順
 byte sequence,バイトシーケンス
 byte size,バイトサイズ
-bytes set,バイトセット
 byte word,バイトワード
 cac,シーエーシー
 cache,キャッシュ
 cache entry,キャッシュエントリ
+cache entry,キャッシュ項目
 cache hit,キャッシュヒット
 cache mode,キャッシュモード
 cache size,キャッシュサイズ
@@ -493,22 +508,24 @@ call stack,呼び出しスタック
 Canada,カナダ
 Canadian Northern Rockies,カナダ・ノーザンロッキー
 cancel,キャンセル
+cancel,取り消し
 canceling,キャンセル
 cancel requests,キャンセル要求
 canonicalization,正規化
 capabilities,機能
+capabilities,能力
 capsule,カプセル
-capture,キャプチャ
 carriage return,キャリッジ・リターン
 carriage return,復帰
 Cartesian product,デカルト積
+Cartesian product,直積
 Cartesian projection,デカルト投影
 cascade,カスケード
 cascading replication,カスケーディングレプリケーション
 cascading replication,カスケードレプリケーション
 cascading standby,カスケードスタンバイ
-case,ケース
 case-insensitive,大文字小文字
+case mapping,大文字小文字の対応関係
 case sensitivity,大文字小文字の区別
 casey,ケイシー
 cast,キャスト
@@ -516,7 +533,6 @@ cast method,キャストメソッド
 casts,キャスト
 catalog,カタログ
 catalog cache,カタログキャッシュ
-catalog cache entry,カタログキャッシュエントリ
 catalog cluster,カタログクラスタ
 catalog data file,カタログデータファイル
 catalog data patch,カタログデータパッチ
@@ -538,6 +554,7 @@ Cayman Islands,ケイマン諸島
 cell,セル
 Celtic,ケルト
 certificate,証明書
+certificate authority,認証局
 chain,チェーン
 chain,チェイン
 challenge,チャレンジ
@@ -553,7 +570,6 @@ character set,文字セット
 character string,文字の並び
 chat messages,チャットメッセージ
 chebyshev,チェビシェフ
-check,チェック
 check callback,チェックコールバック
 check constraint,検査制約
 check digit,チェックディジット
@@ -589,12 +605,11 @@ class-shorthand escapes,クラス省略エスケープ
 class support,クラスサポート
 clause,句
 clean,クリーン
-cleaning,クリーニング
+cleaning up,消去
 cleaning up,整理
 cleanup,クリーンアップ
 cleanup code,クリーンアップコード
 cleanup command,クリーンナップコマンド
-clear,クリア
 clear code,クリアコード
 client,クライアント
 client address,クライアントアドレス
@@ -624,6 +639,7 @@ client socket,クライアントソケット
 client software,クライアントソフトウェア
 client user,クライアントユーザ
 clock,クロック
+clock,時刻
 clone,クローン
 close,クローズ
 closed,閉じた
@@ -656,6 +672,7 @@ collation,照合順
 collation,照合順序
 collation derivation,照合順序の導出
 collector,コレクタ
+collector,収集機構
 colon,コロン
 column,カラム
 column,列
@@ -665,7 +682,6 @@ column reference,列の参照
 columns,列
 combine function,結合関数
 comma,カンマ
-comma,コンマ
 command,コマンド
 command counter,コマンドカウンタ
 command cycle,コマンドサイクル
@@ -734,6 +750,7 @@ compressed archives,圧縮アーカイブ
 computer,コンピュータ
 Computer science,コンピュータサイエンス
 concatenation,結合
+concatenation,連結
 concept,コンセプト
 concept,概念
 concurrency control,同時実行制御
@@ -742,6 +759,7 @@ Conference,コンファレンス
 configuration,設定
 configuration parameter,設定パラメータ
 conflict,コンフリクト
+conflict,衝突
 conformance,準拠
 conjunction,論理積
 connection,コネクション
@@ -773,6 +791,7 @@ consumer,コンシューマ
 container,コンテナ
 containment,包含
 containment,包含演算子
+contains,含む
 contains,包含
 content,コンテンツ
 content,コンテント
@@ -789,6 +808,7 @@ continuous archiving,継続的アーカイビング
 continuous archiving,継続的アーカイブ
 continuous percentile,連続百分位数
 control,コントロール
+control,制御
 control data,コントロールデータ
 control file,制御ファイル
 controller,コントローラ
@@ -1019,6 +1039,7 @@ data wrapper helper,データラッパーヘルパ
 data wrapper options,データラッパーオプション
 daylight saving time,サマータイム
 DBA,DBA
+DBA,データベース管理者
 DDL,DDL
 dead,デッド
 dead index tuple,デッドインデックスタプル
@@ -1038,39 +1059,33 @@ debug message,デバッグ・メッセージ
 debug messages,デバッグメッセージ
 debug option,デバッグオプション
 debug routine,デバッグルーチン
-decimal,10進数
 declaration,宣言
-decode,デコード
+declaration,定義
 decode buffer,デコードバッファ
 decode interface,デコードインタフェース
-decoding,デコーディング
 deduplication,重複排除
 deep copy,ディープコピー
 default,デフォルト
-default access,デフォルトアクセス
 default algorithm,デフォルトアルゴリズム
 default B-tree operator class,デフォルトのB-tree演算子クラス
 default class,デフォルトクラス
-default database,デフォルトデータベース
 default error message,デフォルトエラーメッセージ
 default group,デフォルトグループ
 default login class,デフォルトログインクラス
-default mode,デフォルトモード
 default parameters,デフォルトパラメータ
 default parser,デフォルトパーサ
 default partition,デフォルトパーティション
-default port,デフォルトポート
 default role,デフォルトロール
 default security label,デフォルトセキュリティラベル
-default size,デフォルトサイズ
 default socket directory path,デフォルトソケットディレクトリパス
 default table,デフォルトテーブル
 default tablespace,デフォルトのテーブル空間
+default tablespace,デフォルトテーブル空間
 default transaction,デフォルトトランザクション
-default value,デフォルト値
 deferrable,deferrable
 deferrable,遅延可能な
 deferrable transaction,遅延トランザクション
+deferred,後回し
 deferred,遅延
 definition,定義
 defrag,デフラグ
@@ -1085,13 +1100,21 @@ demoware,デモウェア
 deploy script,デプロイスクリプト
 descartes,デカルト
 descriptor,ディスクリプタ
+descriptor,記述子
 deserialization function,デシリアライズ関数
 deserialize,デシリアライズ
 design,デザイン
+design,設計
 designer,設計者
 destination encoding,ディスティネーションエンコーディング
+destination encoding,変換先符号化方式
 detach,デタッチ
+detach,切り離す
+deterministic,決定性
 deterministic,決定論的
+detoasted,TOAST解除
+detoasted,TOAST展開
+detoasted,非TOAST
 Devanagari alphabet,ヒンディーアルファベット
 device,デバイス
 device files,デバイスファイル
@@ -1099,6 +1122,7 @@ dialog,ダイアログ
 dialog window,ダイアログウィンドウ
 dial-up,ダイアルアップ
 dictionaries,辞書
+difference,違い
 difference,差
 diffie-hellman parameter,ディフィー・ヘルマンパラメータ
 digest,ダイジェスト
@@ -1112,7 +1136,6 @@ director,決定子
 directory,ディレクトリ
 directory archive,ディレクトリアーカイブ
 directory dump,ディレクトリダンプ
-directory path,ディレクトリパス
 dirty,ダーティ
 dirty,変更済み
 dirty block,ダーティブロック
@@ -1146,6 +1169,7 @@ disk space,ディスク容量
 disk system,ディスクシステム
 disk usage,ディスク使用量
 display,ディスプレイ
+display,表示
 distribution,ディストリビューション
 distribution,配布物
 distribution package,ディストリビューションパッケージ
@@ -1160,13 +1184,13 @@ documentation,文書
 documentation project,ドキュメントプロジェクト
 documentation text file,ドキュメントテキストファイル
 document node,ドキュメントノード
-documents,文書
 document source,ドキュメントソース
 document style,ドキュメントスタイル
 document table,文書テーブル
 document text,ドキュメントテキスト
+document text,文書テキスト
 dollar,ドル
-dollar quoting,ドル引用符付け
+dollar quoting,ドル引用符
 domain,ドメイン
 domain account,ドメインアカウント
 domain data,ドメインデータ
@@ -1177,7 +1201,6 @@ domain socket file,ドメインソケットファイル
 dot,ドット
 double precision,倍精度
 double quote,二重引用符
-down,ダウン
 downcast,ダウンキャスト
 downgrade,ダウングレード
 downgrade script,ダウングレードスクリプト
@@ -1230,10 +1253,8 @@ endian,エンディアン
 end user,エンドユーザ
 enforcing mode,エンフォーシングモード
 engine,エンジン
-ensure,保証
 entity,エンティティ
 entity,実体
-entry,エントリ
 entry escape,エントリエスケープ
 entry point,エントリポイント
 enumerated types,列挙型
@@ -1247,6 +1268,7 @@ equality operator,等価演算子
 equal to,等しい
 equivalence class,同値クラス
 error,エラー
+error,ミス
 error checking,エラーチェック
 error class,エラークラス
 error code,エラー・コード
@@ -1266,7 +1288,7 @@ error status,エラーステータス
 error stream,エラーストリーム
 error text,エラーテキスト
 escape,エスケープ
-escapes,エスケープ
+escape,逃れる
 escape sequences,エスケープシーケンス
 escape string syntax,エスケープ文字列構文
 escape warning,エスケープに関する警告
@@ -1292,30 +1314,29 @@ eventually consistent,最後には一貫性を持つ
 event viewer,イベントビューア
 every so often,時々
 example,例
+example,例えば
 example plugin,サンプルプラグイン
+exception,除く
 exception,例外
-exclamation,イクスクラメーション
-exclamation mark,イクスクラメーション印
-exclamation point,感嘆符
+exclamation,感嘆符
 exclusion constraint,排他制約
 execute,実行
 execution plan,実行計画
 executor,エグゼキュータ
 executor code,エグゼキュータコード
 executor context,エグゼキュータコンテキスト
-exercise,練習
 existence,存在
+exit status,終了コード
 exit status,終了ステータス
 expanded,拡張
 expanded,展開
 expanded,展開された
 expert,エキスパート
+expert,専門家
 expire,満了
 explicit locking,明示的ロック
 export,エクスポート
 export option,エクスポートオプション
-expression,式
-expressions,式
 extended,拡張
 extended statistics objects,拡張統計情報オブジェクト
 extending,拡張
@@ -1338,9 +1359,8 @@ failover systems,フェイルオーバーシステム
 Falkland,フォークランド
 fallback,フォールバック
 false,偽
-family,ファミリ
 family,ファミリー
-family of address,アドレスファミリ
+family of address,アドレスファミリー
 FAQ,FAQ
 fastgetattr,fastgetattr
 fast path,近道
@@ -1404,7 +1424,7 @@ file table,ファイルテーブル
 fill factor,フィルファクタ
 filter,フィルタ
 filter callback,フィルタコールバック
-filter expressions,フィルター式
+filter expressions,フィルタ式
 filtering,フィルタリング
 filtering,フィルタ処理
 filtering dictionary,フィルタリング辞書
@@ -1647,6 +1667,7 @@ histogram bucket,ヒストグラムバケット
 histogram slot,ヒストグラムスロット
 historical corrections,歴史的修正
 historically,歴史的
+historical reasons,歴史的な理由
 history,歴史
 Hit,ヒット
 hold cursor,ホールドカーソル
@@ -1694,6 +1715,7 @@ idle,アイドル
 image,イメージ
 image,画像
 immediate shutdown,即時シャットダウン
+immediate shutdown,即時停止
 impact,影響
 implementation,実装
 implicit cast,暗黙キャスト
@@ -1723,6 +1745,7 @@ index column,インデックスカラム
 index cost,インデックスコスト
 index data,インデックスデータ
 index entry,インデックスエントリ
+indexes,インデックス
 index file,インデックスファイル
 indexing project,インデックスプロジェクト
 index key,インデックスキー
@@ -1739,7 +1762,6 @@ index pointer,インデックスポインタ
 index property,インデックスプロパティ
 index relation,インデックスリレーション
 index scan,インデックススキャン
-index scan,インデックス走査
 index scan node,インデックススキャンノード
 index search,インデックスサーチ
 index semantics,インデックスセマンティクス
@@ -1864,8 +1886,8 @@ keepalive message,キープアライブメッセージ
 keepalives,キープアライブ
 keepalive socket option,キープアライブソケットオプション
 Kemerovo,ケメロヴォ
-kerberos,ケルベロス
 Kerberos,Kerberos
+Kerberos,ケルベロス
 kerberos user principal,ケルベロスユーザプリンシパル
 kernel,カーネル
 kernel cache,カーネルキャッシュ
@@ -2508,7 +2530,6 @@ offload device,オフロードデバイス
 offset,オフセット
 off-site data storage,オフサイトデータストレージ
 oid,oid
-on,オン
 on-disk,ディスク上
 one-to-many,1対多
 online,オンライン
@@ -3339,6 +3360,7 @@ sampling method support,サンプリングメソッドサポート
 San_Luis,サンルイス
 sasl,sasl
 SASL,SASL
+SASLprep,SASLprep
 savepoint,セーブポイント
 savepoints,セーブポイント
 scalable,スケーラビリティ
@@ -3458,10 +3480,6 @@ sequence relation,シーケンスリレーション
 sequential,シーケンシャル
 sequential access,シーケンシャルアクセス
 sequential scan,シーケンシャルスキャン
-sequential scan,シーケンシャル走査
-sequential scan,順スキャン
-sequential scan,順次スキャン
-sequential scan,逐次スキャン
 sequential table scan,シーケンシャルテーブルスキャン
 serial,シリアル
 serializable,シリアライザブル
@@ -3544,7 +3562,6 @@ session-local,セッションローカル
 session processes,セッションプロセス
 session traffic,セッショントラフィック
 session user,セッションユーザ
-set,セット
 set difference,集合差
 set intersection,集合積
 set operation,集合操作
@@ -3587,7 +3604,6 @@ signal handler,シグナルハンドラ
 signature,シグネチャ
 significant digits,有効数字
 similarity,類似性
-simple,シンプル
 simulate,シミュレート
 simulation,シミュレーション
 Singapore,シンガポール
@@ -3846,7 +3862,6 @@ subquery result row,副問い合わせ結果行
 subroutine,サブルーチン
 sub-routine module,サブルーチンモジュール
 subscribe,サブスクライブ
-subscriber,サブスクライバ
 subscriber,サブスクライバー
 subscriber database,サブスクライバーデータベース
 subscriber node,サブスクライバーノード
@@ -4101,6 +4116,7 @@ tips,ヒント
 title,タイトル
 toast,トースト
 TOAST,TOAST
+toasted,TOASTされた
 toast pointer,TOASTポインタ
 toast table,TOASTテーブル
 toast table,トーストテーブル
@@ -4252,19 +4268,19 @@ Unicode escape,Unicodeエスケープ
 Unicode escape,ユニコードエスケープ
 unicode text,ユニコードテキスト
 uninstall,アンインストール
-union,ユニオン
 union,和
-unique,一意な
-Unique,ユニーク
+unique,ユニーク
+unique,一意
 unique constraint,一意性制約
 unique index,ユニークインデックス
 unique index,一意インデックス
 unique indexes,一意性インデックス
 unique key,ユニークキー
 Unit,ユニット
+Unit,単位
 United kingdom,イギリス
 Universal database,ユニバーサルデータベース
-Unix domain socket,Unix ドメインソケット
+Unix domain socket,Unixドメインソケット
 unload,アンロード
 unlock,アンロック
 unlogged table,ログを取らないテーブル
@@ -4342,6 +4358,7 @@ validation,検証
 validator,検証
 value comparisons,値比較
 value expression,評価式
+ValuePerCall,ValuePerCall
 variable,変数
 variable variables,可変変数
 variance,分散
@@ -4375,9 +4392,11 @@ virtual table,仮想テーブル
 visibility map,可視性マップ
 visible,可視
 visible,見える
-volatility,変動性
+volatility,揮発性
+volatility,変動
 Volgograd,ヴォルゴグラード
 volume,ボリューム
+volume,量
 volunteers,ボランティア
 vpath,vpath
 VPATH,VPATH
@@ -4390,16 +4409,19 @@ WAL segment file,WALセグメントファイル
 WAL segment size,WALセグメントサイズ
 warm standby,ウォームスタンバイ
 warning,ワーニング
+warning,警告
 weak,weak
-weak,弱めの
+weak,弱い
 Web,ウェブ
 web pages,ウェブページ
+web server,Webサーバ
 web server,ウェブサーバ
+website,Webサイト
 website,ウェブサイト
 Web Site,Webサイト
 weight,重み
 well-formed,整形式
-white space,空白文字
+white space,空白
 wiki,wiki
 wildcard,ワイルドカード
 wildcard member accessor,ワイルドカードメンバアクセサ
@@ -4409,33 +4431,42 @@ window function,ウィンドウ関数
 window function call,ウィンドウ関数呼び出し
 window functions,ウィンドウ関数
 Windows,Windows
+wired,
 wired,ワイアード
 witness server,witnessサーバ
 word,ワード
+word,単語
 work around,ワークアラウンド
 worker,ワーカー
+worker,作業用
 worker process,ワーカープロセス
 worker slot,ワーカースロット
 worker threads,ワーカースレッド
 working table,ワーキング・テーブル
 working table,作業テーブル
 workload,ワークロード
+workload,負荷
 workstation,ワークステーション
 wrap,ラップ
 wrap around,ラップアラウンド
+wrap around,周回
+wraparound,ラップアラウンド
 wraparound,周回
 wrapper,ラッパー
 wrapper option,ラッパーオプション
 wrapper program,ラッパープログラム
 wrapping,ラッピング
+wrapping,囲まれ
 write ahead log,先行書き込みログ
 write-ahead log,ログ先行書き込み
 write-ahead log,先行書き込みログ
 write-ahead logging,ログ先行書き込み
 write-back,write-back
+write-back,書き戻し
 writeback,ライトバック
 write cache,書き込みキャッシュ
 writer,ライタ
+writer,書かれた
 writer process,ライタプロセス
 write-through,write-through
 write-through,ライトスルー
@@ -4452,3 +4483,4 @@ zero bytes,ゼロバイト
 zero mask,ゼロマスク
 zero octet,ゼロオクテット
 zone,ゾーン
+zone,帯
